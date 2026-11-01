@@ -130,6 +130,31 @@ def process_card_image(en_name: str) -> str | None:
         return None
 
 
+def process_bigcard_image(en_name: str, suffix: str) -> str | None:
+    """卡牌详情大图（500x624 竖版，含升级后 _UPGRADE），转 WebP(宽<=420)。"""
+    try:
+        from PIL import Image
+    except ImportError:
+        return None
+    fname = en_name + suffix
+    out = IMG_DIR / "bigcard" / f"{fname}.webp"
+    if out.exists():
+        return f"assets/img/bigcard/{fname}.webp"
+    raw = fetch_bytes(f"{IMG_BASE}/bigCard/{urllib.parse.quote(fname)}.png")
+    if not raw:
+        return None
+    try:
+        im = Image.open(io.BytesIO(raw)).convert("RGBA")
+        if im.width > 420:
+            im = im.resize((420, round(im.height * 420 / im.width)), Image.LANCZOS)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        im.save(out, "WEBP", quality=80, method=6)
+        return f"assets/img/bigcard/{fname}.webp"
+    except Exception as e:  # noqa: BLE001
+        print(f"  [warn] bigcard image failed {fname}: {e}", file=sys.stderr)
+        return None
+
+
 def process_simple_image(sub: str, en_name: str) -> str | None:
     # 源站个别 enName 带空格（如遗物 HEFTY _TABLET）：请求时须 URL 编码，
     # 本地存档则去掉空格用干净文件名。
@@ -204,6 +229,24 @@ def main():
                     ok += 1
         print(f"  card images ok {ok}/{len(cards)}")
 
+        print("[images] bigcard (detail, incl. upgrade) ...")
+        ok = 0
+        with ThreadPoolExecutor(max_workers=12) as ex:
+            futs = {}
+            for c in cards:
+                if not c.get("enName"):
+                    continue
+                futs[ex.submit(process_bigcard_image, c["enName"], "")] = (c, "imageBig")
+                if c.get("levelUp") == 1:
+                    futs[ex.submit(process_bigcard_image, c["enName"], "_UPGRADE")] = (c, "imageBigUpgrade")
+            for fut in as_completed(futs):
+                c, key = futs[fut]
+                p = fut.result()
+                c[key] = p
+                if key == "imageBig" and p:
+                    ok += 1
+        print(f"  bigcard images ok {ok}/{len(cards)}")
+
         print("[images] relics ...")
         ok = 0
         relics = dataset["relics"]
@@ -231,16 +274,24 @@ def main():
                 ok += 1
         print(f"  character icons ok {ok}/{len(CHARACTER_ICONS)}")
 
-        print("[images] bosses ...")
+        print("[images] enemies (boss/ 目录含部分非 Boss 的专属图，全量尝试) ...")
         ok = tot = 0
         for e in dataset["enemies"]:
-            if e.get("enemyType") == "Boss" and e.get("enName"):
+            if e.get("enName"):
                 tot += 1
                 p = process_simple_image("boss", e["enName"])
                 e["imageLocal"] = p
                 if p:
                     ok += 1
-        print(f"  boss images ok {ok}/{tot}")
+        print(f"  enemy images ok {ok}/{tot}")
+        # 无专属图的敌人由前端按类型用通用图兜底（源站 ordinary/elite 图标）
+        for name in ("ordinary", "elite"):
+            out = IMG_DIR / "enemy_type" / f"{name}.png"
+            if not out.exists():
+                raw = fetch_bytes(f"{IMG_BASE}/{name}.png")
+                if raw:
+                    out.parent.mkdir(parents=True, exist_ok=True)
+                    out.write_bytes(raw)
 
         # 图片路径写回 data/*.json
         for en_type, items in dataset.items():

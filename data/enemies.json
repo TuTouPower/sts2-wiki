@@ -759,7 +759,8 @@
   "link": "kin-follower",
   "id": 16,
   "type": "爪牙",
-  "power": "爪牙-爪牙会在他们的领导者死亡时放弃战斗。"
+  "power": "爪牙-爪牙会在他们的领导者死亡时放弃战斗。",
+  "imageLocal": "assets/img/boss/KIN_FOLLOWER.png"
  },
  {
   "enemyId": 591884,

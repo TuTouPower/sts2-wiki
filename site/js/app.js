@@ -166,6 +166,14 @@ function statBar(label, value, danger) {
   return `<div class="stat-row"><div class="stat-head"><span>${label}</span><b>${pct(value)}</b></div>` +
     `<div class="bar ${danger ? 'danger' : ''}"><i style="width:${v == null ? 0 : Math.min(100, Math.max(0, v))}%"></i></div></div>`;
 }
+/* 敌人：有专属图的用专属图，没有的按源站口径用类型通用图（普通/精英）兜底 */
+function withEnemyImg(e) {
+  if (e.imageLocal) return e;
+  const icon = e.enemyType === '精英'
+    ? 'assets/img/enemy_type/elite.png' : 'assets/img/enemy_type/ordinary.png';
+  return { ...e, imageLocal: icon };
+}
+
 function imgOrPh(item, kind) {
   if (item.imageLocal) {
     return `<div class="tile-img ${kind}"><img loading="lazy" src="${esc(item.imageLocal)}" alt="${esc(item.zhName)}"></div>`;
@@ -212,7 +220,7 @@ const tileRender = {
       : statBar('玩家胜率', e.avgWinRate, hard);
     return `<button class="tile" type="button" data-open="enemies" data-en="${esc(e.enName)}">
       <span class="tile-idx">${i + 1}</span>
-      ${imgOrPh(e, 'boss')}
+      ${imgOrPh(withEnemyImg(e), 'boss')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(e.zhName)}</span><br><span class="tile-en">${esc(e.enName)}</span></span>
         ${badges([!f.enemyType && e.enemyType && { text: e.enemyType }, e.blood && { text: `HP ${e.blood}` }])}
@@ -225,8 +233,13 @@ function renderCharacters(list) {
   const wrap = $('#charWrap');
   wrap.innerHTML = list.map((c) => `
     <div class="char-card">
-      <h3>${esc(c.zhName)}</h3>
-      <div class="tile-en">${esc((c.enName || '').replace('CHARACTER.', ''))}</div>
+      <div class="char-head">
+        ${TYPE_ICONS[c.zhName] ? `<img class="char-avatar" src="${esc(TYPE_ICONS[c.zhName])}" alt="${esc(c.zhName)}">` : ''}
+        <div>
+          <h3>${esc(c.zhName)}</h3>
+          <div class="tile-en">${esc((c.enName || '').replace('CHARACTER.', ''))}</div>
+        </div>
+      </div>
       ${statBar('胜率', c.winRate)}
       <div style="height:8px"></div>
       ${statBar('选取率', c.pickRate)}
@@ -291,17 +304,40 @@ function detailImg(item, kind) {
   return `<div class="detail-img ${kind}"><span class="tile-ph">${esc((item.zhName || '?').slice(0, 1))}</span></div>`;
 }
 
+/* 在给定集合内按某指标算名次（值越大名次越靠前；并列同名次） */
+function rankIn(list, item, key) {
+  const v = cRate(item, key);
+  if (v == null) return null;
+  let r = 1;
+  for (const x of list) {
+    const xv = cRate(x, key);
+    if (xv != null && xv > v) r++;
+  }
+  return r;
+}
+
 const detailRender = {
-  cards(c) {
+  cards(c, list) {
+    const scope = Array.isArray(list) && list.length ? list : DATA.cards;
     const stats = [
-      statCell('胜率', pct(cRate(c, 'winRate')), c.winRateRank),
-      statCell('选取率', pct(cRate(c, 'pickRate')), c.pickRateRank),
-      statCell('跳过率', pct(cRate(c, 'skipRate')), c.skipRateRank),
-      statCell('升级率', pct(c.upgradeRate), c.upgradeRateRank),
+      statCell('胜率', pct(cRate(c, 'winRate')), rankIn(scope, c, 'winRate')),
+      statCell('选取率', pct(cRate(c, 'pickRate')), rankIn(scope, c, 'pickRate')),
+      statCell('跳过率', pct(cRate(c, 'skipRate')), rankIn(scope, c, 'skipRate')),
+      statCell('升级率', pct(c.upgradeRate), rankIn(scope, c, 'upgradeRate')),
     ];
     if (num(c.usageCount)) stats.push(statCell('样本对局', String(c.usageCount)));
+    /* 左列：详情大图（竖版整卡图）贴合显示，下方可切换普通/升级后；无大图时回落列表图 */
+    const leftCol = c.imageBig
+      ? `<div class="detail-left">
+           <div class="detail-img bigcard"><img id="bigCardImg" src="${esc(c.imageBig)}" alt="${esc(c.zhName)}"></div>
+           ${c.imageBigUpgrade ? `<div class="img-toggle">
+             <button type="button" class="toggle-btn active" data-big="${esc(c.imageBig)}">普通</button>
+             <button type="button" class="toggle-btn" data-big="${esc(c.imageBigUpgrade)}">升级后</button>
+           </div>` : ''}
+         </div>`
+      : detailImg(c, 'card');
     return `<div class="detail">
-      ${detailImg(c, 'card')}
+      ${leftCol}
       <div>
         <h2>${esc(c.zhName)}</h2><div class="tile-en">${esc(c.enName)}</div>
         ${badges([rarBadge(c.rarity), c.category && { text: c.category }, c.type && { text: c.type },
@@ -310,7 +346,7 @@ const detailRender = {
                   c.buildType && { text: `流派 ${c.buildType}` }, c.mechanism && { text: c.mechanism }])}
         <h4>效果</h4><div class="detail-desc">${esc(c.description || '（暂无）')}</div>
         ${c.upgradeDescription ? `<h4>升级后</h4><div class="detail-desc up">${esc(c.upgradeDescription)}</div>` : ''}
-        <h4>实战统计</h4><div class="stat-grid">${stats.join('')}</div>
+        <h4>实战统计（当前筛选 ${scope.length} 张内排名）</h4><div class="stat-grid">${stats.join('')}</div>
       </div></div>`;
   },
   relics(r) {
@@ -327,7 +363,7 @@ const detailRender = {
     if (num(e.totalFights)) stats.push(statCell('交战次数', String(e.totalFights)));
     if (e.blood) stats.push(statCell('生命值', e.blood));
     return `<div class="detail">
-      ${detailImg(e, 'boss')}
+      ${detailImg(withEnemyImg(e), 'boss')}
       <div>
         <h2>${esc(e.zhName)}</h2><div class="tile-en">${esc(e.enName)}</div>
         ${badges([e.enemyType && { text: e.enemyType }])}
@@ -338,12 +374,25 @@ const detailRender = {
   },
 };
 
+/* 详情弹窗内：普通/升级后大图切换 */
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-big]');
+  if (!btn) return;
+  const img = $('#bigCardImg');
+  if (img) img.src = btn.dataset.big;
+  btn.parentElement.querySelectorAll('.toggle-btn').forEach((b) =>
+    b.classList.toggle('active', b === btn));
+});
+
 document.addEventListener('click', (e) => {
   const el = e.target.closest('[data-open]');
   if (!el) return;
   const kind = el.dataset.open;
   const item = TAB_CONF[kind].items().find((x) => x.enName === el.dataset.en);
-  if (item) openModal(detailRender[kind](item));
+  if (!item) return;
+  /* 卡牌详情的排名按当前筛选结果集计算，其余类型维持原样 */
+  if (kind === 'cards') openModal(detailRender.cards(item, currentList()));
+  else openModal(detailRender[kind](item));
 });
 
 /* ---------- 搜索 & 标签 ---------- */

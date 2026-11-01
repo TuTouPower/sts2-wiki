@@ -30,7 +30,9 @@
   "pickRate": 42.08,
   "skipRate": 57.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ABRASIVE.webp"
+  "imageLocal": "assets/img/card/ABRASIVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ABRASIVE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ABRASIVE.webp"
  },
  {
   "cardEnName": "ACCELERANT",
@@ -63,7 +65,9 @@
   "pickRate": 31.12,
   "skipRate": 68.88,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ACCELERANT.webp"
+  "imageLocal": "assets/img/card/ACCELERANT.webp",
+  "imageBig": "assets/img/bigcard/ACCELERANT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ACCELERANT_UPGRADE.webp"
  },
  {
   "cardEnName": "ACCURACY",
@@ -96,7 +100,9 @@
   "pickRate": 25.93,
   "skipRate": 74.07,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ACCURACY.webp"
+  "imageLocal": "assets/img/card/ACCURACY.webp",
+  "imageBig": "assets/img/bigcard/ACCURACY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ACCURACY_UPGRADE.webp"
  },
  {
   "cardEnName": "ACROBATICS",
@@ -129,7 +135,9 @@
   "pickRate": 59.77,
   "skipRate": 40.23,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ACROBATICS.webp"
+  "imageLocal": "assets/img/card/ACROBATICS.webp",
+  "imageBig": "assets/img/bigcard/ACROBATICS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ACROBATICS_UPGRADE.webp"
  },
  {
   "cardEnName": "ADAPTIVE_STRIKE",
@@ -162,7 +170,9 @@
   "pickRate": 13.67,
   "skipRate": 86.33,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ADAPTIVE_STRIKE.webp"
+  "imageLocal": "assets/img/card/ADAPTIVE_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ADAPTIVE_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ADAPTIVE_STRIKE.webp"
  },
  {
   "cardEnName": "ADRENALINE",
@@ -195,7 +205,9 @@
   "pickRate": 74.7,
   "skipRate": 25.3,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ADRENALINE.webp"
+  "imageLocal": "assets/img/card/ADRENALINE.webp",
+  "imageBig": "assets/img/bigcard/ADRENALINE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ADRENALINE_UPGRADE.webp"
  },
  {
   "cardEnName": "AFTERIMAGE",
@@ -228,7 +240,9 @@
   "pickRate": 58.47,
   "skipRate": 41.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/AFTERIMAGE.webp"
+  "imageLocal": "assets/img/card/AFTERIMAGE.webp",
+  "imageBig": "assets/img/bigcard/AFTERIMAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/AFTERIMAGE_UPGRADE.webp"
  },
  {
   "cardEnName": "AFTERLIFE",
@@ -261,7 +275,9 @@
   "pickRate": 9.14,
   "skipRate": 90.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/AFTERLIFE.webp"
+  "imageLocal": "assets/img/card/AFTERLIFE.webp",
+  "imageBig": "assets/img/bigcard/AFTERLIFE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/AFTERLIFE_UPGRADE.webp"
  },
  {
   "cardEnName": "AGGRESSION",
@@ -294,7 +310,9 @@
   "pickRate": 23.89,
   "skipRate": 76.11,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/AGGRESSION.webp"
+  "imageLocal": "assets/img/card/AGGRESSION.webp",
+  "imageBig": "assets/img/bigcard/AGGRESSION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/AGGRESSION_UPGRADE.webp"
  },
  {
   "cardEnName": "ALCHEMIZE",
@@ -327,7 +345,9 @@
   "pickRate": 0.75,
   "skipRate": 99.25,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ALCHEMIZE.webp"
+  "imageLocal": "assets/img/card/ALCHEMIZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ALCHEMIZE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ALCHEMIZE.webp"
  },
  {
   "cardEnName": "ALIGNMENT",
@@ -360,7 +380,9 @@
   "pickRate": 47.0,
   "skipRate": 53.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ALIGNMENT.webp"
+  "imageLocal": "assets/img/card/ALIGNMENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ALIGNMENT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ALIGNMENT.webp"
  },
  {
   "cardEnName": "ALL_FOR_ONE",
@@ -393,7 +415,9 @@
   "pickRate": 39.16,
   "skipRate": 60.84,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ALL_FOR_ONE.webp"
+  "imageLocal": "assets/img/card/ALL_FOR_ONE.webp",
+  "imageBig": "assets/img/bigcard/ALL_FOR_ONE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ALL_FOR_ONE_UPGRADE.webp"
  },
  {
   "cardEnName": "ANGER",
@@ -426,7 +450,9 @@
   "pickRate": 13.19,
   "skipRate": 86.81,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ANGER.webp"
+  "imageLocal": "assets/img/card/ANGER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ANGER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ANGER.webp"
  },
  {
   "cardEnName": "ANOINTED",
@@ -459,7 +485,9 @@
   "pickRate": 0.23,
   "skipRate": 99.77,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ANOINTED.webp"
+  "imageLocal": "assets/img/card/ANOINTED.webp",
+  "imageBig": "assets/img/bigcard/ANOINTED.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ANOINTED_UPGRADE.webp"
  },
  {
   "cardEnName": "ANTICIPATE",
@@ -492,7 +520,9 @@
   "pickRate": 16.27,
   "skipRate": 83.73,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ANTICIPATE.webp"
+  "imageLocal": "assets/img/card/ANTICIPATE.webp",
+  "imageBig": "assets/img/bigcard/ANTICIPATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ANTICIPATE_UPGRADE.webp"
  },
  {
   "cardEnName": "APOTHEOSIS",
@@ -525,7 +555,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/APOTHEOSIS.webp"
+  "imageLocal": "assets/img/card/APOTHEOSIS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/APOTHEOSIS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/APOTHEOSIS.webp"
  },
  {
   "cardEnName": "APPARITION",
@@ -558,7 +590,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/APPARITION.webp"
+  "imageLocal": "assets/img/card/APPARITION.webp",
+  "imageBig": "assets/img/bigcard/APPARITION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/APPARITION_UPGRADE.webp"
  },
  {
   "cardEnName": "ARMAMENTS",
@@ -591,7 +625,9 @@
   "pickRate": 20.2,
   "skipRate": 79.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ARMAMENTS.webp"
+  "imageLocal": "assets/img/card/ARMAMENTS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ARMAMENTS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ARMAMENTS.webp"
  },
  {
   "cardEnName": "ARSENAL",
@@ -624,7 +660,9 @@
   "pickRate": 33.65,
   "skipRate": 66.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ARSENAL.webp"
+  "imageLocal": "assets/img/card/ARSENAL.webp",
+  "imageBig": "assets/img/bigcard/ARSENAL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ARSENAL_UPGRADE.webp"
  },
  {
   "cardEnName": "ASCENDERS_BANE",
@@ -656,7 +694,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/ASCENDERS_BANE.webp"
+  "imageLocal": "assets/img/card/ASCENDERS_BANE.webp",
+  "imageBig": "assets/img/bigcard/ASCENDERS_BANE.webp"
  },
  {
   "cardEnName": "ASHEN_STRIKE",
@@ -689,7 +728,9 @@
   "pickRate": 26.05,
   "skipRate": 73.95,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ASHEN_STRIKE.webp"
+  "imageLocal": "assets/img/card/ASHEN_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/ASHEN_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ASHEN_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "ASSASSINATE",
@@ -722,7 +763,9 @@
   "pickRate": 23.82,
   "skipRate": 76.18,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ASSASSINATE.webp"
+  "imageLocal": "assets/img/card/ASSASSINATE.webp",
+  "imageBig": "assets/img/bigcard/ASSASSINATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ASSASSINATE_UPGRADE.webp"
  },
  {
   "cardEnName": "ASTRAL_PULSE",
@@ -755,7 +798,9 @@
   "pickRate": 10.47,
   "skipRate": 89.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ASTRAL_PULSE.webp"
+  "imageLocal": "assets/img/card/ASTRAL_PULSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ASTRAL_PULSE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ASTRAL_PULSE.webp"
  },
  {
   "cardEnName": "AUTOMATION",
@@ -788,7 +833,9 @@
   "pickRate": 8.86,
   "skipRate": 91.14,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/AUTOMATION.webp"
+  "imageLocal": "assets/img/card/AUTOMATION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/AUTOMATION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/AUTOMATION.webp"
  },
  {
   "cardEnName": "BACKFLIP",
@@ -821,7 +868,9 @@
   "pickRate": 34.44,
   "skipRate": 65.56,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BACKFLIP.webp"
+  "imageLocal": "assets/img/card/BACKFLIP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BACKFLIP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BACKFLIP.webp"
  },
  {
   "cardEnName": "BACKSTAB",
@@ -854,7 +903,9 @@
   "pickRate": 17.91,
   "skipRate": 82.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BACKSTAB.webp"
+  "imageLocal": "assets/img/card/BACKSTAB.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BACKSTAB_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BACKSTAB.webp"
  },
  {
   "cardEnName": "BAD_LUCK",
@@ -886,7 +937,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/BAD_LUCK.webp"
+  "imageLocal": "assets/img/card/BAD_LUCK.webp",
+  "imageBig": "assets/img/bigcard/BAD_LUCK.webp"
  },
  {
   "cardEnName": "BALL_LIGHTNING",
@@ -919,7 +971,9 @@
   "pickRate": 13.34,
   "skipRate": 86.66,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BALL_LIGHTNING.webp"
+  "imageLocal": "assets/img/card/BALL_LIGHTNING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BALL_LIGHTNING_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BALL_LIGHTNING.webp"
  },
  {
   "cardEnName": "BANSHEES_CRY",
@@ -952,7 +1006,9 @@
   "pickRate": 28.68,
   "skipRate": 71.32,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BANSHEES_CRY.webp"
+  "imageLocal": "assets/img/card/BANSHEES_CRY.webp",
+  "imageBig": "assets/img/bigcard/BANSHEES_CRY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BANSHEES_CRY_UPGRADE.webp"
  },
  {
   "cardEnName": "BARRAGE",
@@ -985,7 +1041,9 @@
   "pickRate": 4.08,
   "skipRate": 95.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BARRAGE.webp"
+  "imageLocal": "assets/img/card/BARRAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BARRAGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BARRAGE.webp"
  },
  {
   "cardEnName": "BARRICADE",
@@ -1018,7 +1076,9 @@
   "pickRate": 29.05,
   "skipRate": 70.95,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BARRICADE.webp"
+  "imageLocal": "assets/img/card/BARRICADE.webp",
+  "imageBig": "assets/img/bigcard/BARRICADE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BARRICADE_UPGRADE.webp"
  },
  {
   "cardEnName": "BASH",
@@ -1051,7 +1111,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BASH.webp"
+  "imageLocal": "assets/img/card/BASH.webp",
+  "imageBig": "assets/img/bigcard/BASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BASH_UPGRADE.webp"
  },
  {
   "cardEnName": "BATTLE_TRANCE",
@@ -1084,7 +1146,9 @@
   "pickRate": 44.35,
   "skipRate": 55.65,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BATTLE_TRANCE.webp"
+  "imageLocal": "assets/img/card/BATTLE_TRANCE.webp",
+  "imageBig": "assets/img/bigcard/BATTLE_TRANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BATTLE_TRANCE_UPGRADE.webp"
  },
  {
   "cardEnName": "BEACON_OF_HOPE",
@@ -1117,7 +1181,9 @@
   "pickRate": 6.44,
   "skipRate": 93.56,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BEACON_OF_HOPE.webp"
+  "imageLocal": "assets/img/card/BEACON_OF_HOPE.webp",
+  "imageBig": "assets/img/bigcard/BEACON_OF_HOPE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BEACON_OF_HOPE_UPGRADE.webp"
  },
  {
   "cardEnName": "BEAM_CELL",
@@ -1150,7 +1216,9 @@
   "pickRate": 10.21,
   "skipRate": 89.79,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BEAM_CELL.webp"
+  "imageLocal": "assets/img/card/BEAM_CELL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BEAM_CELL_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BEAM_CELL.webp"
  },
  {
   "cardEnName": "BEAT_DOWN",
@@ -1183,7 +1251,9 @@
   "pickRate": 0.21,
   "skipRate": 99.79,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BEAT_DOWN.webp"
+  "imageLocal": "assets/img/card/BEAT_DOWN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BEAT_DOWN_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BEAT_DOWN.webp"
  },
  {
   "cardEnName": "BEAT_INTO_SHAPE",
@@ -1216,7 +1286,9 @@
   "pickRate": 18.6,
   "skipRate": 81.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BEAT_INTO_SHAPE.webp"
+  "imageLocal": "assets/img/card/BEAT_INTO_SHAPE.webp",
+  "imageBig": "assets/img/bigcard/BEAT_INTO_SHAPE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BEAT_INTO_SHAPE_UPGRADE.webp"
  },
  {
   "cardEnName": "BECKON",
@@ -1248,7 +1320,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/BECKON.webp"
+  "imageLocal": "assets/img/card/BECKON.webp",
+  "imageBig": "assets/img/bigcard/BECKON.webp"
  },
  {
   "cardEnName": "BEGONE",
@@ -1281,7 +1354,9 @@
   "pickRate": 16.4,
   "skipRate": 83.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BEGONE.webp"
+  "imageLocal": "assets/img/card/BEGONE.webp",
+  "imageBig": "assets/img/bigcard/BEGONE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BEGONE_UPGRADE.webp"
  },
  {
   "cardEnName": "BELIEVE_IN_YOU",
@@ -1314,7 +1389,9 @@
   "pickRate": 13.7,
   "skipRate": 86.3,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BELIEVE_IN_YOU.webp"
+  "imageLocal": "assets/img/card/BELIEVE_IN_YOU.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BELIEVE_IN_YOU_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BELIEVE_IN_YOU.webp"
  },
  {
   "cardEnName": "BIASED_COGNITION",
@@ -1347,7 +1424,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BIASED_COGNITION.webp"
+  "imageLocal": "assets/img/card/BIASED_COGNITION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BIASED_COGNITION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BIASED_COGNITION.webp"
  },
  {
   "cardEnName": "BIG_BANG",
@@ -1380,7 +1459,9 @@
   "pickRate": 69.76,
   "skipRate": 30.24,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BIG_BANG.webp"
+  "imageLocal": "assets/img/card/BIG_BANG.webp",
+  "imageBig": "assets/img/bigcard/BIG_BANG.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BIG_BANG_UPGRADE.webp"
  },
  {
   "cardEnName": "BLACK_HOLE",
@@ -1413,7 +1494,9 @@
   "pickRate": 18.9,
   "skipRate": 81.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLACK_HOLE.webp"
+  "imageLocal": "assets/img/card/BLACK_HOLE.webp",
+  "imageBig": "assets/img/bigcard/BLACK_HOLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLACK_HOLE_UPGRADE.webp"
  },
  {
   "cardEnName": "BLADE_DANCE",
@@ -1446,7 +1529,9 @@
   "pickRate": 20.01,
   "skipRate": 79.99,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLADE_DANCE.webp"
+  "imageLocal": "assets/img/card/BLADE_DANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLADE_DANCE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BLADE_DANCE.webp"
  },
  {
   "cardEnName": "BLADE_OF_INK",
@@ -1479,7 +1564,9 @@
   "pickRate": 29.83,
   "skipRate": 70.17,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLADE_OF_INK.webp"
+  "imageLocal": "assets/img/card/BLADE_OF_INK.webp",
+  "imageBig": "assets/img/bigcard/BLADE_OF_INK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLADE_OF_INK_UPGRADE.webp"
  },
  {
   "cardEnName": "BLIGHT_STRIKE",
@@ -1512,7 +1599,9 @@
   "pickRate": 5.54,
   "skipRate": 94.46,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLIGHT_STRIKE.webp"
+  "imageLocal": "assets/img/card/BLIGHT_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLIGHT_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BLIGHT_STRIKE.webp"
  },
  {
   "cardEnName": "BLOODLETTING",
@@ -1545,7 +1634,9 @@
   "pickRate": 38.25,
   "skipRate": 61.75,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLOODLETTING.webp"
+  "imageLocal": "assets/img/card/BLOODLETTING.webp",
+  "imageBig": "assets/img/bigcard/BLOODLETTING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLOODLETTING_UPGRADE.webp"
  },
  {
   "cardEnName": "BLOOD_WALL",
@@ -1578,7 +1669,9 @@
   "pickRate": 10.61,
   "skipRate": 89.39,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLOOD_WALL.webp"
+  "imageLocal": "assets/img/card/BLOOD_WALL.webp",
+  "imageBig": "assets/img/bigcard/BLOOD_WALL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLOOD_WALL_UPGRADE.webp"
  },
  {
   "cardEnName": "BLUDGEON",
@@ -1611,7 +1704,9 @@
   "pickRate": 11.73,
   "skipRate": 88.27,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLUDGEON.webp"
+  "imageLocal": "assets/img/card/BLUDGEON.webp",
+  "imageBig": "assets/img/bigcard/BLUDGEON.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLUDGEON_UPGRADE.webp"
  },
  {
   "cardEnName": "BLUR",
@@ -1644,7 +1739,9 @@
   "pickRate": 24.37,
   "skipRate": 75.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BLUR.webp"
+  "imageLocal": "assets/img/card/BLUR.webp",
+  "imageBig": "assets/img/bigcard/BLUR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BLUR_UPGRADE.webp"
  },
  {
   "cardEnName": "BODYGUARD",
@@ -1677,7 +1774,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BODYGUARD.webp"
+  "imageLocal": "assets/img/card/BODYGUARD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BODYGUARD_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BODYGUARD.webp"
  },
  {
   "cardEnName": "BODY_SLAM",
@@ -1710,7 +1809,9 @@
   "pickRate": 12.29,
   "skipRate": 87.71,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BODY_SLAM.webp"
+  "imageLocal": "assets/img/card/BODY_SLAM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BODY_SLAM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BODY_SLAM.webp"
  },
  {
   "cardEnName": "BOLAS",
@@ -1743,7 +1844,9 @@
   "pickRate": 0.27,
   "skipRate": 99.73,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BOLAS.webp"
+  "imageLocal": "assets/img/card/BOLAS.webp",
+  "imageBig": "assets/img/bigcard/BOLAS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BOLAS_UPGRADE.webp"
  },
  {
   "cardEnName": "BOMBARDMENT",
@@ -1776,7 +1879,9 @@
   "pickRate": 17.77,
   "skipRate": 82.23,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BOMBARDMENT.webp"
+  "imageLocal": "assets/img/card/BOMBARDMENT.webp",
+  "imageBig": "assets/img/bigcard/BOMBARDMENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BOMBARDMENT_UPGRADE.webp"
  },
  {
   "cardEnName": "BONE_SHARDS",
@@ -1809,7 +1914,9 @@
   "pickRate": 16.64,
   "skipRate": 83.36,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BONE_SHARDS.webp"
+  "imageLocal": "assets/img/card/BONE_SHARDS.webp",
+  "imageBig": "assets/img/bigcard/BONE_SHARDS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BONE_SHARDS_UPGRADE.webp"
  },
  {
   "cardEnName": "BOOST_AWAY",
@@ -1842,7 +1949,9 @@
   "pickRate": 18.42,
   "skipRate": 81.58,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BOOST_AWAY.webp"
+  "imageLocal": "assets/img/card/BOOST_AWAY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BOOST_AWAY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BOOST_AWAY.webp"
  },
  {
   "cardEnName": "BOOT_SEQUENCE",
@@ -1875,7 +1984,9 @@
   "pickRate": 35.46,
   "skipRate": 64.54,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BOOT_SEQUENCE.webp"
+  "imageLocal": "assets/img/card/BOOT_SEQUENCE.webp",
+  "imageBig": "assets/img/bigcard/BOOT_SEQUENCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BOOT_SEQUENCE_UPGRADE.webp"
  },
  {
   "cardEnName": "BORROWED_TIME",
@@ -1908,7 +2019,9 @@
   "pickRate": 56.02,
   "skipRate": 43.98,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BORROWED_TIME.webp"
+  "imageLocal": "assets/img/card/BORROWED_TIME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BORROWED_TIME_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BORROWED_TIME.webp"
  },
  {
   "cardEnName": "BOUNCING_FLASK",
@@ -1941,7 +2054,9 @@
   "pickRate": 12.81,
   "skipRate": 87.19,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BOUNCING_FLASK.webp"
+  "imageLocal": "assets/img/card/BOUNCING_FLASK.webp",
+  "imageBig": "assets/img/bigcard/BOUNCING_FLASK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BOUNCING_FLASK_UPGRADE.webp"
  },
  {
   "cardEnName": "BRAND",
@@ -1974,7 +2089,9 @@
   "pickRate": 42.79,
   "skipRate": 57.21,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BRAND.webp"
+  "imageLocal": "assets/img/card/BRAND.webp",
+  "imageBig": "assets/img/bigcard/BRAND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BRAND_UPGRADE.webp"
  },
  {
   "cardEnName": "BREAK",
@@ -2007,7 +2124,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BREAK.webp"
+  "imageLocal": "assets/img/card/BREAK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BREAK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BREAK.webp"
  },
  {
   "cardEnName": "BREAKTHROUGH",
@@ -2040,7 +2159,9 @@
   "pickRate": 14.26,
   "skipRate": 85.74,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BREAKTHROUGH.webp"
+  "imageLocal": "assets/img/card/BREAKTHROUGH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BREAKTHROUGH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BREAKTHROUGH.webp"
  },
  {
   "cardEnName": "BRIGHTEST_FLAME",
@@ -2073,7 +2194,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BRIGHTEST_FLAME.webp"
+  "imageLocal": "assets/img/card/BRIGHTEST_FLAME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BRIGHTEST_FLAME_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BRIGHTEST_FLAME.webp"
  },
  {
   "cardEnName": "BUBBLE_BUBBLE",
@@ -2106,7 +2229,9 @@
   "pickRate": 22.51,
   "skipRate": 77.49,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BUBBLE_BUBBLE.webp"
+  "imageLocal": "assets/img/card/BUBBLE_BUBBLE.webp",
+  "imageBig": "assets/img/bigcard/BUBBLE_BUBBLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BUBBLE_BUBBLE_UPGRADE.webp"
  },
  {
   "cardEnName": "BUFFER",
@@ -2139,7 +2264,9 @@
   "pickRate": 30.82,
   "skipRate": 69.18,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BUFFER.webp"
+  "imageLocal": "assets/img/card/BUFFER.webp",
+  "imageBig": "assets/img/bigcard/BUFFER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BUFFER_UPGRADE.webp"
  },
  {
   "cardEnName": "BULK_UP",
@@ -2172,7 +2299,9 @@
   "pickRate": 12.65,
   "skipRate": 87.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BULK_UP.webp"
+  "imageLocal": "assets/img/card/BULK_UP.webp",
+  "imageBig": "assets/img/bigcard/BULK_UP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BULK_UP_UPGRADE.webp"
  },
  {
   "cardEnName": "BULLET_TIME",
@@ -2205,7 +2334,9 @@
   "pickRate": 18.98,
   "skipRate": 81.02,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BULLET_TIME.webp"
+  "imageLocal": "assets/img/card/BULLET_TIME.webp",
+  "imageBig": "assets/img/bigcard/BULLET_TIME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BULLET_TIME_UPGRADE.webp"
  },
  {
   "cardEnName": "BULLY",
@@ -2238,7 +2369,9 @@
   "pickRate": 15.58,
   "skipRate": 84.42,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BULLY.webp"
+  "imageLocal": "assets/img/card/BULLY.webp",
+  "imageBig": "assets/img/bigcard/BULLY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BULLY_UPGRADE.webp"
  },
  {
   "cardEnName": "BULWARK",
@@ -2271,7 +2404,9 @@
   "pickRate": 39.07,
   "skipRate": 60.93,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BULWARK.webp"
+  "imageLocal": "assets/img/card/BULWARK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BULWARK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BULWARK.webp"
  },
  {
   "cardEnName": "BUNDLE_OF_JOY",
@@ -2304,7 +2439,9 @@
   "pickRate": 15.21,
   "skipRate": 84.79,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BUNDLE_OF_JOY.webp"
+  "imageLocal": "assets/img/card/BUNDLE_OF_JOY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BUNDLE_OF_JOY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BUNDLE_OF_JOY.webp"
  },
  {
   "cardEnName": "BURN",
@@ -2336,7 +2473,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/BURN.webp"
+  "imageLocal": "assets/img/card/BURN.webp",
+  "imageBig": "assets/img/bigcard/BURN.webp"
  },
  {
   "cardEnName": "BURNING_PACT",
@@ -2369,7 +2507,9 @@
   "pickRate": 50.63,
   "skipRate": 49.37,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BURNING_PACT.webp"
+  "imageLocal": "assets/img/card/BURNING_PACT.webp",
+  "imageBig": "assets/img/bigcard/BURNING_PACT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BURNING_PACT_UPGRADE.webp"
  },
  {
   "cardEnName": "BURST",
@@ -2402,7 +2542,9 @@
   "pickRate": 30.35,
   "skipRate": 69.65,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BURST.webp"
+  "imageLocal": "assets/img/card/BURST.webp",
+  "imageBig": "assets/img/bigcard/BURST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BURST_UPGRADE.webp"
  },
  {
   "cardEnName": "BURY",
@@ -2435,7 +2577,9 @@
   "pickRate": 6.09,
   "skipRate": 93.91,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BURY.webp"
+  "imageLocal": "assets/img/card/BURY.webp",
+  "imageBig": "assets/img/bigcard/BURY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BURY_UPGRADE.webp"
  },
  {
   "cardEnName": "BYRDONIS_EGG",
@@ -2467,7 +2611,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/BYRDONIS_EGG.webp"
+  "imageLocal": "assets/img/card/BYRDONIS_EGG.webp",
+  "imageBig": "assets/img/bigcard/BYRDONIS_EGG.webp"
  },
  {
   "cardEnName": "BYRD_SWOOP",
@@ -2500,7 +2645,9 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/BYRD_SWOOP.webp"
+  "imageLocal": "assets/img/card/BYRD_SWOOP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/BYRD_SWOOP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/BYRD_SWOOP.webp"
  },
  {
   "cardEnName": "CALAMITY",
@@ -2533,7 +2680,9 @@
   "pickRate": 0.22,
   "skipRate": 99.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CALAMITY.webp"
+  "imageLocal": "assets/img/card/CALAMITY.webp",
+  "imageBig": "assets/img/bigcard/CALAMITY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CALAMITY_UPGRADE.webp"
  },
  {
   "cardEnName": "CALCIFY",
@@ -2566,7 +2715,9 @@
   "pickRate": 10.11,
   "skipRate": 89.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CALCIFY.webp"
+  "imageLocal": "assets/img/card/CALCIFY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CALCIFY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CALCIFY.webp"
  },
  {
   "cardEnName": "CALCULATED_GAMBLE",
@@ -2599,7 +2750,9 @@
   "pickRate": 52.07,
   "skipRate": 47.93,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CALCULATED_GAMBLE.webp"
+  "imageLocal": "assets/img/card/CALCULATED_GAMBLE.webp",
+  "imageBig": "assets/img/bigcard/CALCULATED_GAMBLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CALCULATED_GAMBLE_UPGRADE.webp"
  },
  {
   "cardEnName": "CALL_OF_THE_VOID",
@@ -2632,7 +2785,9 @@
   "pickRate": 33.62,
   "skipRate": 66.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CALL_OF_THE_VOID.webp"
+  "imageLocal": "assets/img/card/CALL_OF_THE_VOID.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CALL_OF_THE_VOID_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CALL_OF_THE_VOID.webp"
  },
  {
   "cardEnName": "CALTROPS",
@@ -2665,7 +2820,9 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CALTROPS.webp"
+  "imageLocal": "assets/img/card/CALTROPS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CALTROPS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CALTROPS.webp"
  },
  {
   "cardEnName": "CAPACITOR",
@@ -2698,7 +2855,9 @@
   "pickRate": 27.09,
   "skipRate": 72.91,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CAPACITOR.webp"
+  "imageLocal": "assets/img/card/CAPACITOR.webp",
+  "imageBig": "assets/img/bigcard/CAPACITOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CAPACITOR_UPGRADE.webp"
  },
  {
   "cardEnName": "CAPTURE_SPIRIT",
@@ -2731,7 +2890,9 @@
   "pickRate": 40.98,
   "skipRate": 59.02,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CAPTURE_SPIRIT.webp"
+  "imageLocal": "assets/img/card/CAPTURE_SPIRIT.webp",
+  "imageBig": "assets/img/bigcard/CAPTURE_SPIRIT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CAPTURE_SPIRIT_UPGRADE.webp"
  },
  {
   "cardEnName": "CASCADE",
@@ -2764,7 +2925,9 @@
   "pickRate": 20.09,
   "skipRate": 79.91,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CASCADE.webp"
+  "imageLocal": "assets/img/card/CASCADE.webp",
+  "imageBig": "assets/img/bigcard/CASCADE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CASCADE_UPGRADE.webp"
  },
  {
   "cardEnName": "CATASTROPHE",
@@ -2797,7 +2960,9 @@
   "pickRate": 1.2,
   "skipRate": 98.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CATASTROPHE.webp"
+  "imageLocal": "assets/img/card/CATASTROPHE.webp",
+  "imageBig": "assets/img/bigcard/CATASTROPHE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CATASTROPHE_UPGRADE.webp"
  },
  {
   "cardEnName": "CELESTIAL_MIGHT",
@@ -2830,7 +2995,9 @@
   "pickRate": 3.74,
   "skipRate": 96.26,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CELESTIAL_MIGHT.webp"
+  "imageLocal": "assets/img/card/CELESTIAL_MIGHT.webp",
+  "imageBig": "assets/img/bigcard/CELESTIAL_MIGHT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CELESTIAL_MIGHT_UPGRADE.webp"
  },
  {
   "cardEnName": "CHAOS",
@@ -2863,7 +3030,9 @@
   "pickRate": 17.73,
   "skipRate": 82.27,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CHAOS.webp"
+  "imageLocal": "assets/img/card/CHAOS.webp",
+  "imageBig": "assets/img/bigcard/CHAOS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CHAOS_UPGRADE.webp"
  },
  {
   "cardEnName": "CHARGE",
@@ -2896,7 +3065,9 @@
   "pickRate": 43.8,
   "skipRate": 56.2,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CHARGE.webp"
+  "imageLocal": "assets/img/card/CHARGE.webp",
+  "imageBig": "assets/img/bigcard/CHARGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CHARGE_UPGRADE.webp"
  },
  {
   "cardEnName": "CHARGE_BATTERY",
@@ -2929,7 +3100,9 @@
   "pickRate": 16.83,
   "skipRate": 83.17,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CHARGE_BATTERY.webp"
+  "imageLocal": "assets/img/card/CHARGE_BATTERY.webp",
+  "imageBig": "assets/img/bigcard/CHARGE_BATTERY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CHARGE_BATTERY_UPGRADE.webp"
  },
  {
   "cardEnName": "CHILD_OF_THE_STARS",
@@ -2962,7 +3135,9 @@
   "pickRate": 29.37,
   "skipRate": 70.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CHILD_OF_THE_STARS.webp"
+  "imageLocal": "assets/img/card/CHILD_OF_THE_STARS.webp",
+  "imageBig": "assets/img/bigcard/CHILD_OF_THE_STARS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CHILD_OF_THE_STARS_UPGRADE.webp"
  },
  {
   "cardEnName": "CHILL",
@@ -2995,7 +3170,9 @@
   "pickRate": 37.12,
   "skipRate": 62.88,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CHILL.webp"
+  "imageLocal": "assets/img/card/CHILL.webp",
+  "imageBig": "assets/img/bigcard/CHILL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CHILL_UPGRADE.webp"
  },
  {
   "cardEnName": "CINDER",
@@ -3028,7 +3205,9 @@
   "pickRate": 2.81,
   "skipRate": 97.19,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CINDER.webp"
+  "imageLocal": "assets/img/card/CINDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CINDER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CINDER.webp"
  },
  {
   "cardEnName": "CLASH",
@@ -3061,7 +3240,9 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CLASH.webp"
+  "imageLocal": "assets/img/card/CLASH.webp",
+  "imageBig": "assets/img/bigcard/CLASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CLASH_UPGRADE.webp"
  },
  {
   "cardEnName": "CLAW",
@@ -3094,7 +3275,9 @@
   "pickRate": 14.19,
   "skipRate": 85.81,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CLAW.webp"
+  "imageLocal": "assets/img/card/CLAW.webp",
+  "imageBig": "assets/img/bigcard/CLAW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CLAW_UPGRADE.webp"
  },
  {
   "cardEnName": "CLEANSE",
@@ -3127,7 +3310,9 @@
   "pickRate": 28.91,
   "skipRate": 71.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CLEANSE.webp"
+  "imageLocal": "assets/img/card/CLEANSE.webp",
+  "imageBig": "assets/img/bigcard/CLEANSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CLEANSE_UPGRADE.webp"
  },
  {
   "cardEnName": "CLOAK_AND_DAGGER",
@@ -3160,7 +3345,9 @@
   "pickRate": 17.11,
   "skipRate": 82.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CLOAK_AND_DAGGER.webp"
+  "imageLocal": "assets/img/card/CLOAK_AND_DAGGER.webp",
+  "imageBig": "assets/img/bigcard/CLOAK_AND_DAGGER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CLOAK_AND_DAGGER_UPGRADE.webp"
  },
  {
   "cardEnName": "CLOAK_OF_STARS",
@@ -3193,7 +3380,9 @@
   "pickRate": 16.36,
   "skipRate": 83.64,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CLOAK_OF_STARS.webp"
+  "imageLocal": "assets/img/card/CLOAK_OF_STARS.webp",
+  "imageBig": "assets/img/bigcard/CLOAK_OF_STARS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CLOAK_OF_STARS_UPGRADE.webp"
  },
  {
   "cardEnName": "CLUMSY",
@@ -3225,7 +3414,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/CLUMSY.webp"
+  "imageLocal": "assets/img/card/CLUMSY.webp",
+  "imageBig": "assets/img/bigcard/CLUMSY.webp"
  },
  {
   "cardEnName": "COLD_SNAP",
@@ -3258,7 +3448,9 @@
   "pickRate": 10.85,
   "skipRate": 89.15,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COLD_SNAP.webp"
+  "imageLocal": "assets/img/card/COLD_SNAP.webp",
+  "imageBig": "assets/img/bigcard/COLD_SNAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COLD_SNAP_UPGRADE.webp"
  },
  {
   "cardEnName": "COLLISION_COURSE",
@@ -3291,7 +3483,9 @@
   "pickRate": 9.19,
   "skipRate": 90.81,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COLLISION_COURSE.webp"
+  "imageLocal": "assets/img/card/COLLISION_COURSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COLLISION_COURSE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/COLLISION_COURSE.webp"
  },
  {
   "cardEnName": "COLOSSUS",
@@ -3324,7 +3518,9 @@
   "pickRate": 39.97,
   "skipRate": 60.03,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COLOSSUS.webp"
+  "imageLocal": "assets/img/card/COLOSSUS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COLOSSUS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/COLOSSUS.webp"
  },
  {
   "cardEnName": "COMET",
@@ -3357,7 +3553,9 @@
   "pickRate": 25.49,
   "skipRate": 74.51,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COMET.webp"
+  "imageLocal": "assets/img/card/COMET.webp",
+  "imageBig": "assets/img/bigcard/COMET.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COMET_UPGRADE.webp"
  },
  {
   "cardEnName": "COMPACT",
@@ -3390,7 +3588,9 @@
   "pickRate": 52.97,
   "skipRate": 47.03,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COMPACT.webp"
+  "imageLocal": "assets/img/card/COMPACT.webp",
+  "imageBig": "assets/img/bigcard/COMPACT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COMPACT_UPGRADE.webp"
  },
  {
   "cardEnName": "COMPILE_DRIVER",
@@ -3423,7 +3623,9 @@
   "pickRate": 15.8,
   "skipRate": 84.2,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COMPILE_DRIVER.webp"
+  "imageLocal": "assets/img/card/COMPILE_DRIVER.webp",
+  "imageBig": "assets/img/bigcard/COMPILE_DRIVER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COMPILE_DRIVER_UPGRADE.webp"
  },
  {
   "cardEnName": "CONFLAGRATION",
@@ -3456,7 +3658,9 @@
   "pickRate": 18.04,
   "skipRate": 81.96,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CONFLAGRATION.webp"
+  "imageLocal": "assets/img/card/CONFLAGRATION.webp",
+  "imageBig": "assets/img/bigcard/CONFLAGRATION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CONFLAGRATION_UPGRADE.webp"
  },
  {
   "cardEnName": "CONQUEROR",
@@ -3489,7 +3693,9 @@
   "pickRate": 23.31,
   "skipRate": 76.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CONQUEROR.webp"
+  "imageLocal": "assets/img/card/CONQUEROR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CONQUEROR_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CONQUEROR.webp"
  },
  {
   "cardEnName": "CONSUMING_SHADOW",
@@ -3522,7 +3728,9 @@
   "pickRate": 13.85,
   "skipRate": 86.15,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CONSUMING_SHADOW.webp"
+  "imageLocal": "assets/img/card/CONSUMING_SHADOW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CONSUMING_SHADOW_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CONSUMING_SHADOW.webp"
  },
  {
   "cardEnName": "CONVERGENCE",
@@ -3555,7 +3763,9 @@
   "pickRate": 38.5,
   "skipRate": 61.5,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CONVERGENCE.webp"
+  "imageLocal": "assets/img/card/CONVERGENCE.webp",
+  "imageBig": "assets/img/bigcard/CONVERGENCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CONVERGENCE_UPGRADE.webp"
  },
  {
   "cardEnName": "COOLANT",
@@ -3588,7 +3798,9 @@
   "pickRate": 14.46,
   "skipRate": 85.54,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COOLANT.webp"
+  "imageLocal": "assets/img/card/COOLANT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COOLANT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/COOLANT.webp"
  },
  {
   "cardEnName": "COOLHEADED",
@@ -3621,7 +3833,9 @@
   "pickRate": 34.36,
   "skipRate": 65.64,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COOLHEADED.webp"
+  "imageLocal": "assets/img/card/COOLHEADED.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COOLHEADED_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/COOLHEADED.webp"
  },
  {
   "cardEnName": "COORDINATE",
@@ -3654,7 +3868,9 @@
   "pickRate": 2.18,
   "skipRate": 97.82,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COORDINATE.webp"
+  "imageLocal": "assets/img/card/COORDINATE.webp",
+  "imageBig": "assets/img/bigcard/COORDINATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COORDINATE_UPGRADE.webp"
  },
  {
   "cardEnName": "CORROSIVE_WAVE",
@@ -3687,7 +3903,9 @@
   "pickRate": 45.95,
   "skipRate": 54.05,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CORROSIVE_WAVE.webp"
+  "imageLocal": "assets/img/card/CORROSIVE_WAVE.webp",
+  "imageBig": "assets/img/bigcard/CORROSIVE_WAVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CORROSIVE_WAVE_UPGRADE.webp"
  },
  {
   "cardEnName": "CORRUPTION",
@@ -3720,7 +3938,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CORRUPTION.webp"
+  "imageLocal": "assets/img/card/CORRUPTION.webp",
+  "imageBig": "assets/img/bigcard/CORRUPTION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CORRUPTION_UPGRADE.webp"
  },
  {
   "cardEnName": "COSMIC_INDIFFERENCE",
@@ -3753,7 +3973,9 @@
   "pickRate": 25.42,
   "skipRate": 74.58,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COSMIC_INDIFFERENCE.webp"
+  "imageLocal": "assets/img/card/COSMIC_INDIFFERENCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COSMIC_INDIFFERENCE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/COSMIC_INDIFFERENCE.webp"
  },
  {
   "cardEnName": "COUNTDOWN",
@@ -3786,7 +4008,9 @@
   "pickRate": 14.21,
   "skipRate": 85.79,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/COUNTDOWN.webp"
+  "imageLocal": "assets/img/card/COUNTDOWN.webp",
+  "imageBig": "assets/img/bigcard/COUNTDOWN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/COUNTDOWN_UPGRADE.webp"
  },
  {
   "cardEnName": "CRASH_LANDING",
@@ -3819,7 +4043,9 @@
   "pickRate": 14.19,
   "skipRate": 85.81,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CRASH_LANDING.webp"
+  "imageLocal": "assets/img/card/CRASH_LANDING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CRASH_LANDING_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CRASH_LANDING.webp"
  },
  {
   "cardEnName": "CREATIVE_AI",
@@ -3852,7 +4078,9 @@
   "pickRate": 32.58,
   "skipRate": 67.42,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CREATIVE_AI.webp"
+  "imageLocal": "assets/img/card/CREATIVE_AI.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CREATIVE_AI_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/CREATIVE_AI.webp"
  },
  {
   "cardEnName": "CRESCENT_SPEAR",
@@ -3885,7 +4113,9 @@
   "pickRate": 7.87,
   "skipRate": 92.13,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CRESCENT_SPEAR.webp"
+  "imageLocal": "assets/img/card/CRESCENT_SPEAR.webp",
+  "imageBig": "assets/img/bigcard/CRESCENT_SPEAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CRESCENT_SPEAR_UPGRADE.webp"
  },
  {
   "cardEnName": "CRIMSON_MANTLE",
@@ -3918,7 +4148,9 @@
   "pickRate": 43.98,
   "skipRate": 56.02,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CRIMSON_MANTLE.webp"
+  "imageLocal": "assets/img/card/CRIMSON_MANTLE.webp",
+  "imageBig": "assets/img/bigcard/CRIMSON_MANTLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CRIMSON_MANTLE_UPGRADE.webp"
  },
  {
   "cardEnName": "CRUELTY",
@@ -3951,7 +4183,9 @@
   "pickRate": 30.07,
   "skipRate": 69.93,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CRUELTY.webp"
+  "imageLocal": "assets/img/card/CRUELTY.webp",
+  "imageBig": "assets/img/bigcard/CRUELTY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CRUELTY_UPGRADE.webp"
  },
  {
   "cardEnName": "CRUSH_UNDER",
@@ -3984,7 +4218,9 @@
   "pickRate": 7.95,
   "skipRate": 92.05,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/CRUSH_UNDER.webp"
+  "imageLocal": "assets/img/card/CRUSH_UNDER.webp",
+  "imageBig": "assets/img/bigcard/CRUSH_UNDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/CRUSH_UNDER_UPGRADE.webp"
  },
  {
   "cardEnName": "CURSE_OF_THE_BELL",
@@ -4016,7 +4252,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/CURSE_OF_THE_BELL.webp"
+  "imageLocal": "assets/img/card/CURSE_OF_THE_BELL.webp",
+  "imageBig": "assets/img/bigcard/CURSE_OF_THE_BELL.webp"
  },
  {
   "cardEnName": "DAGGER_SPRAY",
@@ -4049,7 +4286,9 @@
   "pickRate": 7.43,
   "skipRate": 92.57,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DAGGER_SPRAY.webp"
+  "imageLocal": "assets/img/card/DAGGER_SPRAY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DAGGER_SPRAY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DAGGER_SPRAY.webp"
  },
  {
   "cardEnName": "DAGGER_THROW",
@@ -4082,7 +4321,9 @@
   "pickRate": 14.11,
   "skipRate": 85.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DAGGER_THROW.webp"
+  "imageLocal": "assets/img/card/DAGGER_THROW.webp",
+  "imageBig": "assets/img/bigcard/DAGGER_THROW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DAGGER_THROW_UPGRADE.webp"
  },
  {
   "cardEnName": "DANSE_MACABRE",
@@ -4115,7 +4356,9 @@
   "pickRate": 7.01,
   "skipRate": 92.99,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DANSE_MACABRE.webp"
+  "imageLocal": "assets/img/card/DANSE_MACABRE.webp",
+  "imageBig": "assets/img/bigcard/DANSE_MACABRE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DANSE_MACABRE_UPGRADE.webp"
  },
  {
   "cardEnName": "DARKNESS",
@@ -4148,7 +4391,9 @@
   "pickRate": 29.99,
   "skipRate": 70.01,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DARKNESS.webp"
+  "imageLocal": "assets/img/card/DARKNESS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DARKNESS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DARKNESS.webp"
  },
  {
   "cardEnName": "DARK_EMBRACE",
@@ -4181,7 +4426,9 @@
   "pickRate": 44.09,
   "skipRate": 55.91,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DARK_EMBRACE.webp"
+  "imageLocal": "assets/img/card/DARK_EMBRACE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DARK_EMBRACE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DARK_EMBRACE.webp"
  },
  {
   "cardEnName": "DARK_SHACKLES",
@@ -4214,7 +4461,9 @@
   "pickRate": 4.6,
   "skipRate": 95.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DARK_SHACKLES.webp"
+  "imageLocal": "assets/img/card/DARK_SHACKLES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DARK_SHACKLES_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DARK_SHACKLES.webp"
  },
  {
   "cardEnName": "DASH",
@@ -4247,7 +4496,9 @@
   "pickRate": 9.1,
   "skipRate": 90.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DASH.webp"
+  "imageLocal": "assets/img/card/DASH.webp",
+  "imageBig": "assets/img/bigcard/DASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DASH_UPGRADE.webp"
  },
  {
   "cardEnName": "DAZED",
@@ -4279,7 +4530,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/DAZED.webp"
+  "imageLocal": "assets/img/card/DAZED.webp",
+  "imageBig": "assets/img/bigcard/DAZED.webp"
  },
  {
   "cardEnName": "DEADLY_POISON",
@@ -4312,7 +4564,9 @@
   "pickRate": 14.1,
   "skipRate": 85.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEADLY_POISON.webp"
+  "imageLocal": "assets/img/card/DEADLY_POISON.webp",
+  "imageBig": "assets/img/bigcard/DEADLY_POISON.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEADLY_POISON_UPGRADE.webp"
  },
  {
   "cardEnName": "DEATHBRINGER",
@@ -4345,7 +4599,9 @@
   "pickRate": 24.01,
   "skipRate": 75.99,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEATHBRINGER.webp"
+  "imageLocal": "assets/img/card/DEATHBRINGER.webp",
+  "imageBig": "assets/img/bigcard/DEATHBRINGER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEATHBRINGER_UPGRADE.webp"
  },
  {
   "cardEnName": "DEATHS_DOOR",
@@ -4378,7 +4634,9 @@
   "pickRate": 21.18,
   "skipRate": 78.82,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEATHS_DOOR.webp"
+  "imageLocal": "assets/img/card/DEATHS_DOOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEATHS_DOOR_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEATHS_DOOR.webp"
  },
  {
   "cardEnName": "DEATH_MARCH",
@@ -4411,7 +4669,9 @@
   "pickRate": 13.44,
   "skipRate": 86.56,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEATH_MARCH.webp"
+  "imageLocal": "assets/img/card/DEATH_MARCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEATH_MARCH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEATH_MARCH.webp"
  },
  {
   "cardEnName": "DEBILITATE",
@@ -4444,7 +4704,9 @@
   "pickRate": 20.12,
   "skipRate": 79.88,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEBILITATE.webp"
+  "imageLocal": "assets/img/card/DEBILITATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEBILITATE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEBILITATE.webp"
  },
  {
   "cardEnName": "DEBRIS",
@@ -4476,7 +4738,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/DEBRIS.webp"
+  "imageLocal": "assets/img/card/DEBRIS.webp",
+  "imageBig": "assets/img/bigcard/DEBRIS.webp"
  },
  {
   "cardEnName": "DEBT",
@@ -4508,7 +4771,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/DEBT.webp"
+  "imageLocal": "assets/img/card/DEBT.webp",
+  "imageBig": "assets/img/bigcard/DEBT.webp"
  },
  {
   "cardEnName": "DECAY",
@@ -4540,7 +4804,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/DECAY.webp"
+  "imageLocal": "assets/img/card/DECAY.webp",
+  "imageBig": "assets/img/bigcard/DECAY.webp"
  },
  {
   "cardEnName": "DECISIONS_DECISIONS",
@@ -4573,7 +4838,9 @@
   "pickRate": 55.0,
   "skipRate": 45.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DECISIONS_DECISIONS.webp"
+  "imageLocal": "assets/img/card/DECISIONS_DECISIONS.webp",
+  "imageBig": "assets/img/bigcard/DECISIONS_DECISIONS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DECISIONS_DECISIONS_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFEND_DEFECT",
@@ -4606,7 +4873,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFEND_DEFECT.webp"
+  "imageLocal": "assets/img/card/DEFEND_DEFECT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFEND_DEFECT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEFEND_DEFECT.webp"
  },
  {
   "cardEnName": "DEFEND_IRONCLAD",
@@ -4639,7 +4908,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFEND_IRONCLAD.webp"
+  "imageLocal": "assets/img/card/DEFEND_IRONCLAD.webp",
+  "imageBig": "assets/img/bigcard/DEFEND_IRONCLAD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFEND_IRONCLAD_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFEND_NECROBINDER",
@@ -4672,7 +4943,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFEND_NECROBINDER.webp"
+  "imageLocal": "assets/img/card/DEFEND_NECROBINDER.webp",
+  "imageBig": "assets/img/bigcard/DEFEND_NECROBINDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFEND_NECROBINDER_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFEND_REGENT",
@@ -4705,7 +4978,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFEND_REGENT.webp"
+  "imageLocal": "assets/img/card/DEFEND_REGENT.webp",
+  "imageBig": "assets/img/bigcard/DEFEND_REGENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFEND_REGENT_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFEND_SILENT",
@@ -4738,7 +5013,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFEND_SILENT.webp"
+  "imageLocal": "assets/img/card/DEFEND_SILENT.webp",
+  "imageBig": "assets/img/bigcard/DEFEND_SILENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFEND_SILENT_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFILE",
@@ -4771,7 +5048,9 @@
   "pickRate": 8.76,
   "skipRate": 91.24,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFILE.webp"
+  "imageLocal": "assets/img/card/DEFILE.webp",
+  "imageBig": "assets/img/bigcard/DEFILE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFILE_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFLECT",
@@ -4804,7 +5083,9 @@
   "pickRate": 14.54,
   "skipRate": 85.46,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFLECT.webp"
+  "imageLocal": "assets/img/card/DEFLECT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFLECT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEFLECT.webp"
  },
  {
   "cardEnName": "DEFRAGMENT",
@@ -4837,7 +5118,9 @@
   "pickRate": 55.9,
   "skipRate": 44.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFRAGMENT.webp"
+  "imageLocal": "assets/img/card/DEFRAGMENT.webp",
+  "imageBig": "assets/img/bigcard/DEFRAGMENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFRAGMENT_UPGRADE.webp"
  },
  {
   "cardEnName": "DEFY",
@@ -4870,7 +5153,9 @@
   "pickRate": 29.5,
   "skipRate": 70.5,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEFY.webp"
+  "imageLocal": "assets/img/card/DEFY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEFY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEFY.webp"
  },
  {
   "cardEnName": "DELAY",
@@ -4903,7 +5188,9 @@
   "pickRate": 23.2,
   "skipRate": 76.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DELAY.webp"
+  "imageLocal": "assets/img/card/DELAY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DELAY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DELAY.webp"
  },
  {
   "cardEnName": "DEMESNE",
@@ -4935,7 +5222,8 @@
   "winRate": 63.48,
   "pickRate": 50.41,
   "skipRate": 49.59,
-  "imageLocal": "assets/img/card/DEMESNE.webp"
+  "imageLocal": "assets/img/card/DEMESNE.webp",
+  "imageBig": "assets/img/bigcard/DEMESNE.webp"
  },
  {
   "cardEnName": "DEMONIC_SHIELD",
@@ -4968,7 +5256,9 @@
   "pickRate": 15.36,
   "skipRate": 84.64,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEMONIC_SHIELD.webp"
+  "imageLocal": "assets/img/card/DEMONIC_SHIELD.webp",
+  "imageBig": "assets/img/bigcard/DEMONIC_SHIELD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEMONIC_SHIELD_UPGRADE.webp"
  },
  {
   "cardEnName": "DEMON_FORM",
@@ -5001,7 +5291,9 @@
   "pickRate": 14.48,
   "skipRate": 85.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEMON_FORM.webp"
+  "imageLocal": "assets/img/card/DEMON_FORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEMON_FORM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEMON_FORM.webp"
  },
  {
   "cardEnName": "DEVASTATE",
@@ -5034,7 +5326,9 @@
   "pickRate": 9.05,
   "skipRate": 90.95,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEVASTATE.webp"
+  "imageLocal": "assets/img/card/DEVASTATE.webp",
+  "imageBig": "assets/img/bigcard/DEVASTATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEVASTATE_UPGRADE.webp"
  },
  {
   "cardEnName": "DEVOUR_LIFE",
@@ -5067,7 +5361,9 @@
   "pickRate": 34.62,
   "skipRate": 65.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DEVOUR_LIFE.webp"
+  "imageLocal": "assets/img/card/DEVOUR_LIFE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DEVOUR_LIFE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DEVOUR_LIFE.webp"
  },
  {
   "cardEnName": "DIRGE",
@@ -5100,7 +5396,9 @@
   "pickRate": 41.18,
   "skipRate": 58.82,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DIRGE.webp"
+  "imageLocal": "assets/img/card/DIRGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DIRGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DIRGE.webp"
  },
  {
   "cardEnName": "DISCOVERY",
@@ -5133,7 +5431,9 @@
   "pickRate": 6.5,
   "skipRate": 93.5,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DISCOVERY.webp"
+  "imageLocal": "assets/img/card/DISCOVERY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DISCOVERY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DISCOVERY.webp"
  },
  {
   "cardEnName": "DISINTEGRATION",
@@ -5165,7 +5465,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/DISINTEGRATION.webp"
+  "imageLocal": "assets/img/card/DISINTEGRATION.webp",
+  "imageBig": "assets/img/bigcard/DISINTEGRATION.webp"
  },
  {
   "cardEnName": "DISMANTLE",
@@ -5198,7 +5499,9 @@
   "pickRate": 14.91,
   "skipRate": 85.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DISMANTLE.webp"
+  "imageLocal": "assets/img/card/DISMANTLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DISMANTLE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DISMANTLE.webp"
  },
  {
   "cardEnName": "DISTRACTION",
@@ -5231,7 +5534,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DISTRACTION.webp"
+  "imageLocal": "assets/img/card/DISTRACTION.webp",
+  "imageBig": "assets/img/bigcard/DISTRACTION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DISTRACTION_UPGRADE.webp"
  },
  {
   "cardEnName": "DODGE_AND_ROLL",
@@ -5264,7 +5569,9 @@
   "pickRate": 4.97,
   "skipRate": 95.03,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DODGE_AND_ROLL.webp"
+  "imageLocal": "assets/img/card/DODGE_AND_ROLL.webp",
+  "imageBig": "assets/img/bigcard/DODGE_AND_ROLL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DODGE_AND_ROLL_UPGRADE.webp"
  },
  {
   "cardEnName": "DOMINATE",
@@ -5297,7 +5604,9 @@
   "pickRate": 32.55,
   "skipRate": 67.45,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DOMINATE.webp"
+  "imageLocal": "assets/img/card/DOMINATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DOMINATE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DOMINATE.webp"
  },
  {
   "cardEnName": "DOUBLE_ENERGY",
@@ -5330,7 +5639,9 @@
   "pickRate": 30.14,
   "skipRate": 69.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DOUBLE_ENERGY.webp"
+  "imageLocal": "assets/img/card/DOUBLE_ENERGY.webp",
+  "imageBig": "assets/img/bigcard/DOUBLE_ENERGY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DOUBLE_ENERGY_UPGRADE.webp"
  },
  {
   "cardEnName": "DOUBT",
@@ -5362,7 +5673,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/DOUBT.webp"
+  "imageLocal": "assets/img/card/DOUBT.webp",
+  "imageBig": "assets/img/bigcard/DOUBT.webp"
  },
  {
   "cardEnName": "DRAIN_POWER",
@@ -5395,7 +5707,9 @@
   "pickRate": 9.47,
   "skipRate": 90.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DRAIN_POWER.webp"
+  "imageLocal": "assets/img/card/DRAIN_POWER.webp",
+  "imageBig": "assets/img/bigcard/DRAIN_POWER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DRAIN_POWER_UPGRADE.webp"
  },
  {
   "cardEnName": "DRAMATIC_ENTRANCE",
@@ -5428,7 +5742,9 @@
   "pickRate": 3.62,
   "skipRate": 96.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DRAMATIC_ENTRANCE.webp"
+  "imageLocal": "assets/img/card/DRAMATIC_ENTRANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DRAMATIC_ENTRANCE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DRAMATIC_ENTRANCE.webp"
  },
  {
   "cardEnName": "DREDGE",
@@ -5461,7 +5777,9 @@
   "pickRate": 29.13,
   "skipRate": 70.87,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DREDGE.webp"
+  "imageLocal": "assets/img/card/DREDGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DREDGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/DREDGE.webp"
  },
  {
   "cardEnName": "DRUM_OF_BATTLE",
@@ -5494,7 +5812,9 @@
   "pickRate": 13.01,
   "skipRate": 86.99,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DRUM_OF_BATTLE.webp"
+  "imageLocal": "assets/img/card/DRUM_OF_BATTLE.webp",
+  "imageBig": "assets/img/bigcard/DRUM_OF_BATTLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DRUM_OF_BATTLE_UPGRADE.webp"
  },
  {
   "cardEnName": "DUALCAST",
@@ -5527,7 +5847,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DUALCAST.webp"
+  "imageLocal": "assets/img/card/DUALCAST.webp",
+  "imageBig": "assets/img/bigcard/DUALCAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DUALCAST_UPGRADE.webp"
  },
  {
   "cardEnName": "DUAL_WIELD",
@@ -5560,7 +5882,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DUAL_WIELD.webp"
+  "imageLocal": "assets/img/card/DUAL_WIELD.webp",
+  "imageBig": "assets/img/bigcard/DUAL_WIELD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DUAL_WIELD_UPGRADE.webp"
  },
  {
   "cardEnName": "DYING_STAR",
@@ -5593,7 +5917,9 @@
   "pickRate": 35.02,
   "skipRate": 64.98,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/DYING_STAR.webp"
+  "imageLocal": "assets/img/card/DYING_STAR.webp",
+  "imageBig": "assets/img/bigcard/DYING_STAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/DYING_STAR_UPGRADE.webp"
  },
  {
   "cardEnName": "ECHOING_SLASH",
@@ -5626,7 +5952,9 @@
   "pickRate": 14.51,
   "skipRate": 85.49,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ECHOING_SLASH.webp"
+  "imageLocal": "assets/img/card/ECHOING_SLASH.webp",
+  "imageBig": "assets/img/bigcard/ECHOING_SLASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ECHOING_SLASH_UPGRADE.webp"
  },
  {
   "cardEnName": "ECHO_FORM",
@@ -5659,7 +5987,9 @@
   "pickRate": 56.92,
   "skipRate": 43.08,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ECHO_FORM.webp"
+  "imageLocal": "assets/img/card/ECHO_FORM.webp",
+  "imageBig": "assets/img/bigcard/ECHO_FORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ECHO_FORM_UPGRADE.webp"
  },
  {
   "cardEnName": "EIDOLON",
@@ -5692,7 +6022,9 @@
   "pickRate": 12.2,
   "skipRate": 87.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EIDOLON.webp"
+  "imageLocal": "assets/img/card/EIDOLON.webp",
+  "imageBig": "assets/img/bigcard/EIDOLON.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EIDOLON_UPGRADE.webp"
  },
  {
   "cardEnName": "END_OF_DAYS",
@@ -5725,7 +6057,9 @@
   "pickRate": 27.91,
   "skipRate": 72.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/END_OF_DAYS.webp"
+  "imageLocal": "assets/img/card/END_OF_DAYS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/END_OF_DAYS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/END_OF_DAYS.webp"
  },
  {
   "cardEnName": "ENERGY_SURGE",
@@ -5758,7 +6092,9 @@
   "pickRate": 54.25,
   "skipRate": 45.75,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ENERGY_SURGE.webp"
+  "imageLocal": "assets/img/card/ENERGY_SURGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ENERGY_SURGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ENERGY_SURGE.webp"
  },
  {
   "cardEnName": "ENFEEBLING_TOUCH",
@@ -5791,7 +6127,9 @@
   "pickRate": 41.89,
   "skipRate": 58.11,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ENFEEBLING_TOUCH.webp"
+  "imageLocal": "assets/img/card/ENFEEBLING_TOUCH.webp",
+  "imageBig": "assets/img/bigcard/ENFEEBLING_TOUCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ENFEEBLING_TOUCH_UPGRADE.webp"
  },
  {
   "cardEnName": "ENLIGHTENMENT",
@@ -5824,7 +6162,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ENLIGHTENMENT.webp"
+  "imageLocal": "assets/img/card/ENLIGHTENMENT.webp",
+  "imageBig": "assets/img/bigcard/ENLIGHTENMENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ENLIGHTENMENT_UPGRADE.webp"
  },
  {
   "cardEnName": "ENTHRALLED",
@@ -5856,7 +6196,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/ENTHRALLED.webp"
+  "imageLocal": "assets/img/card/ENTHRALLED.webp",
+  "imageBig": "assets/img/bigcard/ENTHRALLED.webp"
  },
  {
   "cardEnName": "ENTRENCH",
@@ -5889,7 +6230,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ENTRENCH.webp"
+  "imageLocal": "assets/img/card/ENTRENCH.webp",
+  "imageBig": "assets/img/bigcard/ENTRENCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ENTRENCH_UPGRADE.webp"
  },
  {
   "cardEnName": "ENTROPY",
@@ -5922,7 +6265,9 @@
   "pickRate": 0.65,
   "skipRate": 99.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ENTROPY.webp"
+  "imageLocal": "assets/img/card/ENTROPY.webp",
+  "imageBig": "assets/img/bigcard/ENTROPY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ENTROPY_UPGRADE.webp"
  },
  {
   "cardEnName": "ENVENOM",
@@ -5955,7 +6300,9 @@
   "pickRate": 19.43,
   "skipRate": 80.57,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ENVENOM.webp"
+  "imageLocal": "assets/img/card/ENVENOM.webp",
+  "imageBig": "assets/img/bigcard/ENVENOM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ENVENOM_UPGRADE.webp"
  },
  {
   "cardEnName": "EQUILIBRIUM",
@@ -5988,7 +6335,9 @@
   "pickRate": 3.29,
   "skipRate": 96.71,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EQUILIBRIUM.webp"
+  "imageLocal": "assets/img/card/EQUILIBRIUM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EQUILIBRIUM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/EQUILIBRIUM.webp"
  },
  {
   "cardEnName": "ERADICATE",
@@ -6021,7 +6370,9 @@
   "pickRate": 23.67,
   "skipRate": 76.33,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ERADICATE.webp"
+  "imageLocal": "assets/img/card/ERADICATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ERADICATE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ERADICATE.webp"
  },
  {
   "cardEnName": "ESCAPE_PLAN",
@@ -6054,7 +6405,9 @@
   "pickRate": 44.32,
   "skipRate": 55.68,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ESCAPE_PLAN.webp"
+  "imageLocal": "assets/img/card/ESCAPE_PLAN.webp",
+  "imageBig": "assets/img/bigcard/ESCAPE_PLAN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ESCAPE_PLAN_UPGRADE.webp"
  },
  {
   "cardEnName": "ETERNAL_ARMOR",
@@ -6087,7 +6440,9 @@
   "pickRate": 0.22,
   "skipRate": 99.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ETERNAL_ARMOR.webp"
+  "imageLocal": "assets/img/card/ETERNAL_ARMOR.webp",
+  "imageBig": "assets/img/bigcard/ETERNAL_ARMOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ETERNAL_ARMOR_UPGRADE.webp"
  },
  {
   "cardEnName": "EVIL_EYE",
@@ -6120,7 +6475,9 @@
   "pickRate": 19.7,
   "skipRate": 80.3,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EVIL_EYE.webp"
+  "imageLocal": "assets/img/card/EVIL_EYE.webp",
+  "imageBig": "assets/img/bigcard/EVIL_EYE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EVIL_EYE_UPGRADE.webp"
  },
  {
   "cardEnName": "EXPECT_A_FIGHT",
@@ -6153,7 +6510,9 @@
   "pickRate": 21.33,
   "skipRate": 78.67,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EXPECT_A_FIGHT.webp"
+  "imageLocal": "assets/img/card/EXPECT_A_FIGHT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EXPECT_A_FIGHT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/EXPECT_A_FIGHT.webp"
  },
  {
   "cardEnName": "EXPERTISE",
@@ -6186,7 +6545,9 @@
   "pickRate": 12.86,
   "skipRate": 87.14,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EXPERTISE.webp"
+  "imageLocal": "assets/img/card/EXPERTISE.webp",
+  "imageBig": "assets/img/bigcard/EXPERTISE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EXPERTISE_UPGRADE.webp"
  },
  {
   "cardEnName": "EXPOSE",
@@ -6219,7 +6580,9 @@
   "pickRate": 38.81,
   "skipRate": 61.19,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EXPOSE.webp"
+  "imageLocal": "assets/img/card/EXPOSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EXPOSE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/EXPOSE.webp"
  },
  {
   "cardEnName": "EXTERMINATE",
@@ -6252,7 +6615,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/EXTERMINATE.webp"
+  "imageLocal": "assets/img/card/EXTERMINATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/EXTERMINATE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/EXTERMINATE.webp"
  },
  {
   "cardEnName": "FALLING_STAR",
@@ -6285,7 +6650,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FALLING_STAR.webp"
+  "imageLocal": "assets/img/card/FALLING_STAR.webp",
+  "imageBig": "assets/img/bigcard/FALLING_STAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FALLING_STAR_UPGRADE.webp"
  },
  {
   "cardEnName": "FAN_OF_KNIVES",
@@ -6318,7 +6685,9 @@
   "pickRate": 29.95,
   "skipRate": 70.05,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FAN_OF_KNIVES.webp"
+  "imageLocal": "assets/img/card/FAN_OF_KNIVES.webp",
+  "imageBig": "assets/img/bigcard/FAN_OF_KNIVES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FAN_OF_KNIVES_UPGRADE.webp"
  },
  {
   "cardEnName": "FASTEN",
@@ -6351,7 +6720,9 @@
   "pickRate": 7.7,
   "skipRate": 92.3,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FASTEN.webp"
+  "imageLocal": "assets/img/card/FASTEN.webp",
+  "imageBig": "assets/img/bigcard/FASTEN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FASTEN_UPGRADE.webp"
  },
  {
   "cardEnName": "FEAR",
@@ -6384,7 +6755,9 @@
   "pickRate": 12.58,
   "skipRate": 87.42,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FEAR.webp"
+  "imageLocal": "assets/img/card/FEAR.webp",
+  "imageBig": "assets/img/bigcard/FEAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FEAR_UPGRADE.webp"
  },
  {
   "cardEnName": "FEED",
@@ -6417,7 +6790,9 @@
   "pickRate": 19.99,
   "skipRate": 80.01,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FEED.webp"
+  "imageLocal": "assets/img/card/FEED.webp",
+  "imageBig": "assets/img/bigcard/FEED.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FEED_UPGRADE.webp"
  },
  {
   "cardEnName": "FEEDING_FRENZY",
@@ -6450,7 +6825,9 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FEEDING_FRENZY.webp"
+  "imageLocal": "assets/img/card/FEEDING_FRENZY.webp",
+  "imageBig": "assets/img/bigcard/FEEDING_FRENZY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FEEDING_FRENZY_UPGRADE.webp"
  },
  {
   "cardEnName": "FEEL_NO_PAIN",
@@ -6483,7 +6860,9 @@
   "pickRate": 21.63,
   "skipRate": 78.37,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FEEL_NO_PAIN.webp"
+  "imageLocal": "assets/img/card/FEEL_NO_PAIN.webp",
+  "imageBig": "assets/img/bigcard/FEEL_NO_PAIN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FEEL_NO_PAIN_UPGRADE.webp"
  },
  {
   "cardEnName": "FERAL",
@@ -6516,7 +6895,9 @@
   "pickRate": 11.18,
   "skipRate": 88.82,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FERAL.webp"
+  "imageLocal": "assets/img/card/FERAL.webp",
+  "imageBig": "assets/img/bigcard/FERAL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FERAL_UPGRADE.webp"
  },
  {
   "cardEnName": "FETCH",
@@ -6549,7 +6930,9 @@
   "pickRate": 20.26,
   "skipRate": 79.74,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FETCH.webp"
+  "imageLocal": "assets/img/card/FETCH.webp",
+  "imageBig": "assets/img/bigcard/FETCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FETCH_UPGRADE.webp"
  },
  {
   "cardEnName": "FIEND_FIRE",
@@ -6582,7 +6965,9 @@
   "pickRate": 28.43,
   "skipRate": 71.57,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FIEND_FIRE.webp"
+  "imageLocal": "assets/img/card/FIEND_FIRE.webp",
+  "imageBig": "assets/img/bigcard/FIEND_FIRE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FIEND_FIRE_UPGRADE.webp"
  },
  {
   "cardEnName": "FIGHT_ME",
@@ -6615,7 +7000,9 @@
   "pickRate": 11.59,
   "skipRate": 88.41,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FIGHT_ME.webp"
+  "imageLocal": "assets/img/card/FIGHT_ME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FIGHT_ME_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FIGHT_ME.webp"
  },
  {
   "cardEnName": "FIGHT_THROUGH",
@@ -6648,7 +7035,9 @@
   "pickRate": 27.88,
   "skipRate": 72.12,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FIGHT_THROUGH.webp"
+  "imageLocal": "assets/img/card/FIGHT_THROUGH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FIGHT_THROUGH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FIGHT_THROUGH.webp"
  },
  {
   "cardEnName": "FINESSE",
@@ -6681,7 +7070,9 @@
   "pickRate": 10.15,
   "skipRate": 89.85,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FINESSE.webp"
+  "imageLocal": "assets/img/card/FINESSE.webp",
+  "imageBig": "assets/img/bigcard/FINESSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FINESSE_UPGRADE.webp"
  },
  {
   "cardEnName": "FINISHER",
@@ -6714,7 +7105,9 @@
   "pickRate": 11.43,
   "skipRate": 88.57,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FINISHER.webp"
+  "imageLocal": "assets/img/card/FINISHER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FINISHER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FINISHER.webp"
  },
  {
   "cardEnName": "FISTICUFFS",
@@ -6747,7 +7140,9 @@
   "pickRate": 3.23,
   "skipRate": 96.77,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FISTICUFFS.webp"
+  "imageLocal": "assets/img/card/FISTICUFFS.webp",
+  "imageBig": "assets/img/bigcard/FISTICUFFS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FISTICUFFS_UPGRADE.webp"
  },
  {
   "cardEnName": "FLAK_CANNON",
@@ -6780,7 +7175,9 @@
   "pickRate": 36.7,
   "skipRate": 63.3,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLAK_CANNON.webp"
+  "imageLocal": "assets/img/card/FLAK_CANNON.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLAK_CANNON_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FLAK_CANNON.webp"
  },
  {
   "cardEnName": "FLAME_BARRIER",
@@ -6813,7 +7210,9 @@
   "pickRate": 16.76,
   "skipRate": 83.24,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLAME_BARRIER.webp"
+  "imageLocal": "assets/img/card/FLAME_BARRIER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLAME_BARRIER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FLAME_BARRIER.webp"
  },
  {
   "cardEnName": "FLANKING",
@@ -6846,7 +7245,9 @@
   "pickRate": 30.4,
   "skipRate": 69.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLANKING.webp"
+  "imageLocal": "assets/img/card/FLANKING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLANKING_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FLANKING.webp"
  },
  {
   "cardEnName": "FLASH_OF_STEEL",
@@ -6879,7 +7280,9 @@
   "pickRate": 8.52,
   "skipRate": 91.48,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLASH_OF_STEEL.webp"
+  "imageLocal": "assets/img/card/FLASH_OF_STEEL.webp",
+  "imageBig": "assets/img/bigcard/FLASH_OF_STEEL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLASH_OF_STEEL_UPGRADE.webp"
  },
  {
   "cardEnName": "FLATTEN",
@@ -6912,7 +7315,9 @@
   "pickRate": 12.32,
   "skipRate": 87.68,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLATTEN.webp"
+  "imageLocal": "assets/img/card/FLATTEN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLATTEN_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FLATTEN.webp"
  },
  {
   "cardEnName": "FLECHETTES",
@@ -6945,7 +7350,9 @@
   "pickRate": 11.26,
   "skipRate": 88.74,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLECHETTES.webp"
+  "imageLocal": "assets/img/card/FLECHETTES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLECHETTES_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FLECHETTES.webp"
  },
  {
   "cardEnName": "FLICK_FLACK",
@@ -6978,7 +7385,9 @@
   "pickRate": 10.03,
   "skipRate": 89.97,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FLICK_FLACK.webp"
+  "imageLocal": "assets/img/card/FLICK_FLACK.webp",
+  "imageBig": "assets/img/bigcard/FLICK_FLACK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FLICK_FLACK_UPGRADE.webp"
  },
  {
   "cardEnName": "FOCUSED_STRIKE",
@@ -7011,7 +7420,9 @@
   "pickRate": 8.4,
   "skipRate": 91.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FOCUSED_STRIKE.webp"
+  "imageLocal": "assets/img/card/FOCUSED_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/FOCUSED_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FOCUSED_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "FOLLOW_THROUGH",
@@ -7044,7 +7455,9 @@
   "pickRate": 5.02,
   "skipRate": 94.98,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FOLLOW_THROUGH.webp"
+  "imageLocal": "assets/img/card/FOLLOW_THROUGH.webp",
+  "imageBig": "assets/img/bigcard/FOLLOW_THROUGH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FOLLOW_THROUGH_UPGRADE.webp"
  },
  {
   "cardEnName": "FOLLY",
@@ -7076,7 +7489,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/FOLLY.webp"
+  "imageLocal": "assets/img/card/FOLLY.webp",
+  "imageBig": "assets/img/bigcard/FOLLY.webp"
  },
  {
   "cardEnName": "FOOTWORK",
@@ -7109,7 +7523,9 @@
   "pickRate": 38.03,
   "skipRate": 61.97,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FOOTWORK.webp"
+  "imageLocal": "assets/img/card/FOOTWORK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FOOTWORK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FOOTWORK.webp"
  },
  {
   "cardEnName": "FORBIDDEN_GRIMOIRE",
@@ -7142,7 +7558,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FORBIDDEN_GRIMOIRE.webp"
+  "imageLocal": "assets/img/card/FORBIDDEN_GRIMOIRE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FORBIDDEN_GRIMOIRE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FORBIDDEN_GRIMOIRE.webp"
  },
  {
   "cardEnName": "FOREGONE_CONCLUSION",
@@ -7175,7 +7593,9 @@
   "pickRate": 18.91,
   "skipRate": 81.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FOREGONE_CONCLUSION.webp"
+  "imageLocal": "assets/img/card/FOREGONE_CONCLUSION.webp",
+  "imageBig": "assets/img/bigcard/FOREGONE_CONCLUSION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FOREGONE_CONCLUSION_UPGRADE.webp"
  },
  {
   "cardEnName": "FORGOTTEN_RITUAL",
@@ -7208,7 +7628,9 @@
   "pickRate": 24.51,
   "skipRate": 75.49,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FORGOTTEN_RITUAL.webp"
+  "imageLocal": "assets/img/card/FORGOTTEN_RITUAL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FORGOTTEN_RITUAL_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FORGOTTEN_RITUAL.webp"
  },
  {
   "cardEnName": "FRANTIC_ESCAPE",
@@ -7240,7 +7662,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/FRANTIC_ESCAPE.webp"
+  "imageLocal": "assets/img/card/FRANTIC_ESCAPE.webp",
+  "imageBig": "assets/img/bigcard/FRANTIC_ESCAPE.webp"
  },
  {
   "cardEnName": "FRIENDSHIP",
@@ -7273,7 +7696,9 @@
   "pickRate": 37.76,
   "skipRate": 62.24,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FRIENDSHIP.webp"
+  "imageLocal": "assets/img/card/FRIENDSHIP.webp",
+  "imageBig": "assets/img/bigcard/FRIENDSHIP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FRIENDSHIP_UPGRADE.webp"
  },
  {
   "cardEnName": "FTL",
@@ -7306,7 +7731,9 @@
   "pickRate": 15.7,
   "skipRate": 84.3,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FTL.webp"
+  "imageLocal": "assets/img/card/FTL.webp",
+  "imageBig": "assets/img/bigcard/FTL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FTL_UPGRADE.webp"
  },
  {
   "cardEnName": "FUEL",
@@ -7339,7 +7766,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FUEL.webp"
+  "imageLocal": "assets/img/card/FUEL.webp",
+  "imageBig": "assets/img/bigcard/FUEL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FUEL_UPGRADE.webp"
  },
  {
   "cardEnName": "FURNACE",
@@ -7372,7 +7801,9 @@
   "pickRate": 11.62,
   "skipRate": 88.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FURNACE.webp"
+  "imageLocal": "assets/img/card/FURNACE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FURNACE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FURNACE.webp"
  },
  {
   "cardEnName": "FUSION",
@@ -7405,7 +7836,9 @@
   "pickRate": 14.74,
   "skipRate": 85.26,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/FUSION.webp"
+  "imageLocal": "assets/img/card/FUSION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/FUSION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/FUSION.webp"
  },
  {
   "cardEnName": "GAMMA_BLAST",
@@ -7438,7 +7871,9 @@
   "pickRate": 19.87,
   "skipRate": 80.13,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GAMMA_BLAST.webp"
+  "imageLocal": "assets/img/card/GAMMA_BLAST.webp",
+  "imageBig": "assets/img/bigcard/GAMMA_BLAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GAMMA_BLAST_UPGRADE.webp"
  },
  {
   "cardEnName": "GANG_UP",
@@ -7471,7 +7906,9 @@
   "pickRate": 6.28,
   "skipRate": 93.72,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GANG_UP.webp"
+  "imageLocal": "assets/img/card/GANG_UP.webp",
+  "imageBig": "assets/img/bigcard/GANG_UP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GANG_UP_UPGRADE.webp"
  },
  {
   "cardEnName": "GATHER_LIGHT",
@@ -7504,7 +7941,9 @@
   "pickRate": 21.66,
   "skipRate": 78.34,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GATHER_LIGHT.webp"
+  "imageLocal": "assets/img/card/GATHER_LIGHT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GATHER_LIGHT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/GATHER_LIGHT.webp"
  },
  {
   "cardEnName": "GENESIS",
@@ -7537,7 +7976,9 @@
   "pickRate": 34.16,
   "skipRate": 65.84,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GENESIS.webp"
+  "imageLocal": "assets/img/card/GENESIS.webp",
+  "imageBig": "assets/img/bigcard/GENESIS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GENESIS_UPGRADE.webp"
  },
  {
   "cardEnName": "GENETIC_ALGORITHM",
@@ -7570,7 +8011,9 @@
   "pickRate": 19.37,
   "skipRate": 80.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GENETIC_ALGORITHM.webp"
+  "imageLocal": "assets/img/card/GENETIC_ALGORITHM.webp",
+  "imageBig": "assets/img/bigcard/GENETIC_ALGORITHM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GENETIC_ALGORITHM_UPGRADE.webp"
  },
  {
   "cardEnName": "GIANT_ROCK",
@@ -7603,7 +8046,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GIANT_ROCK.webp"
+  "imageLocal": "assets/img/card/GIANT_ROCK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GIANT_ROCK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/GIANT_ROCK.webp"
  },
  {
   "cardEnName": "GLACIER",
@@ -7636,7 +8081,9 @@
   "pickRate": 30.22,
   "skipRate": 69.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GLACIER.webp"
+  "imageLocal": "assets/img/card/GLACIER.webp",
+  "imageBig": "assets/img/bigcard/GLACIER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GLACIER_UPGRADE.webp"
  },
  {
   "cardEnName": "GLASSWORK",
@@ -7669,7 +8116,9 @@
   "pickRate": 18.45,
   "skipRate": 81.55,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GLASSWORK.webp"
+  "imageLocal": "assets/img/card/GLASSWORK.webp",
+  "imageBig": "assets/img/bigcard/GLASSWORK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GLASSWORK_UPGRADE.webp"
  },
  {
   "cardEnName": "GLIMMER",
@@ -7702,7 +8151,9 @@
   "pickRate": 29.26,
   "skipRate": 70.74,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GLIMMER.webp"
+  "imageLocal": "assets/img/card/GLIMMER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GLIMMER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/GLIMMER.webp"
  },
  {
   "cardEnName": "GLIMPSE_BEYOND",
@@ -7735,7 +8186,9 @@
   "pickRate": 47.35,
   "skipRate": 52.65,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GLIMPSE_BEYOND.webp"
+  "imageLocal": "assets/img/card/GLIMPSE_BEYOND.webp",
+  "imageBig": "assets/img/bigcard/GLIMPSE_BEYOND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GLIMPSE_BEYOND_UPGRADE.webp"
  },
  {
   "cardEnName": "GLITTERSTREAM",
@@ -7768,7 +8221,9 @@
   "pickRate": 6.29,
   "skipRate": 93.71,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GLITTERSTREAM.webp"
+  "imageLocal": "assets/img/card/GLITTERSTREAM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GLITTERSTREAM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/GLITTERSTREAM.webp"
  },
  {
   "cardEnName": "GLOW",
@@ -7801,7 +8256,9 @@
   "pickRate": 41.41,
   "skipRate": 58.59,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GLOW.webp"
+  "imageLocal": "assets/img/card/GLOW.webp",
+  "imageBig": "assets/img/bigcard/GLOW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GLOW_UPGRADE.webp"
  },
  {
   "cardEnName": "GOLD_AXE",
@@ -7834,7 +8291,9 @@
   "pickRate": 0.63,
   "skipRate": 99.37,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GOLD_AXE.webp"
+  "imageLocal": "assets/img/card/GOLD_AXE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GOLD_AXE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/GOLD_AXE.webp"
  },
  {
   "cardEnName": "GO_FOR_THE_EYES",
@@ -7867,7 +8326,9 @@
   "pickRate": 15.94,
   "skipRate": 84.06,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GO_FOR_THE_EYES.webp"
+  "imageLocal": "assets/img/card/GO_FOR_THE_EYES.webp",
+  "imageBig": "assets/img/bigcard/GO_FOR_THE_EYES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GO_FOR_THE_EYES_UPGRADE.webp"
  },
  {
   "cardEnName": "GRAND_FINALE",
@@ -7900,7 +8361,9 @@
   "pickRate": 10.87,
   "skipRate": 89.13,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GRAND_FINALE.webp"
+  "imageLocal": "assets/img/card/GRAND_FINALE.webp",
+  "imageBig": "assets/img/bigcard/GRAND_FINALE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GRAND_FINALE_UPGRADE.webp"
  },
  {
   "cardEnName": "GRAPPLE",
@@ -7933,7 +8396,9 @@
   "pickRate": 8.78,
   "skipRate": 91.22,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GRAPPLE.webp"
+  "imageLocal": "assets/img/card/GRAPPLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GRAPPLE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/GRAPPLE.webp"
  },
  {
   "cardEnName": "GRAVEBLAST",
@@ -7966,7 +8431,9 @@
   "pickRate": 20.59,
   "skipRate": 79.41,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GRAVEBLAST.webp"
+  "imageLocal": "assets/img/card/GRAVEBLAST.webp",
+  "imageBig": "assets/img/bigcard/GRAVEBLAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GRAVEBLAST_UPGRADE.webp"
  },
  {
   "cardEnName": "GRAVE_WARDEN",
@@ -7999,7 +8466,9 @@
   "pickRate": 32.73,
   "skipRate": 67.27,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GRAVE_WARDEN.webp"
+  "imageLocal": "assets/img/card/GRAVE_WARDEN.webp",
+  "imageBig": "assets/img/bigcard/GRAVE_WARDEN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GRAVE_WARDEN_UPGRADE.webp"
  },
  {
   "cardEnName": "GREED",
@@ -8031,7 +8500,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/GREED.webp"
+  "imageLocal": "assets/img/card/GREED.webp",
+  "imageBig": "assets/img/bigcard/GREED.webp"
  },
  {
   "cardEnName": "GUARDS",
@@ -8064,7 +8534,9 @@
   "pickRate": 42.85,
   "skipRate": 57.15,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GUARDS.webp"
+  "imageLocal": "assets/img/card/GUARDS.webp",
+  "imageBig": "assets/img/bigcard/GUARDS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GUARDS_UPGRADE.webp"
  },
  {
   "cardEnName": "GUIDING_STAR",
@@ -8097,7 +8569,9 @@
   "pickRate": 8.6,
   "skipRate": 91.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GUIDING_STAR.webp"
+  "imageLocal": "assets/img/card/GUIDING_STAR.webp",
+  "imageBig": "assets/img/bigcard/GUIDING_STAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GUIDING_STAR_UPGRADE.webp"
  },
  {
   "cardEnName": "GUILTY",
@@ -8129,7 +8603,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/GUILTY.webp"
+  "imageLocal": "assets/img/card/GUILTY.webp",
+  "imageBig": "assets/img/bigcard/GUILTY.webp"
  },
  {
   "cardEnName": "GUNK_UP",
@@ -8162,7 +8637,9 @@
   "pickRate": 8.41,
   "skipRate": 91.59,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/GUNK_UP.webp"
+  "imageLocal": "assets/img/card/GUNK_UP.webp",
+  "imageBig": "assets/img/bigcard/GUNK_UP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/GUNK_UP_UPGRADE.webp"
  },
  {
   "cardEnName": "HAILSTORM",
@@ -8195,7 +8672,9 @@
   "pickRate": 11.31,
   "skipRate": 88.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAILSTORM.webp"
+  "imageLocal": "assets/img/card/HAILSTORM.webp",
+  "imageBig": "assets/img/bigcard/HAILSTORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAILSTORM_UPGRADE.webp"
  },
  {
   "cardEnName": "HAMMER_TIME",
@@ -8228,7 +8707,9 @@
   "pickRate": 15.69,
   "skipRate": 84.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAMMER_TIME.webp"
+  "imageLocal": "assets/img/card/HAMMER_TIME.webp",
+  "imageBig": "assets/img/bigcard/HAMMER_TIME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAMMER_TIME_UPGRADE.webp"
  },
  {
   "cardEnName": "HAND_OF_GREED",
@@ -8261,7 +8742,9 @@
   "pickRate": 0.17,
   "skipRate": 99.83,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAND_OF_GREED.webp"
+  "imageLocal": "assets/img/card/HAND_OF_GREED.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAND_OF_GREED_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HAND_OF_GREED.webp"
  },
  {
   "cardEnName": "HAND_TRICK",
@@ -8294,7 +8777,9 @@
   "pickRate": 12.12,
   "skipRate": 87.88,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAND_TRICK.webp"
+  "imageLocal": "assets/img/card/HAND_TRICK.webp",
+  "imageBig": "assets/img/bigcard/HAND_TRICK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAND_TRICK_UPGRADE.webp"
  },
  {
   "cardEnName": "HANG",
@@ -8327,7 +8812,9 @@
   "pickRate": 39.71,
   "skipRate": 60.29,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HANG.webp"
+  "imageLocal": "assets/img/card/HANG.webp",
+  "imageBig": "assets/img/bigcard/HANG.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HANG_UPGRADE.webp"
  },
  {
   "cardEnName": "HAUNT",
@@ -8360,7 +8847,9 @@
   "pickRate": 19.44,
   "skipRate": 80.56,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAUNT.webp"
+  "imageLocal": "assets/img/card/HAUNT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAUNT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HAUNT.webp"
  },
  {
   "cardEnName": "HAVOC",
@@ -8393,7 +8882,9 @@
   "pickRate": 8.37,
   "skipRate": 91.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAVOC.webp"
+  "imageLocal": "assets/img/card/HAVOC.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAVOC_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HAVOC.webp"
  },
  {
   "cardEnName": "HAZE",
@@ -8426,7 +8917,9 @@
   "pickRate": 24.98,
   "skipRate": 75.02,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HAZE.webp"
+  "imageLocal": "assets/img/card/HAZE.webp",
+  "imageBig": "assets/img/bigcard/HAZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HAZE_UPGRADE.webp"
  },
  {
   "cardEnName": "HEADBUTT",
@@ -8459,7 +8952,9 @@
   "pickRate": 14.2,
   "skipRate": 85.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HEADBUTT.webp"
+  "imageLocal": "assets/img/card/HEADBUTT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HEADBUTT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HEADBUTT.webp"
  },
  {
   "cardEnName": "HEAVENLY_DRILL",
@@ -8492,7 +8987,9 @@
   "pickRate": 18.22,
   "skipRate": 81.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HEAVENLY_DRILL.webp"
+  "imageLocal": "assets/img/card/HEAVENLY_DRILL.webp",
+  "imageBig": "assets/img/bigcard/HEAVENLY_DRILL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HEAVENLY_DRILL_UPGRADE.webp"
  },
  {
   "cardEnName": "HEGEMONY",
@@ -8525,7 +9022,9 @@
   "pickRate": 8.9,
   "skipRate": 91.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HEGEMONY.webp"
+  "imageLocal": "assets/img/card/HEGEMONY.webp",
+  "imageBig": "assets/img/bigcard/HEGEMONY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HEGEMONY_UPGRADE.webp"
  },
  {
   "cardEnName": "HEIRLOOM_HAMMER",
@@ -8558,7 +9057,9 @@
   "pickRate": 10.31,
   "skipRate": 89.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HEIRLOOM_HAMMER.webp"
+  "imageLocal": "assets/img/card/HEIRLOOM_HAMMER.webp",
+  "imageBig": "assets/img/bigcard/HEIRLOOM_HAMMER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HEIRLOOM_HAMMER_UPGRADE.webp"
  },
  {
   "cardEnName": "HELIX_DRILL",
@@ -8591,7 +9092,9 @@
   "pickRate": 14.9,
   "skipRate": 85.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HELIX_DRILL.webp"
+  "imageLocal": "assets/img/card/HELIX_DRILL.webp",
+  "imageBig": "assets/img/bigcard/HELIX_DRILL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HELIX_DRILL_UPGRADE.webp"
  },
  {
   "cardEnName": "HELLO_WORLD",
@@ -8624,7 +9127,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HELLO_WORLD.webp"
+  "imageLocal": "assets/img/card/HELLO_WORLD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HELLO_WORLD_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HELLO_WORLD.webp"
  },
  {
   "cardEnName": "HELLRAISER",
@@ -8657,7 +9162,9 @@
   "pickRate": 32.38,
   "skipRate": 67.62,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HELLRAISER.webp"
+  "imageLocal": "assets/img/card/HELLRAISER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HELLRAISER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HELLRAISER.webp"
  },
  {
   "cardEnName": "HEMOKINESIS",
@@ -8690,7 +9197,9 @@
   "pickRate": 9.31,
   "skipRate": 90.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HEMOKINESIS.webp"
+  "imageLocal": "assets/img/card/HEMOKINESIS.webp",
+  "imageBig": "assets/img/bigcard/HEMOKINESIS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HEMOKINESIS_UPGRADE.webp"
  },
  {
   "cardEnName": "HIDDEN_CACHE",
@@ -8723,7 +9232,9 @@
   "pickRate": 23.68,
   "skipRate": 76.32,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HIDDEN_CACHE.webp"
+  "imageLocal": "assets/img/card/HIDDEN_CACHE.webp",
+  "imageBig": "assets/img/bigcard/HIDDEN_CACHE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HIDDEN_CACHE_UPGRADE.webp"
  },
  {
   "cardEnName": "HIDDEN_DAGGERS",
@@ -8756,7 +9267,9 @@
   "pickRate": 37.67,
   "skipRate": 62.33,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HIDDEN_DAGGERS.webp"
+  "imageLocal": "assets/img/card/HIDDEN_DAGGERS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HIDDEN_DAGGERS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HIDDEN_DAGGERS.webp"
  },
  {
   "cardEnName": "HIDDEN_GEM",
@@ -8789,7 +9302,9 @@
   "pickRate": 4.81,
   "skipRate": 95.19,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HIDDEN_GEM.webp"
+  "imageLocal": "assets/img/card/HIDDEN_GEM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HIDDEN_GEM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HIDDEN_GEM.webp"
  },
  {
   "cardEnName": "HIGH_FIVE",
@@ -8822,7 +9337,9 @@
   "pickRate": 13.73,
   "skipRate": 86.27,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HIGH_FIVE.webp"
+  "imageLocal": "assets/img/card/HIGH_FIVE.webp",
+  "imageBig": "assets/img/bigcard/HIGH_FIVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HIGH_FIVE_UPGRADE.webp"
  },
  {
   "cardEnName": "HOLOGRAM",
@@ -8855,7 +9372,9 @@
   "pickRate": 30.59,
   "skipRate": 69.41,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HOLOGRAM.webp"
+  "imageLocal": "assets/img/card/HOLOGRAM.webp",
+  "imageBig": "assets/img/bigcard/HOLOGRAM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HOLOGRAM_UPGRADE.webp"
  },
  {
   "cardEnName": "HOTFIX",
@@ -8888,7 +9407,9 @@
   "pickRate": 28.55,
   "skipRate": 71.45,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HOTFIX.webp"
+  "imageLocal": "assets/img/card/HOTFIX.webp",
+  "imageBig": "assets/img/bigcard/HOTFIX.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HOTFIX_UPGRADE.webp"
  },
  {
   "cardEnName": "HOWL_FROM_BEYOND",
@@ -8921,7 +9442,9 @@
   "pickRate": 9.54,
   "skipRate": 90.46,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HOWL_FROM_BEYOND.webp"
+  "imageLocal": "assets/img/card/HOWL_FROM_BEYOND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HOWL_FROM_BEYOND_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HOWL_FROM_BEYOND.webp"
  },
  {
   "cardEnName": "HUDDLE_UP",
@@ -8954,7 +9477,9 @@
   "pickRate": 10.26,
   "skipRate": 89.74,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HUDDLE_UP.webp"
+  "imageLocal": "assets/img/card/HUDDLE_UP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HUDDLE_UP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HUDDLE_UP.webp"
  },
  {
   "cardEnName": "HYPERBEAM",
@@ -8987,7 +9512,9 @@
   "pickRate": 7.35,
   "skipRate": 92.65,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/HYPERBEAM.webp"
+  "imageLocal": "assets/img/card/HYPERBEAM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/HYPERBEAM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/HYPERBEAM.webp"
  },
  {
   "cardEnName": "ICE_LANCE",
@@ -9020,7 +9547,9 @@
   "pickRate": 14.67,
   "skipRate": 85.33,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ICE_LANCE.webp"
+  "imageLocal": "assets/img/card/ICE_LANCE.webp",
+  "imageBig": "assets/img/bigcard/ICE_LANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ICE_LANCE_UPGRADE.webp"
  },
  {
   "cardEnName": "IGNITION",
@@ -9053,7 +9582,9 @@
   "pickRate": 28.9,
   "skipRate": 71.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/IGNITION.webp"
+  "imageLocal": "assets/img/card/IGNITION.webp",
+  "imageBig": "assets/img/bigcard/IGNITION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/IGNITION_UPGRADE.webp"
  },
  {
   "cardEnName": "IMPATIENCE",
@@ -9086,7 +9617,9 @@
   "pickRate": 2.51,
   "skipRate": 97.49,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/IMPATIENCE.webp"
+  "imageLocal": "assets/img/card/IMPATIENCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/IMPATIENCE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/IMPATIENCE.webp"
  },
  {
   "cardEnName": "IMPERVIOUS",
@@ -9119,7 +9652,9 @@
   "pickRate": 34.2,
   "skipRate": 65.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/IMPERVIOUS.webp"
+  "imageLocal": "assets/img/card/IMPERVIOUS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/IMPERVIOUS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/IMPERVIOUS.webp"
  },
  {
   "cardEnName": "INFECTION",
@@ -9151,7 +9686,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/INFECTION.webp"
+  "imageLocal": "assets/img/card/INFECTION.webp",
+  "imageBig": "assets/img/bigcard/INFECTION.webp"
  },
  {
   "cardEnName": "INFERNAL_BLADE",
@@ -9184,7 +9720,9 @@
   "pickRate": 12.1,
   "skipRate": 87.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/INFERNAL_BLADE.webp"
+  "imageLocal": "assets/img/card/INFERNAL_BLADE.webp",
+  "imageBig": "assets/img/bigcard/INFERNAL_BLADE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/INFERNAL_BLADE_UPGRADE.webp"
  },
  {
   "cardEnName": "INFERNO",
@@ -9217,7 +9755,9 @@
   "pickRate": 19.27,
   "skipRate": 80.73,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/INFERNO.webp"
+  "imageLocal": "assets/img/card/INFERNO.webp",
+  "imageBigUpgrade": "assets/img/bigcard/INFERNO_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/INFERNO.webp"
  },
  {
   "cardEnName": "INFINITE_BLADES",
@@ -9250,7 +9790,9 @@
   "pickRate": 13.13,
   "skipRate": 86.87,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/INFINITE_BLADES.webp"
+  "imageLocal": "assets/img/card/INFINITE_BLADES.webp",
+  "imageBig": "assets/img/bigcard/INFINITE_BLADES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/INFINITE_BLADES_UPGRADE.webp"
  },
  {
   "cardEnName": "INFLAME",
@@ -9283,7 +9825,9 @@
   "pickRate": 16.44,
   "skipRate": 83.56,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/INFLAME.webp"
+  "imageLocal": "assets/img/card/INFLAME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/INFLAME_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/INFLAME.webp"
  },
  {
   "cardEnName": "INJURY",
@@ -9315,7 +9859,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/INJURY.webp"
+  "imageLocal": "assets/img/card/INJURY.webp",
+  "imageBig": "assets/img/bigcard/INJURY.webp"
  },
  {
   "cardEnName": "INTERCEPT",
@@ -9348,7 +9893,9 @@
   "pickRate": 1.11,
   "skipRate": 98.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/INTERCEPT.webp"
+  "imageLocal": "assets/img/card/INTERCEPT.webp",
+  "imageBig": "assets/img/bigcard/INTERCEPT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/INTERCEPT_UPGRADE.webp"
  },
  {
   "cardEnName": "INVOKE",
@@ -9381,7 +9928,9 @@
   "pickRate": 26.39,
   "skipRate": 73.61,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/INVOKE.webp"
+  "imageLocal": "assets/img/card/INVOKE.webp",
+  "imageBig": "assets/img/bigcard/INVOKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/INVOKE_UPGRADE.webp"
  },
  {
   "cardEnName": "IRON_WAVE",
@@ -9414,7 +9963,9 @@
   "pickRate": 4.33,
   "skipRate": 95.67,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/IRON_WAVE.webp"
+  "imageLocal": "assets/img/card/IRON_WAVE.webp",
+  "imageBig": "assets/img/bigcard/IRON_WAVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/IRON_WAVE_UPGRADE.webp"
  },
  {
   "cardEnName": "ITERATION",
@@ -9447,7 +9998,9 @@
   "pickRate": 26.28,
   "skipRate": 73.72,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ITERATION.webp"
+  "imageLocal": "assets/img/card/ITERATION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ITERATION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ITERATION.webp"
  },
  {
   "cardEnName": "I_AM_INVINCIBLE",
@@ -9480,7 +10033,9 @@
   "pickRate": 17.77,
   "skipRate": 82.23,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/I_AM_INVINCIBLE.webp"
+  "imageLocal": "assets/img/card/I_AM_INVINCIBLE.webp",
+  "imageBig": "assets/img/bigcard/I_AM_INVINCIBLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/I_AM_INVINCIBLE_UPGRADE.webp"
  },
  {
   "cardEnName": "JACKPOT",
@@ -9513,7 +10068,9 @@
   "pickRate": 1.42,
   "skipRate": 98.58,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/JACKPOT.webp"
+  "imageLocal": "assets/img/card/JACKPOT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/JACKPOT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/JACKPOT.webp"
  },
  {
   "cardEnName": "JACK_OF_ALL_TRADES",
@@ -9546,7 +10103,9 @@
   "pickRate": 2.46,
   "skipRate": 97.54,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/JACK_OF_ALL_TRADES.webp"
+  "imageLocal": "assets/img/card/JACK_OF_ALL_TRADES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/JACK_OF_ALL_TRADES_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/JACK_OF_ALL_TRADES.webp"
  },
  {
   "cardEnName": "JUGGERNAUT",
@@ -9579,7 +10138,9 @@
   "pickRate": 9.55,
   "skipRate": 90.45,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/JUGGERNAUT.webp"
+  "imageLocal": "assets/img/card/JUGGERNAUT.webp",
+  "imageBig": "assets/img/bigcard/JUGGERNAUT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/JUGGERNAUT_UPGRADE.webp"
  },
  {
   "cardEnName": "JUGGLING",
@@ -9612,7 +10173,9 @@
   "pickRate": 11.06,
   "skipRate": 88.94,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/JUGGLING.webp"
+  "imageLocal": "assets/img/card/JUGGLING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/JUGGLING_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/JUGGLING.webp"
  },
  {
   "cardEnName": "KINGLY_KICK",
@@ -9645,7 +10208,9 @@
   "pickRate": 7.66,
   "skipRate": 92.34,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/KINGLY_KICK.webp"
+  "imageLocal": "assets/img/card/KINGLY_KICK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/KINGLY_KICK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/KINGLY_KICK.webp"
  },
  {
   "cardEnName": "KINGLY_PUNCH",
@@ -9678,7 +10243,9 @@
   "pickRate": 7.64,
   "skipRate": 92.36,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/KINGLY_PUNCH.webp"
+  "imageLocal": "assets/img/card/KINGLY_PUNCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/KINGLY_PUNCH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/KINGLY_PUNCH.webp"
  },
  {
   "cardEnName": "KNIFE_TRAP",
@@ -9711,7 +10278,9 @@
   "pickRate": 28.48,
   "skipRate": 71.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/KNIFE_TRAP.webp"
+  "imageLocal": "assets/img/card/KNIFE_TRAP.webp",
+  "imageBig": "assets/img/bigcard/KNIFE_TRAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/KNIFE_TRAP_UPGRADE.webp"
  },
  {
   "cardEnName": "KNOCKDOWN",
@@ -9744,7 +10313,9 @@
   "pickRate": 2.35,
   "skipRate": 97.65,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/KNOCKDOWN.webp"
+  "imageLocal": "assets/img/card/KNOCKDOWN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/KNOCKDOWN_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/KNOCKDOWN.webp"
  },
  {
   "cardEnName": "KNOCKOUT_BLOW",
@@ -9777,7 +10348,9 @@
   "pickRate": 7.14,
   "skipRate": 92.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/KNOCKOUT_BLOW.webp"
+  "imageLocal": "assets/img/card/KNOCKOUT_BLOW.webp",
+  "imageBig": "assets/img/bigcard/KNOCKOUT_BLOW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/KNOCKOUT_BLOW_UPGRADE.webp"
  },
  {
   "cardEnName": "KNOW_THY_PLACE",
@@ -9810,7 +10383,9 @@
   "pickRate": 18.66,
   "skipRate": 81.34,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/KNOW_THY_PLACE.webp"
+  "imageLocal": "assets/img/card/KNOW_THY_PLACE.webp",
+  "imageBig": "assets/img/bigcard/KNOW_THY_PLACE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/KNOW_THY_PLACE_UPGRADE.webp"
  },
  {
   "cardEnName": "LANTERN_KEY",
@@ -9842,7 +10417,8 @@
   "pickRate": 84.7,
   "skipRate": 15.3,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/LANTERN_KEY.webp"
+  "imageLocal": "assets/img/card/LANTERN_KEY.webp",
+  "imageBig": "assets/img/bigcard/LANTERN_KEY.webp"
  },
  {
   "cardEnName": "LARGESSE",
@@ -9875,7 +10451,9 @@
   "pickRate": 15.59,
   "skipRate": 84.41,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LARGESSE.webp"
+  "imageLocal": "assets/img/card/LARGESSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LARGESSE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/LARGESSE.webp"
  },
  {
   "cardEnName": "LEADING_STRIKE",
@@ -9908,7 +10486,9 @@
   "pickRate": 12.68,
   "skipRate": 87.32,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LEADING_STRIKE.webp"
+  "imageLocal": "assets/img/card/LEADING_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/LEADING_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LEADING_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "LEAP",
@@ -9941,7 +10521,9 @@
   "pickRate": 6.78,
   "skipRate": 93.23,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LEAP.webp"
+  "imageLocal": "assets/img/card/LEAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LEAP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/LEAP.webp"
  },
  {
   "cardEnName": "LEGION_OF_BONE",
@@ -9974,7 +10556,9 @@
   "pickRate": 10.58,
   "skipRate": 89.42,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LEGION_OF_BONE.webp"
+  "imageLocal": "assets/img/card/LEGION_OF_BONE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LEGION_OF_BONE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/LEGION_OF_BONE.webp"
  },
  {
   "cardEnName": "LEG_SWEEP",
@@ -10007,7 +10591,9 @@
   "pickRate": 17.37,
   "skipRate": 82.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LEG_SWEEP.webp"
+  "imageLocal": "assets/img/card/LEG_SWEEP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LEG_SWEEP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/LEG_SWEEP.webp"
  },
  {
   "cardEnName": "LETHALITY",
@@ -10040,7 +10626,9 @@
   "pickRate": 29.6,
   "skipRate": 70.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LETHALITY.webp"
+  "imageLocal": "assets/img/card/LETHALITY.webp",
+  "imageBig": "assets/img/bigcard/LETHALITY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LETHALITY_UPGRADE.webp"
  },
  {
   "cardEnName": "LIFT",
@@ -10073,7 +10661,9 @@
   "pickRate": 1.99,
   "skipRate": 98.01,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LIFT.webp"
+  "imageLocal": "assets/img/card/LIFT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LIFT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/LIFT.webp"
  },
  {
   "cardEnName": "LIGHTNING_ROD",
@@ -10106,7 +10696,9 @@
   "pickRate": 16.69,
   "skipRate": 83.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LIGHTNING_ROD.webp"
+  "imageLocal": "assets/img/card/LIGHTNING_ROD.webp",
+  "imageBig": "assets/img/bigcard/LIGHTNING_ROD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LIGHTNING_ROD_UPGRADE.webp"
  },
  {
   "cardEnName": "LOOP",
@@ -10139,7 +10731,9 @@
   "pickRate": 18.79,
   "skipRate": 81.21,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LOOP.webp"
+  "imageLocal": "assets/img/card/LOOP.webp",
+  "imageBig": "assets/img/bigcard/LOOP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LOOP_UPGRADE.webp"
  },
  {
   "cardEnName": "LUMINESCE",
@@ -10172,7 +10766,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LUMINESCE.webp"
+  "imageLocal": "assets/img/card/LUMINESCE.webp",
+  "imageBig": "assets/img/bigcard/LUMINESCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LUMINESCE_UPGRADE.webp"
  },
  {
   "cardEnName": "LUNAR_BLAST",
@@ -10205,7 +10801,9 @@
   "pickRate": 10.88,
   "skipRate": 89.12,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/LUNAR_BLAST.webp"
+  "imageLocal": "assets/img/card/LUNAR_BLAST.webp",
+  "imageBig": "assets/img/bigcard/LUNAR_BLAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/LUNAR_BLAST_UPGRADE.webp"
  },
  {
   "cardEnName": "MACHINE_LEARNING",
@@ -10238,7 +10836,9 @@
   "pickRate": 45.09,
   "skipRate": 54.91,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MACHINE_LEARNING.webp"
+  "imageLocal": "assets/img/card/MACHINE_LEARNING.webp",
+  "imageBig": "assets/img/bigcard/MACHINE_LEARNING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MACHINE_LEARNING_UPGRADE.webp"
  },
  {
   "cardEnName": "MAD_SCIENCE",
@@ -10271,7 +10871,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MAD_SCIENCE.webp"
+  "imageLocal": "assets/img/card/MAD_SCIENCE.webp",
+  "imageBig": "assets/img/bigcard/MAD_SCIENCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MAD_SCIENCE_UPGRADE.webp"
  },
  {
   "cardEnName": "MAKE_IT_SO",
@@ -10304,7 +10906,9 @@
   "pickRate": 21.86,
   "skipRate": 78.14,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MAKE_IT_SO.webp"
+  "imageLocal": "assets/img/card/MAKE_IT_SO.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MAKE_IT_SO_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/MAKE_IT_SO.webp"
  },
  {
   "cardEnName": "MALAISE",
@@ -10337,7 +10941,9 @@
   "pickRate": 12.77,
   "skipRate": 87.23,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MALAISE.webp"
+  "imageLocal": "assets/img/card/MALAISE.webp",
+  "imageBig": "assets/img/bigcard/MALAISE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MALAISE_UPGRADE.webp"
  },
  {
   "cardEnName": "MANGLE",
@@ -10370,7 +10976,9 @@
   "pickRate": 12.86,
   "skipRate": 87.14,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MANGLE.webp"
+  "imageLocal": "assets/img/card/MANGLE.webp",
+  "imageBig": "assets/img/bigcard/MANGLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MANGLE_UPGRADE.webp"
  },
  {
   "cardEnName": "MANIFEST_AUTHORITY",
@@ -10403,7 +11011,9 @@
   "pickRate": 26.49,
   "skipRate": 73.51,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MANIFEST_AUTHORITY.webp"
+  "imageLocal": "assets/img/card/MANIFEST_AUTHORITY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MANIFEST_AUTHORITY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/MANIFEST_AUTHORITY.webp"
  },
  {
   "cardEnName": "MASTER_OF_STRATEGY",
@@ -10436,7 +11046,9 @@
   "pickRate": 1.75,
   "skipRate": 98.25,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MASTER_OF_STRATEGY.webp"
+  "imageLocal": "assets/img/card/MASTER_OF_STRATEGY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MASTER_OF_STRATEGY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/MASTER_OF_STRATEGY.webp"
  },
  {
   "cardEnName": "MASTER_PLANNER",
@@ -10469,7 +11081,9 @@
   "pickRate": 35.47,
   "skipRate": 64.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MASTER_PLANNER.webp"
+  "imageLocal": "assets/img/card/MASTER_PLANNER.webp",
+  "imageBig": "assets/img/bigcard/MASTER_PLANNER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MASTER_PLANNER_UPGRADE.webp"
  },
  {
   "cardEnName": "MAUL",
@@ -10502,7 +11116,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MAUL.webp"
+  "imageLocal": "assets/img/card/MAUL.webp",
+  "imageBig": "assets/img/bigcard/MAUL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MAUL_UPGRADE.webp"
  },
  {
   "cardEnName": "MAYHEM",
@@ -10535,7 +11151,9 @@
   "pickRate": 0.57,
   "skipRate": 99.43,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MAYHEM.webp"
+  "imageLocal": "assets/img/card/MAYHEM.webp",
+  "imageBig": "assets/img/bigcard/MAYHEM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MAYHEM_UPGRADE.webp"
  },
  {
   "cardEnName": "MELANCHOLY",
@@ -10568,7 +11186,9 @@
   "pickRate": 8.84,
   "skipRate": 91.16,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MELANCHOLY.webp"
+  "imageLocal": "assets/img/card/MELANCHOLY.webp",
+  "imageBig": "assets/img/bigcard/MELANCHOLY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MELANCHOLY_UPGRADE.webp"
  },
  {
   "cardEnName": "MEMENTO_MORI",
@@ -10601,7 +11221,9 @@
   "pickRate": 8.4,
   "skipRate": 91.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MEMENTO_MORI.webp"
+  "imageLocal": "assets/img/card/MEMENTO_MORI.webp",
+  "imageBig": "assets/img/bigcard/MEMENTO_MORI.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MEMENTO_MORI_UPGRADE.webp"
  },
  {
   "cardEnName": "METAMORPHOSIS",
@@ -10634,7 +11256,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/METAMORPHOSIS.webp"
+  "imageLocal": "assets/img/card/METAMORPHOSIS.webp",
+  "imageBig": "assets/img/bigcard/METAMORPHOSIS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/METAMORPHOSIS_UPGRADE.webp"
  },
  {
   "cardEnName": "METEOR_SHOWER",
@@ -10667,7 +11291,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/METEOR_SHOWER.webp"
+  "imageLocal": "assets/img/card/METEOR_SHOWER.webp",
+  "imageBig": "assets/img/bigcard/METEOR_SHOWER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/METEOR_SHOWER_UPGRADE.webp"
  },
  {
   "cardEnName": "METEOR_STRIKE",
@@ -10700,7 +11326,9 @@
   "pickRate": 10.62,
   "skipRate": 89.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/METEOR_STRIKE.webp"
+  "imageLocal": "assets/img/card/METEOR_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/METEOR_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/METEOR_STRIKE.webp"
  },
  {
   "cardEnName": "MIMIC",
@@ -10733,7 +11361,9 @@
   "pickRate": 2.57,
   "skipRate": 97.43,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MIMIC.webp"
+  "imageLocal": "assets/img/card/MIMIC.webp",
+  "imageBig": "assets/img/bigcard/MIMIC.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MIMIC_UPGRADE.webp"
  },
  {
   "cardEnName": "MIND_BLAST",
@@ -10766,7 +11396,9 @@
   "pickRate": 0.84,
   "skipRate": 99.16,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MIND_BLAST.webp"
+  "imageLocal": "assets/img/card/MIND_BLAST.webp",
+  "imageBig": "assets/img/bigcard/MIND_BLAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MIND_BLAST_UPGRADE.webp"
  },
  {
   "cardEnName": "MIND_ROT",
@@ -10798,7 +11430,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/MIND_ROT.webp"
+  "imageLocal": "assets/img/card/MIND_ROT.webp",
+  "imageBig": "assets/img/bigcard/MIND_ROT.webp"
  },
  {
   "cardEnName": "MINION_DIVE_BOMB",
@@ -10831,7 +11464,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MINION_DIVE_BOMB.webp"
+  "imageLocal": "assets/img/card/MINION_DIVE_BOMB.webp",
+  "imageBig": "assets/img/bigcard/MINION_DIVE_BOMB.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MINION_DIVE_BOMB_UPGRADE.webp"
  },
  {
   "cardEnName": "MINION_SACRIFICE",
@@ -10864,7 +11499,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MINION_SACRIFICE.webp"
+  "imageLocal": "assets/img/card/MINION_SACRIFICE.webp",
+  "imageBig": "assets/img/bigcard/MINION_SACRIFICE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MINION_SACRIFICE_UPGRADE.webp"
  },
  {
   "cardEnName": "MINION_STRIKE",
@@ -10897,7 +11534,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MINION_STRIKE.webp"
+  "imageLocal": "assets/img/card/MINION_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/MINION_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MINION_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "MIRAGE",
@@ -10930,7 +11569,9 @@
   "pickRate": 12.37,
   "skipRate": 87.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MIRAGE.webp"
+  "imageLocal": "assets/img/card/MIRAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MIRAGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/MIRAGE.webp"
  },
  {
   "cardEnName": "MISERY",
@@ -10963,7 +11604,9 @@
   "pickRate": 26.02,
   "skipRate": 73.98,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MISERY.webp"
+  "imageLocal": "assets/img/card/MISERY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MISERY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/MISERY.webp"
  },
  {
   "cardEnName": "MODDED",
@@ -10996,7 +11639,9 @@
   "pickRate": 44.4,
   "skipRate": 55.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MODDED.webp"
+  "imageLocal": "assets/img/card/MODDED.webp",
+  "imageBig": "assets/img/bigcard/MODDED.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MODDED_UPGRADE.webp"
  },
  {
   "cardEnName": "MOLTEN_FIST",
@@ -11029,7 +11674,9 @@
   "pickRate": 16.48,
   "skipRate": 83.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MOLTEN_FIST.webp"
+  "imageLocal": "assets/img/card/MOLTEN_FIST.webp",
+  "imageBig": "assets/img/bigcard/MOLTEN_FIST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MOLTEN_FIST_UPGRADE.webp"
  },
  {
   "cardEnName": "MOMENTUM_STRIKE",
@@ -11062,7 +11709,9 @@
   "pickRate": 6.99,
   "skipRate": 93.01,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MOMENTUM_STRIKE.webp"
+  "imageLocal": "assets/img/card/MOMENTUM_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MOMENTUM_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/MOMENTUM_STRIKE.webp"
  },
  {
   "cardEnName": "MONARCHS_GAZE",
@@ -11095,7 +11744,9 @@
   "pickRate": 11.37,
   "skipRate": 88.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MONARCHS_GAZE.webp"
+  "imageLocal": "assets/img/card/MONARCHS_GAZE.webp",
+  "imageBig": "assets/img/bigcard/MONARCHS_GAZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MONARCHS_GAZE_UPGRADE.webp"
  },
  {
   "cardEnName": "MONOLOGUE",
@@ -11128,7 +11779,9 @@
   "pickRate": 15.23,
   "skipRate": 84.77,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MONOLOGUE.webp"
+  "imageLocal": "assets/img/card/MONOLOGUE.webp",
+  "imageBig": "assets/img/bigcard/MONOLOGUE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MONOLOGUE_UPGRADE.webp"
  },
  {
   "cardEnName": "MULTI_CAST",
@@ -11161,7 +11814,9 @@
   "pickRate": 12.57,
   "skipRate": 87.43,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MULTI_CAST.webp"
+  "imageLocal": "assets/img/card/MULTI_CAST.webp",
+  "imageBig": "assets/img/bigcard/MULTI_CAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MULTI_CAST_UPGRADE.webp"
  },
  {
   "cardEnName": "MURDER",
@@ -11194,7 +11849,9 @@
   "pickRate": 13.31,
   "skipRate": 86.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/MURDER.webp"
+  "imageLocal": "assets/img/card/MURDER.webp",
+  "imageBig": "assets/img/bigcard/MURDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/MURDER_UPGRADE.webp"
  },
  {
   "cardEnName": "NECRO_MASTERY",
@@ -11227,7 +11884,9 @@
   "pickRate": 21.65,
   "skipRate": 78.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NECRO_MASTERY.webp"
+  "imageLocal": "assets/img/card/NECRO_MASTERY.webp",
+  "imageBig": "assets/img/bigcard/NECRO_MASTERY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NECRO_MASTERY_UPGRADE.webp"
  },
  {
   "cardEnName": "NEGATIVE_PULSE",
@@ -11260,7 +11919,9 @@
   "pickRate": 17.23,
   "skipRate": 82.77,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NEGATIVE_PULSE.webp"
+  "imageLocal": "assets/img/card/NEGATIVE_PULSE.webp",
+  "imageBig": "assets/img/bigcard/NEGATIVE_PULSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NEGATIVE_PULSE_UPGRADE.webp"
  },
  {
   "cardEnName": "NEOWS_FURY",
@@ -11293,7 +11954,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NEOWS_FURY.webp"
+  "imageLocal": "assets/img/card/NEOWS_FURY.webp",
+  "imageBig": "assets/img/bigcard/NEOWS_FURY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NEOWS_FURY_UPGRADE.webp"
  },
  {
   "cardEnName": "NEUROSURGE",
@@ -11326,7 +11989,9 @@
   "pickRate": 63.0,
   "skipRate": 37.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NEUROSURGE.webp"
+  "imageLocal": "assets/img/card/NEUROSURGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NEUROSURGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/NEUROSURGE.webp"
  },
  {
   "cardEnName": "NEUTRALIZE",
@@ -11359,7 +12024,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NEUTRALIZE.webp"
+  "imageLocal": "assets/img/card/NEUTRALIZE.webp",
+  "imageBig": "assets/img/bigcard/NEUTRALIZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NEUTRALIZE_UPGRADE.webp"
  },
  {
   "cardEnName": "NEUTRON_AEGIS",
@@ -11392,7 +12059,9 @@
   "pickRate": 15.75,
   "skipRate": 84.25,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NEUTRON_AEGIS.webp"
+  "imageLocal": "assets/img/card/NEUTRON_AEGIS.webp",
+  "imageBig": "assets/img/bigcard/NEUTRON_AEGIS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NEUTRON_AEGIS_UPGRADE.webp"
  },
  {
   "cardEnName": "NIGHTMARE",
@@ -11425,7 +12094,9 @@
   "pickRate": 14.05,
   "skipRate": 85.95,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NIGHTMARE.webp"
+  "imageLocal": "assets/img/card/NIGHTMARE.webp",
+  "imageBig": "assets/img/bigcard/NIGHTMARE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NIGHTMARE_UPGRADE.webp"
  },
  {
   "cardEnName": "NORMALITY",
@@ -11457,7 +12128,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/NORMALITY.webp"
+  "imageLocal": "assets/img/card/NORMALITY.webp",
+  "imageBig": "assets/img/bigcard/NORMALITY.webp"
  },
  {
   "cardEnName": "NOSTALGIA",
@@ -11490,7 +12162,9 @@
   "pickRate": 0.54,
   "skipRate": 99.46,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NOSTALGIA.webp"
+  "imageLocal": "assets/img/card/NOSTALGIA.webp",
+  "imageBig": "assets/img/bigcard/NOSTALGIA.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NOSTALGIA_UPGRADE.webp"
  },
  {
   "cardEnName": "NOT_YET",
@@ -11523,7 +12197,9 @@
   "pickRate": 31.16,
   "skipRate": 68.84,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NOT_YET.webp"
+  "imageLocal": "assets/img/card/NOT_YET.webp",
+  "imageBig": "assets/img/bigcard/NOT_YET.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NOT_YET_UPGRADE.webp"
  },
  {
   "cardEnName": "NOXIOUS_FUMES",
@@ -11556,7 +12232,9 @@
   "pickRate": 23.33,
   "skipRate": 76.67,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NOXIOUS_FUMES.webp"
+  "imageLocal": "assets/img/card/NOXIOUS_FUMES.webp",
+  "imageBig": "assets/img/bigcard/NOXIOUS_FUMES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NOXIOUS_FUMES_UPGRADE.webp"
  },
  {
   "cardEnName": "NO_ESCAPE",
@@ -11589,7 +12267,9 @@
   "pickRate": 27.35,
   "skipRate": 72.65,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NO_ESCAPE.webp"
+  "imageLocal": "assets/img/card/NO_ESCAPE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NO_ESCAPE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/NO_ESCAPE.webp"
  },
  {
   "cardEnName": "NULL",
@@ -11622,7 +12302,9 @@
   "pickRate": 9.72,
   "skipRate": 90.28,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/NULL.webp"
+  "imageLocal": "assets/img/card/NULL.webp",
+  "imageBig": "assets/img/bigcard/NULL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/NULL_UPGRADE.webp"
  },
  {
   "cardEnName": "OBLIVION",
@@ -11655,7 +12337,9 @@
   "pickRate": 35.07,
   "skipRate": 64.93,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/OBLIVION.webp"
+  "imageLocal": "assets/img/card/OBLIVION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/OBLIVION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/OBLIVION.webp"
  },
  {
   "cardEnName": "OFFERING",
@@ -11688,7 +12372,9 @@
   "pickRate": 72.45,
   "skipRate": 27.55,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/OFFERING.webp"
+  "imageLocal": "assets/img/card/OFFERING.webp",
+  "imageBig": "assets/img/bigcard/OFFERING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/OFFERING_UPGRADE.webp"
  },
  {
   "cardEnName": "OMNISLICE",
@@ -11721,7 +12407,9 @@
   "pickRate": 3.46,
   "skipRate": 96.54,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/OMNISLICE.webp"
+  "imageLocal": "assets/img/card/OMNISLICE.webp",
+  "imageBig": "assets/img/bigcard/OMNISLICE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/OMNISLICE_UPGRADE.webp"
  },
  {
   "cardEnName": "ONE_TWO_PUNCH",
@@ -11754,7 +12442,9 @@
   "pickRate": 18.71,
   "skipRate": 81.29,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ONE_TWO_PUNCH.webp"
+  "imageLocal": "assets/img/card/ONE_TWO_PUNCH.webp",
+  "imageBig": "assets/img/bigcard/ONE_TWO_PUNCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ONE_TWO_PUNCH_UPGRADE.webp"
  },
  {
   "cardEnName": "ORBIT",
@@ -11787,7 +12477,9 @@
   "pickRate": 39.94,
   "skipRate": 60.06,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ORBIT.webp"
+  "imageLocal": "assets/img/card/ORBIT.webp",
+  "imageBig": "assets/img/bigcard/ORBIT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ORBIT_UPGRADE.webp"
  },
  {
   "cardEnName": "OUTBREAK",
@@ -11820,7 +12512,9 @@
   "pickRate": 10.72,
   "skipRate": 89.28,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/OUTBREAK.webp"
+  "imageLocal": "assets/img/card/OUTBREAK.webp",
+  "imageBig": "assets/img/bigcard/OUTBREAK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/OUTBREAK_UPGRADE.webp"
  },
  {
   "cardEnName": "OUTMANEUVER",
@@ -11853,7 +12547,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/OUTMANEUVER.webp"
+  "imageLocal": "assets/img/card/OUTMANEUVER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/OUTMANEUVER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/OUTMANEUVER.webp"
  },
  {
   "cardEnName": "OVERCLOCK",
@@ -11886,7 +12582,9 @@
   "pickRate": 50.94,
   "skipRate": 49.06,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/OVERCLOCK.webp"
+  "imageLocal": "assets/img/card/OVERCLOCK.webp",
+  "imageBig": "assets/img/bigcard/OVERCLOCK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/OVERCLOCK_UPGRADE.webp"
  },
  {
   "cardEnName": "PACTS_END",
@@ -11919,7 +12617,9 @@
   "pickRate": 20.21,
   "skipRate": 79.79,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PACTS_END.webp"
+  "imageLocal": "assets/img/card/PACTS_END.webp",
+  "imageBig": "assets/img/bigcard/PACTS_END.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PACTS_END_UPGRADE.webp"
  },
  {
   "cardEnName": "PAGESTORM",
@@ -11952,7 +12652,9 @@
   "pickRate": 13.55,
   "skipRate": 86.45,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PAGESTORM.webp"
+  "imageLocal": "assets/img/card/PAGESTORM.webp",
+  "imageBig": "assets/img/bigcard/PAGESTORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PAGESTORM_UPGRADE.webp"
  },
  {
   "cardEnName": "PALE_BLUE_DOT",
@@ -11985,7 +12687,9 @@
   "pickRate": 9.96,
   "skipRate": 90.04,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PALE_BLUE_DOT.webp"
+  "imageLocal": "assets/img/card/PALE_BLUE_DOT.webp",
+  "imageBig": "assets/img/bigcard/PALE_BLUE_DOT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PALE_BLUE_DOT_UPGRADE.webp"
  },
  {
   "cardEnName": "PANACHE",
@@ -12018,7 +12722,9 @@
   "pickRate": 3.39,
   "skipRate": 96.61,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PANACHE.webp"
+  "imageLocal": "assets/img/card/PANACHE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PANACHE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PANACHE.webp"
  },
  {
   "cardEnName": "PANIC_BUTTON",
@@ -12051,7 +12757,9 @@
   "pickRate": 0.89,
   "skipRate": 99.11,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PANIC_BUTTON.webp"
+  "imageLocal": "assets/img/card/PANIC_BUTTON.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PANIC_BUTTON_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PANIC_BUTTON.webp"
  },
  {
   "cardEnName": "PARRY",
@@ -12084,7 +12792,9 @@
   "pickRate": 14.11,
   "skipRate": 85.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PARRY.webp"
+  "imageLocal": "assets/img/card/PARRY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PARRY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PARRY.webp"
  },
  {
   "cardEnName": "PARSE",
@@ -12117,7 +12827,9 @@
   "pickRate": 32.18,
   "skipRate": 67.82,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PARSE.webp"
+  "imageLocal": "assets/img/card/PARSE.webp",
+  "imageBig": "assets/img/bigcard/PARSE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PARSE_UPGRADE.webp"
  },
  {
   "cardEnName": "PARTICLE_WALL",
@@ -12150,7 +12862,9 @@
   "pickRate": 35.91,
   "skipRate": 64.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PARTICLE_WALL.webp"
+  "imageLocal": "assets/img/card/PARTICLE_WALL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PARTICLE_WALL_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PARTICLE_WALL.webp"
  },
  {
   "cardEnName": "PATTER",
@@ -12183,7 +12897,9 @@
   "pickRate": 13.29,
   "skipRate": 86.71,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PATTER.webp"
+  "imageLocal": "assets/img/card/PATTER.webp",
+  "imageBig": "assets/img/bigcard/PATTER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PATTER_UPGRADE.webp"
  },
  {
   "cardEnName": "PECK",
@@ -12216,7 +12932,9 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PECK.webp"
+  "imageLocal": "assets/img/card/PECK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PECK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PECK.webp"
  },
  {
   "cardEnName": "PERFECTED_STRIKE",
@@ -12249,7 +12967,9 @@
   "pickRate": 19.1,
   "skipRate": 80.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PERFECTED_STRIKE.webp"
+  "imageLocal": "assets/img/card/PERFECTED_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/PERFECTED_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PERFECTED_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "PHANTOM_BLADES",
@@ -12282,7 +13002,9 @@
   "pickRate": 15.08,
   "skipRate": 84.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PHANTOM_BLADES.webp"
+  "imageLocal": "assets/img/card/PHANTOM_BLADES.webp",
+  "imageBig": "assets/img/bigcard/PHANTOM_BLADES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PHANTOM_BLADES_UPGRADE.webp"
  },
  {
   "cardEnName": "PHOTON_CUT",
@@ -12315,7 +13037,9 @@
   "pickRate": 12.03,
   "skipRate": 87.97,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PHOTON_CUT.webp"
+  "imageLocal": "assets/img/card/PHOTON_CUT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PHOTON_CUT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PHOTON_CUT.webp"
  },
  {
   "cardEnName": "PIERCING_WAIL",
@@ -12348,7 +13072,9 @@
   "pickRate": 27.6,
   "skipRate": 72.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PIERCING_WAIL.webp"
+  "imageLocal": "assets/img/card/PIERCING_WAIL.webp",
+  "imageBig": "assets/img/bigcard/PIERCING_WAIL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PIERCING_WAIL_UPGRADE.webp"
  },
  {
   "cardEnName": "PILLAGE",
@@ -12381,7 +13107,9 @@
   "pickRate": 25.06,
   "skipRate": 74.94,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PILLAGE.webp"
+  "imageLocal": "assets/img/card/PILLAGE.webp",
+  "imageBig": "assets/img/bigcard/PILLAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PILLAGE_UPGRADE.webp"
  },
  {
   "cardEnName": "PILLAR_OF_CREATION",
@@ -12414,7 +13142,9 @@
   "pickRate": 14.49,
   "skipRate": 85.51,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PILLAR_OF_CREATION.webp"
+  "imageLocal": "assets/img/card/PILLAR_OF_CREATION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PILLAR_OF_CREATION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PILLAR_OF_CREATION.webp"
  },
  {
   "cardEnName": "PINPOINT",
@@ -12447,7 +13177,9 @@
   "pickRate": 18.83,
   "skipRate": 81.17,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PINPOINT.webp"
+  "imageLocal": "assets/img/card/PINPOINT.webp",
+  "imageBig": "assets/img/bigcard/PINPOINT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PINPOINT_UPGRADE.webp"
  },
  {
   "cardEnName": "POISONED_STAB",
@@ -12480,7 +13212,9 @@
   "pickRate": 6.34,
   "skipRate": 93.66,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/POISONED_STAB.webp"
+  "imageLocal": "assets/img/card/POISONED_STAB.webp",
+  "imageBig": "assets/img/bigcard/POISONED_STAB.webp",
+  "imageBigUpgrade": "assets/img/bigcard/POISONED_STAB_UPGRADE.webp"
  },
  {
   "cardEnName": "POKE",
@@ -12513,7 +13247,9 @@
   "pickRate": 9.05,
   "skipRate": 90.95,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/POKE.webp"
+  "imageLocal": "assets/img/card/POKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/POKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/POKE.webp"
  },
  {
   "cardEnName": "POMMEL_STRIKE",
@@ -12546,7 +13282,9 @@
   "pickRate": 48.96,
   "skipRate": 51.04,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/POMMEL_STRIKE.webp"
+  "imageLocal": "assets/img/card/POMMEL_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/POMMEL_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/POMMEL_STRIKE.webp"
  },
  {
   "cardEnName": "POOR_SLEEP",
@@ -12578,7 +13316,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/POOR_SLEEP.webp"
+  "imageLocal": "assets/img/card/POOR_SLEEP.webp",
+  "imageBig": "assets/img/bigcard/POOR_SLEEP.webp"
  },
  {
   "cardEnName": "POUNCE",
@@ -12611,7 +13350,9 @@
   "pickRate": 8.32,
   "skipRate": 91.68,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/POUNCE.webp"
+  "imageLocal": "assets/img/card/POUNCE.webp",
+  "imageBig": "assets/img/bigcard/POUNCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/POUNCE_UPGRADE.webp"
  },
  {
   "cardEnName": "PRECISE_CUT",
@@ -12644,7 +13385,9 @@
   "pickRate": 6.32,
   "skipRate": 93.68,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PRECISE_CUT.webp"
+  "imageLocal": "assets/img/card/PRECISE_CUT.webp",
+  "imageBig": "assets/img/bigcard/PRECISE_CUT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PRECISE_CUT_UPGRADE.webp"
  },
  {
   "cardEnName": "PREDATOR",
@@ -12677,7 +13420,9 @@
   "pickRate": 4.56,
   "skipRate": 95.44,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PREDATOR.webp"
+  "imageLocal": "assets/img/card/PREDATOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PREDATOR_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PREDATOR.webp"
  },
  {
   "cardEnName": "PREPARED",
@@ -12710,7 +13455,9 @@
   "pickRate": 47.63,
   "skipRate": 52.37,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PREPARED.webp"
+  "imageLocal": "assets/img/card/PREPARED.webp",
+  "imageBig": "assets/img/bigcard/PREPARED.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PREPARED_UPGRADE.webp"
  },
  {
   "cardEnName": "PREP_TIME",
@@ -12743,7 +13490,9 @@
   "pickRate": 1.83,
   "skipRate": 98.17,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PREP_TIME.webp"
+  "imageLocal": "assets/img/card/PREP_TIME.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PREP_TIME_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PREP_TIME.webp"
  },
  {
   "cardEnName": "PRIMAL_FORCE",
@@ -12776,7 +13525,9 @@
   "pickRate": 13.74,
   "skipRate": 86.26,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PRIMAL_FORCE.webp"
+  "imageLocal": "assets/img/card/PRIMAL_FORCE.webp",
+  "imageBig": "assets/img/bigcard/PRIMAL_FORCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PRIMAL_FORCE_UPGRADE.webp"
  },
  {
   "cardEnName": "PRODUCTION",
@@ -12809,7 +13560,9 @@
   "pickRate": 12.92,
   "skipRate": 87.08,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PRODUCTION.webp"
+  "imageLocal": "assets/img/card/PRODUCTION.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PRODUCTION_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/PRODUCTION.webp"
  },
  {
   "cardEnName": "PROLONG",
@@ -12842,7 +13595,9 @@
   "pickRate": 5.13,
   "skipRate": 94.87,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PROLONG.webp"
+  "imageLocal": "assets/img/card/PROLONG.webp",
+  "imageBig": "assets/img/bigcard/PROLONG.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PROLONG_UPGRADE.webp"
  },
  {
   "cardEnName": "PROPHESIZE",
@@ -12875,7 +13630,9 @@
   "pickRate": 11.36,
   "skipRate": 88.64,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PROPHESIZE.webp"
+  "imageLocal": "assets/img/card/PROPHESIZE.webp",
+  "imageBig": "assets/img/bigcard/PROPHESIZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PROPHESIZE_UPGRADE.webp"
  },
  {
   "cardEnName": "PROTECTOR",
@@ -12908,7 +13665,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PROTECTOR.webp"
+  "imageLocal": "assets/img/card/PROTECTOR.webp",
+  "imageBig": "assets/img/bigcard/PROTECTOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PROTECTOR_UPGRADE.webp"
  },
  {
   "cardEnName": "PROWESS",
@@ -12941,7 +13700,9 @@
   "pickRate": 5.69,
   "skipRate": 94.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PROWESS.webp"
+  "imageLocal": "assets/img/card/PROWESS.webp",
+  "imageBig": "assets/img/bigcard/PROWESS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PROWESS_UPGRADE.webp"
  },
  {
   "cardEnName": "PULL_AGGRO",
@@ -12974,7 +13735,9 @@
   "pickRate": 5.3,
   "skipRate": 94.7,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PULL_AGGRO.webp"
+  "imageLocal": "assets/img/card/PULL_AGGRO.webp",
+  "imageBig": "assets/img/bigcard/PULL_AGGRO.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PULL_AGGRO_UPGRADE.webp"
  },
  {
   "cardEnName": "PULL_FROM_BELOW",
@@ -13007,7 +13770,9 @@
   "pickRate": 10.9,
   "skipRate": 89.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PULL_FROM_BELOW.webp"
+  "imageLocal": "assets/img/card/PULL_FROM_BELOW.webp",
+  "imageBig": "assets/img/bigcard/PULL_FROM_BELOW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PULL_FROM_BELOW_UPGRADE.webp"
  },
  {
   "cardEnName": "PURITY",
@@ -13040,7 +13805,9 @@
   "pickRate": 6.58,
   "skipRate": 93.42,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PURITY.webp"
+  "imageLocal": "assets/img/card/PURITY.webp",
+  "imageBig": "assets/img/bigcard/PURITY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PURITY_UPGRADE.webp"
  },
  {
   "cardEnName": "PUTREFY",
@@ -13073,7 +13840,9 @@
   "pickRate": 25.21,
   "skipRate": 74.79,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PUTREFY.webp"
+  "imageLocal": "assets/img/card/PUTREFY.webp",
+  "imageBig": "assets/img/bigcard/PUTREFY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PUTREFY_UPGRADE.webp"
  },
  {
   "cardEnName": "PYRE",
@@ -13106,7 +13875,9 @@
   "pickRate": 44.48,
   "skipRate": 55.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/PYRE.webp"
+  "imageLocal": "assets/img/card/PYRE.webp",
+  "imageBig": "assets/img/bigcard/PYRE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/PYRE_UPGRADE.webp"
  },
  {
   "cardEnName": "QUADCAST",
@@ -13139,7 +13910,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/QUADCAST.webp"
+  "imageLocal": "assets/img/card/QUADCAST.webp",
+  "imageBig": "assets/img/bigcard/QUADCAST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/QUADCAST_UPGRADE.webp"
  },
  {
   "cardEnName": "QUASAR",
@@ -13172,7 +13945,9 @@
   "pickRate": 23.72,
   "skipRate": 76.28,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/QUASAR.webp"
+  "imageLocal": "assets/img/card/QUASAR.webp",
+  "imageBig": "assets/img/bigcard/QUASAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/QUASAR_UPGRADE.webp"
  },
  {
   "cardEnName": "RADIATE",
@@ -13205,7 +13980,9 @@
   "pickRate": 25.45,
   "skipRate": 74.55,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RADIATE.webp"
+  "imageLocal": "assets/img/card/RADIATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RADIATE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RADIATE.webp"
  },
  {
   "cardEnName": "RAGE",
@@ -13238,7 +14015,9 @@
   "pickRate": 27.4,
   "skipRate": 72.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RAGE.webp"
+  "imageLocal": "assets/img/card/RAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RAGE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RAGE.webp"
  },
  {
   "cardEnName": "RAINBOW",
@@ -13271,7 +14050,9 @@
   "pickRate": 12.93,
   "skipRate": 87.07,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RAINBOW.webp"
+  "imageLocal": "assets/img/card/RAINBOW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RAINBOW_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RAINBOW.webp"
  },
  {
   "cardEnName": "RALLY",
@@ -13304,7 +14085,9 @@
   "pickRate": 1.92,
   "skipRate": 98.08,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RALLY.webp"
+  "imageLocal": "assets/img/card/RALLY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RALLY_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RALLY.webp"
  },
  {
   "cardEnName": "RAMPAGE",
@@ -13337,7 +14120,9 @@
   "pickRate": 9.4,
   "skipRate": 90.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RAMPAGE.webp"
+  "imageLocal": "assets/img/card/RAMPAGE.webp",
+  "imageBig": "assets/img/bigcard/RAMPAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RAMPAGE_UPGRADE.webp"
  },
  {
   "cardEnName": "RATTLE",
@@ -13370,7 +14155,9 @@
   "pickRate": 9.52,
   "skipRate": 90.48,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RATTLE.webp"
+  "imageLocal": "assets/img/card/RATTLE.webp",
+  "imageBig": "assets/img/bigcard/RATTLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RATTLE_UPGRADE.webp"
  },
  {
   "cardEnName": "REANIMATE",
@@ -13403,7 +14190,9 @@
   "pickRate": 24.22,
   "skipRate": 75.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REANIMATE.webp"
+  "imageLocal": "assets/img/card/REANIMATE.webp",
+  "imageBig": "assets/img/bigcard/REANIMATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REANIMATE_UPGRADE.webp"
  },
  {
   "cardEnName": "REAP",
@@ -13436,7 +14225,9 @@
   "pickRate": 5.92,
   "skipRate": 94.08,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REAP.webp"
+  "imageLocal": "assets/img/card/REAP.webp",
+  "imageBig": "assets/img/bigcard/REAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REAP_UPGRADE.webp"
  },
  {
   "cardEnName": "REAPER_FORM",
@@ -13469,7 +14260,9 @@
   "pickRate": 23.83,
   "skipRate": 76.17,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REAPER_FORM.webp"
+  "imageLocal": "assets/img/card/REAPER_FORM.webp",
+  "imageBig": "assets/img/bigcard/REAPER_FORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REAPER_FORM_UPGRADE.webp"
  },
  {
   "cardEnName": "REAVE",
@@ -13502,7 +14295,9 @@
   "pickRate": 9.48,
   "skipRate": 90.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REAVE.webp"
+  "imageLocal": "assets/img/card/REAVE.webp",
+  "imageBig": "assets/img/bigcard/REAVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REAVE_UPGRADE.webp"
  },
  {
   "cardEnName": "REBOOT",
@@ -13535,7 +14330,9 @@
   "pickRate": 44.73,
   "skipRate": 55.27,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REBOOT.webp"
+  "imageLocal": "assets/img/card/REBOOT.webp",
+  "imageBig": "assets/img/bigcard/REBOOT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REBOOT_UPGRADE.webp"
  },
  {
   "cardEnName": "REBOUND",
@@ -13568,7 +14365,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REBOUND.webp"
+  "imageLocal": "assets/img/card/REBOUND.webp",
+  "imageBig": "assets/img/bigcard/REBOUND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REBOUND_UPGRADE.webp"
  },
  {
   "cardEnName": "REFINE_BLADE",
@@ -13601,7 +14400,9 @@
   "pickRate": 14.39,
   "skipRate": 85.61,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REFINE_BLADE.webp"
+  "imageLocal": "assets/img/card/REFINE_BLADE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REFINE_BLADE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/REFINE_BLADE.webp"
  },
  {
   "cardEnName": "REFLECT",
@@ -13634,7 +14435,9 @@
   "pickRate": 38.9,
   "skipRate": 61.1,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REFLECT.webp"
+  "imageLocal": "assets/img/card/REFLECT.webp",
+  "imageBig": "assets/img/bigcard/REFLECT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REFLECT_UPGRADE.webp"
  },
  {
   "cardEnName": "REFLEX",
@@ -13667,7 +14470,9 @@
   "pickRate": 41.36,
   "skipRate": 58.64,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REFLEX.webp"
+  "imageLocal": "assets/img/card/REFLEX.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REFLEX_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/REFLEX.webp"
  },
  {
   "cardEnName": "REFRACT",
@@ -13700,7 +14505,9 @@
   "pickRate": 7.6,
   "skipRate": 92.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REFRACT.webp"
+  "imageLocal": "assets/img/card/REFRACT.webp",
+  "imageBig": "assets/img/bigcard/REFRACT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REFRACT_UPGRADE.webp"
  },
  {
   "cardEnName": "REGRET",
@@ -13732,7 +14539,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/REGRET.webp"
+  "imageLocal": "assets/img/card/REGRET.webp",
+  "imageBig": "assets/img/bigcard/REGRET.webp"
  },
  {
   "cardEnName": "RELAX",
@@ -13765,7 +14573,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RELAX.webp"
+  "imageLocal": "assets/img/card/RELAX.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RELAX_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RELAX.webp"
  },
  {
   "cardEnName": "REND",
@@ -13798,7 +14608,9 @@
   "pickRate": 0.07,
   "skipRate": 99.93,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/REND.webp"
+  "imageLocal": "assets/img/card/REND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/REND_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/REND.webp"
  },
  {
   "cardEnName": "RESONANCE",
@@ -13831,7 +14643,9 @@
   "pickRate": 7.59,
   "skipRate": 92.41,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RESONANCE.webp"
+  "imageLocal": "assets/img/card/RESONANCE.webp",
+  "imageBig": "assets/img/bigcard/RESONANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RESONANCE_UPGRADE.webp"
  },
  {
   "cardEnName": "RESTLESSNESS",
@@ -13864,7 +14678,9 @@
   "pickRate": 2.24,
   "skipRate": 97.76,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RESTLESSNESS.webp"
+  "imageLocal": "assets/img/card/RESTLESSNESS.webp",
+  "imageBig": "assets/img/bigcard/RESTLESSNESS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RESTLESSNESS_UPGRADE.webp"
  },
  {
   "cardEnName": "RICOCHET",
@@ -13897,7 +14713,9 @@
   "pickRate": 13.76,
   "skipRate": 86.24,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RICOCHET.webp"
+  "imageLocal": "assets/img/card/RICOCHET.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RICOCHET_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RICOCHET.webp"
  },
  {
   "cardEnName": "RIGHT_HAND_HAND",
@@ -13930,7 +14748,9 @@
   "pickRate": 10.14,
   "skipRate": 89.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RIGHT_HAND_HAND.webp"
+  "imageLocal": "assets/img/card/RIGHT_HAND_HAND.webp",
+  "imageBig": "assets/img/bigcard/RIGHT_HAND_HAND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RIGHT_HAND_HAND_UPGRADE.webp"
  },
  {
   "cardEnName": "RIP_AND_TEAR",
@@ -13963,7 +14783,9 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RIP_AND_TEAR.webp"
+  "imageLocal": "assets/img/card/RIP_AND_TEAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RIP_AND_TEAR_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/RIP_AND_TEAR.webp"
  },
  {
   "cardEnName": "ROCKET_PUNCH",
@@ -13996,7 +14818,9 @@
   "pickRate": 23.47,
   "skipRate": 76.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ROCKET_PUNCH.webp"
+  "imageLocal": "assets/img/card/ROCKET_PUNCH.webp",
+  "imageBig": "assets/img/bigcard/ROCKET_PUNCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ROCKET_PUNCH_UPGRADE.webp"
  },
  {
   "cardEnName": "ROLLING_BOULDER",
@@ -14029,7 +14853,9 @@
   "pickRate": 0.22,
   "skipRate": 99.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ROLLING_BOULDER.webp"
+  "imageLocal": "assets/img/card/ROLLING_BOULDER.webp",
+  "imageBig": "assets/img/bigcard/ROLLING_BOULDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ROLLING_BOULDER_UPGRADE.webp"
  },
  {
   "cardEnName": "ROYALTIES",
@@ -14062,7 +14888,9 @@
   "pickRate": 20.23,
   "skipRate": 79.77,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ROYALTIES.webp"
+  "imageLocal": "assets/img/card/ROYALTIES.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ROYALTIES_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ROYALTIES.webp"
  },
  {
   "cardEnName": "ROYAL_GAMBLE",
@@ -14095,7 +14923,9 @@
   "pickRate": 38.56,
   "skipRate": 61.44,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ROYAL_GAMBLE.webp"
+  "imageLocal": "assets/img/card/ROYAL_GAMBLE.webp",
+  "imageBig": "assets/img/bigcard/ROYAL_GAMBLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ROYAL_GAMBLE_UPGRADE.webp"
  },
  {
   "cardEnName": "RUPTURE",
@@ -14128,7 +14958,9 @@
   "pickRate": 18.6,
   "skipRate": 81.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/RUPTURE.webp"
+  "imageLocal": "assets/img/card/RUPTURE.webp",
+  "imageBig": "assets/img/bigcard/RUPTURE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/RUPTURE_UPGRADE.webp"
  },
  {
   "cardEnName": "SACRIFICE",
@@ -14161,7 +14993,9 @@
   "pickRate": 11.39,
   "skipRate": 88.61,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SACRIFICE.webp"
+  "imageLocal": "assets/img/card/SACRIFICE.webp",
+  "imageBig": "assets/img/bigcard/SACRIFICE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SACRIFICE_UPGRADE.webp"
  },
  {
   "cardEnName": "SALVO",
@@ -14194,7 +15028,9 @@
   "pickRate": 0.46,
   "skipRate": 99.54,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SALVO.webp"
+  "imageLocal": "assets/img/card/SALVO.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SALVO_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SALVO.webp"
  },
  {
   "cardEnName": "SCAVENGE",
@@ -14227,7 +15063,9 @@
   "pickRate": 38.53,
   "skipRate": 61.47,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SCAVENGE.webp"
+  "imageLocal": "assets/img/card/SCAVENGE.webp",
+  "imageBig": "assets/img/bigcard/SCAVENGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SCAVENGE_UPGRADE.webp"
  },
  {
   "cardEnName": "SCOURGE",
@@ -14260,7 +15098,9 @@
   "pickRate": 17.3,
   "skipRate": 82.7,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SCOURGE.webp"
+  "imageLocal": "assets/img/card/SCOURGE.webp",
+  "imageBig": "assets/img/bigcard/SCOURGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SCOURGE_UPGRADE.webp"
  },
  {
   "cardEnName": "SCRAPE",
@@ -14293,7 +15133,9 @@
   "pickRate": 11.15,
   "skipRate": 88.85,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SCRAPE.webp"
+  "imageLocal": "assets/img/card/SCRAPE.webp",
+  "imageBig": "assets/img/bigcard/SCRAPE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SCRAPE_UPGRADE.webp"
  },
  {
   "cardEnName": "SCRAWL",
@@ -14326,7 +15168,9 @@
   "pickRate": 0.84,
   "skipRate": 99.16,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SCRAWL.webp"
+  "imageLocal": "assets/img/card/SCRAWL.webp",
+  "imageBig": "assets/img/bigcard/SCRAWL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SCRAWL_UPGRADE.webp"
  },
  {
   "cardEnName": "SCULPTING_STRIKE",
@@ -14359,7 +15203,9 @@
   "pickRate": 10.71,
   "skipRate": 89.29,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SCULPTING_STRIKE.webp"
+  "imageLocal": "assets/img/card/SCULPTING_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SCULPTING_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SCULPTING_STRIKE.webp"
  },
  {
   "cardEnName": "SEANCE",
@@ -14392,7 +15238,9 @@
   "pickRate": 49.94,
   "skipRate": 50.06,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SEANCE.webp"
+  "imageLocal": "assets/img/card/SEANCE.webp",
+  "imageBig": "assets/img/bigcard/SEANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SEANCE_UPGRADE.webp"
  },
  {
   "cardEnName": "SECOND_WIND",
@@ -14425,7 +15273,9 @@
   "pickRate": 32.0,
   "skipRate": 68.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SECOND_WIND.webp"
+  "imageLocal": "assets/img/card/SECOND_WIND.webp",
+  "imageBig": "assets/img/bigcard/SECOND_WIND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SECOND_WIND_UPGRADE.webp"
  },
  {
   "cardEnName": "SECRET_TECHNIQUE",
@@ -14458,7 +15308,9 @@
   "pickRate": 0.69,
   "skipRate": 99.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SECRET_TECHNIQUE.webp"
+  "imageLocal": "assets/img/card/SECRET_TECHNIQUE.webp",
+  "imageBig": "assets/img/bigcard/SECRET_TECHNIQUE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SECRET_TECHNIQUE_UPGRADE.webp"
  },
  {
   "cardEnName": "SECRET_WEAPON",
@@ -14491,7 +15343,9 @@
   "pickRate": 0.46,
   "skipRate": 99.54,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SECRET_WEAPON.webp"
+  "imageLocal": "assets/img/card/SECRET_WEAPON.webp",
+  "imageBig": "assets/img/bigcard/SECRET_WEAPON.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SECRET_WEAPON_UPGRADE.webp"
  },
  {
   "cardEnName": "SEEKER_STRIKE",
@@ -14524,7 +15378,9 @@
   "pickRate": 1.56,
   "skipRate": 98.44,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SEEKER_STRIKE.webp"
+  "imageLocal": "assets/img/card/SEEKER_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SEEKER_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SEEKER_STRIKE.webp"
  },
  {
   "cardEnName": "SEEKING_EDGE",
@@ -14557,7 +15413,9 @@
   "pickRate": 28.45,
   "skipRate": 71.55,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SEEKING_EDGE.webp"
+  "imageLocal": "assets/img/card/SEEKING_EDGE.webp",
+  "imageBig": "assets/img/bigcard/SEEKING_EDGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SEEKING_EDGE_UPGRADE.webp"
  },
  {
   "cardEnName": "SENTRY_MODE",
@@ -14590,7 +15448,9 @@
   "pickRate": 19.34,
   "skipRate": 80.66,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SENTRY_MODE.webp"
+  "imageLocal": "assets/img/card/SENTRY_MODE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SENTRY_MODE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SENTRY_MODE.webp"
  },
  {
   "cardEnName": "SERPENT_FORM",
@@ -14623,7 +15483,9 @@
   "pickRate": 25.47,
   "skipRate": 74.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SERPENT_FORM.webp"
+  "imageLocal": "assets/img/card/SERPENT_FORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SERPENT_FORM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SERPENT_FORM.webp"
  },
  {
   "cardEnName": "SETUP_STRIKE",
@@ -14656,7 +15518,9 @@
   "pickRate": 7.52,
   "skipRate": 92.48,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SETUP_STRIKE.webp"
+  "imageLocal": "assets/img/card/SETUP_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SETUP_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SETUP_STRIKE.webp"
  },
  {
   "cardEnName": "SEVEN_STARS",
@@ -14689,7 +15553,9 @@
   "pickRate": 23.5,
   "skipRate": 76.5,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SEVEN_STARS.webp"
+  "imageLocal": "assets/img/card/SEVEN_STARS.webp",
+  "imageBig": "assets/img/bigcard/SEVEN_STARS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SEVEN_STARS_UPGRADE.webp"
  },
  {
   "cardEnName": "SEVERANCE",
@@ -14722,7 +15588,9 @@
   "pickRate": 16.24,
   "skipRate": 83.76,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SEVERANCE.webp"
+  "imageLocal": "assets/img/card/SEVERANCE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SEVERANCE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SEVERANCE.webp"
  },
  {
   "cardEnName": "SHADOWMELD",
@@ -14755,7 +15623,9 @@
   "pickRate": 34.97,
   "skipRate": 65.03,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHADOWMELD.webp"
+  "imageLocal": "assets/img/card/SHADOWMELD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHADOWMELD_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SHADOWMELD.webp"
  },
  {
   "cardEnName": "SHADOW_SHIELD",
@@ -14788,7 +15658,9 @@
   "pickRate": 20.13,
   "skipRate": 79.87,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHADOW_SHIELD.webp"
+  "imageLocal": "assets/img/card/SHADOW_SHIELD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHADOW_SHIELD_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SHADOW_SHIELD.webp"
  },
  {
   "cardEnName": "SHADOW_STEP",
@@ -14821,7 +15693,9 @@
   "pickRate": 21.34,
   "skipRate": 78.66,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHADOW_STEP.webp"
+  "imageLocal": "assets/img/card/SHADOW_STEP.webp",
+  "imageBig": "assets/img/bigcard/SHADOW_STEP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHADOW_STEP_UPGRADE.webp"
  },
  {
   "cardEnName": "SHAME",
@@ -14853,7 +15727,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/SHAME.webp"
+  "imageLocal": "assets/img/card/SHAME.webp",
+  "imageBig": "assets/img/bigcard/SHAME.webp"
  },
  {
   "cardEnName": "SHARED_FATE",
@@ -14886,7 +15761,9 @@
   "pickRate": 19.1,
   "skipRate": 80.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHARED_FATE.webp"
+  "imageLocal": "assets/img/card/SHARED_FATE.webp",
+  "imageBig": "assets/img/bigcard/SHARED_FATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHARED_FATE_UPGRADE.webp"
  },
  {
   "cardEnName": "SHATTER",
@@ -14919,7 +15796,9 @@
   "pickRate": 20.82,
   "skipRate": 79.18,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHATTER.webp"
+  "imageLocal": "assets/img/card/SHATTER.webp",
+  "imageBig": "assets/img/bigcard/SHATTER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHATTER_UPGRADE.webp"
  },
  {
   "cardEnName": "SHINING_STRIKE",
@@ -14952,7 +15831,9 @@
   "pickRate": 20.1,
   "skipRate": 79.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHINING_STRIKE.webp"
+  "imageLocal": "assets/img/card/SHINING_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/SHINING_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHINING_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "SHIV",
@@ -14985,7 +15866,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHIV.webp"
+  "imageLocal": "assets/img/card/SHIV.webp",
+  "imageBig": "assets/img/bigcard/SHIV.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHIV_UPGRADE.webp"
  },
  {
   "cardEnName": "SHOCKWAVE",
@@ -15018,7 +15901,9 @@
   "pickRate": 4.68,
   "skipRate": 95.32,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHOCKWAVE.webp"
+  "imageLocal": "assets/img/card/SHOCKWAVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHOCKWAVE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SHOCKWAVE.webp"
  },
  {
   "cardEnName": "SHROUD",
@@ -15051,7 +15936,9 @@
   "pickRate": 13.22,
   "skipRate": 86.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHROUD.webp"
+  "imageLocal": "assets/img/card/SHROUD.webp",
+  "imageBig": "assets/img/bigcard/SHROUD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHROUD_UPGRADE.webp"
  },
  {
   "cardEnName": "SHRUG_IT_OFF",
@@ -15084,7 +15971,9 @@
   "pickRate": 29.65,
   "skipRate": 70.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SHRUG_IT_OFF.webp"
+  "imageLocal": "assets/img/card/SHRUG_IT_OFF.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SHRUG_IT_OFF_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SHRUG_IT_OFF.webp"
  },
  {
   "cardEnName": "SIC_EM",
@@ -15117,7 +16006,9 @@
   "pickRate": 9.45,
   "skipRate": 90.55,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SIC_EM.webp"
+  "imageLocal": "assets/img/card/SIC_EM.webp",
+  "imageBig": "assets/img/bigcard/SIC_EM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SIC_EM_UPGRADE.webp"
  },
  {
   "cardEnName": "SIGNAL_BOOST",
@@ -15150,7 +16041,9 @@
   "pickRate": 27.62,
   "skipRate": 72.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SIGNAL_BOOST.webp"
+  "imageLocal": "assets/img/card/SIGNAL_BOOST.webp",
+  "imageBig": "assets/img/bigcard/SIGNAL_BOOST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SIGNAL_BOOST_UPGRADE.webp"
  },
  {
   "cardEnName": "SKEWER",
@@ -15183,7 +16076,9 @@
   "pickRate": 2.44,
   "skipRate": 97.56,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SKEWER.webp"
+  "imageLocal": "assets/img/card/SKEWER.webp",
+  "imageBig": "assets/img/bigcard/SKEWER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SKEWER_UPGRADE.webp"
  },
  {
   "cardEnName": "SKIM",
@@ -15216,7 +16111,9 @@
   "pickRate": 46.4,
   "skipRate": 53.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SKIM.webp"
+  "imageLocal": "assets/img/card/SKIM.webp",
+  "imageBig": "assets/img/bigcard/SKIM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SKIM_UPGRADE.webp"
  },
  {
   "cardEnName": "SLEIGHT_OF_FLESH",
@@ -15249,7 +16146,9 @@
   "pickRate": 17.94,
   "skipRate": 82.06,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SLEIGHT_OF_FLESH.webp"
+  "imageLocal": "assets/img/card/SLEIGHT_OF_FLESH.webp",
+  "imageBig": "assets/img/bigcard/SLEIGHT_OF_FLESH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SLEIGHT_OF_FLESH_UPGRADE.webp"
  },
  {
   "cardEnName": "SLICE",
@@ -15282,7 +16181,9 @@
   "pickRate": 3.96,
   "skipRate": 96.04,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SLICE.webp"
+  "imageLocal": "assets/img/card/SLICE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SLICE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SLICE.webp"
  },
  {
   "cardEnName": "SLIMED",
@@ -15314,7 +16215,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/SLIMED.webp"
+  "imageLocal": "assets/img/card/SLIMED.webp",
+  "imageBig": "assets/img/bigcard/SLIMED.webp"
  },
  {
   "cardEnName": "SLOTH",
@@ -15346,7 +16248,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/SLOTH.webp"
+  "imageLocal": "assets/img/card/SLOTH.webp",
+  "imageBig": "assets/img/bigcard/SLOTH.webp"
  },
  {
   "cardEnName": "SMOKESTACK",
@@ -15379,7 +16282,9 @@
   "pickRate": 17.88,
   "skipRate": 82.12,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SMOKESTACK.webp"
+  "imageLocal": "assets/img/card/SMOKESTACK.webp",
+  "imageBig": "assets/img/bigcard/SMOKESTACK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SMOKESTACK_UPGRADE.webp"
  },
  {
   "cardEnName": "SNAKEBITE",
@@ -15412,7 +16317,9 @@
   "pickRate": 9.84,
   "skipRate": 90.16,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SNAKEBITE.webp"
+  "imageLocal": "assets/img/card/SNAKEBITE.webp",
+  "imageBig": "assets/img/bigcard/SNAKEBITE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SNAKEBITE_UPGRADE.webp"
  },
  {
   "cardEnName": "SNAP",
@@ -15445,7 +16352,9 @@
   "pickRate": 9.32,
   "skipRate": 90.68,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SNAP.webp"
+  "imageLocal": "assets/img/card/SNAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SNAP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SNAP.webp"
  },
  {
   "cardEnName": "SNEAKY",
@@ -15478,7 +16387,9 @@
   "pickRate": 35.91,
   "skipRate": 64.09,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SNEAKY.webp"
+  "imageLocal": "assets/img/card/SNEAKY.webp",
+  "imageBig": "assets/img/bigcard/SNEAKY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SNEAKY_UPGRADE.webp"
  },
  {
   "cardEnName": "SOLAR_STRIKE",
@@ -15511,7 +16422,9 @@
   "pickRate": 8.22,
   "skipRate": 91.78,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SOLAR_STRIKE.webp"
+  "imageLocal": "assets/img/card/SOLAR_STRIKE.webp",
+  "imageBig": "assets/img/bigcard/SOLAR_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SOLAR_STRIKE_UPGRADE.webp"
  },
  {
   "cardEnName": "SOOT",
@@ -15543,7 +16456,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/SOOT.webp"
+  "imageLocal": "assets/img/card/SOOT.webp",
+  "imageBig": "assets/img/bigcard/SOOT.webp"
  },
  {
   "cardEnName": "SOUL",
@@ -15576,7 +16490,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SOUL.webp"
+  "imageLocal": "assets/img/card/SOUL.webp",
+  "imageBig": "assets/img/bigcard/SOUL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SOUL_UPGRADE.webp"
  },
  {
   "cardEnName": "SOUL_STORM",
@@ -15609,7 +16525,9 @@
   "pickRate": 21.11,
   "skipRate": 78.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SOUL_STORM.webp"
+  "imageLocal": "assets/img/card/SOUL_STORM.webp",
+  "imageBig": "assets/img/bigcard/SOUL_STORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SOUL_STORM_UPGRADE.webp"
  },
  {
   "cardEnName": "SOVEREIGN_BLADE",
@@ -15642,7 +16560,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SOVEREIGN_BLADE.webp"
+  "imageLocal": "assets/img/card/SOVEREIGN_BLADE.webp",
+  "imageBig": "assets/img/bigcard/SOVEREIGN_BLADE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SOVEREIGN_BLADE_UPGRADE.webp"
  },
  {
   "cardEnName": "SOW",
@@ -15675,7 +16595,9 @@
   "pickRate": 5.82,
   "skipRate": 94.18,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SOW.webp"
+  "imageLocal": "assets/img/card/SOW.webp",
+  "imageBig": "assets/img/bigcard/SOW.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SOW_UPGRADE.webp"
  },
  {
   "cardEnName": "SPECTRUM_SHIFT",
@@ -15708,7 +16630,9 @@
   "pickRate": 16.77,
   "skipRate": 83.23,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPECTRUM_SHIFT.webp"
+  "imageLocal": "assets/img/card/SPECTRUM_SHIFT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPECTRUM_SHIFT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SPECTRUM_SHIFT.webp"
  },
  {
   "cardEnName": "SPEEDSTER",
@@ -15741,7 +16665,9 @@
   "pickRate": 8.03,
   "skipRate": 91.97,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPEEDSTER.webp"
+  "imageLocal": "assets/img/card/SPEEDSTER.webp",
+  "imageBig": "assets/img/bigcard/SPEEDSTER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPEEDSTER_UPGRADE.webp"
  },
  {
   "cardEnName": "SPINNER",
@@ -15774,7 +16700,9 @@
   "pickRate": 28.47,
   "skipRate": 71.53,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPINNER.webp"
+  "imageLocal": "assets/img/card/SPINNER.webp",
+  "imageBig": "assets/img/bigcard/SPINNER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPINNER_UPGRADE.webp"
  },
  {
   "cardEnName": "SPIRIT_OF_ASH",
@@ -15807,7 +16735,9 @@
   "pickRate": 20.62,
   "skipRate": 79.38,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPIRIT_OF_ASH.webp"
+  "imageLocal": "assets/img/card/SPIRIT_OF_ASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPIRIT_OF_ASH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SPIRIT_OF_ASH.webp"
  },
  {
   "cardEnName": "SPITE",
@@ -15840,7 +16770,9 @@
   "pickRate": 18.14,
   "skipRate": 81.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPITE.webp"
+  "imageLocal": "assets/img/card/SPITE.webp",
+  "imageBig": "assets/img/bigcard/SPITE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPITE_UPGRADE.webp"
  },
  {
   "cardEnName": "SPLASH",
@@ -15873,7 +16805,9 @@
   "pickRate": 9.6,
   "skipRate": 90.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPLASH.webp"
+  "imageLocal": "assets/img/card/SPLASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPLASH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SPLASH.webp"
  },
  {
   "cardEnName": "SPOILS_MAP",
@@ -15905,7 +16839,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/SPOILS_MAP.webp"
+  "imageLocal": "assets/img/card/SPOILS_MAP.webp",
+  "imageBig": "assets/img/bigcard/SPOILS_MAP.webp"
  },
  {
   "cardEnName": "SPOILS_OF_BATTLE",
@@ -15938,7 +16873,9 @@
   "pickRate": 12.1,
   "skipRate": 87.9,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPOILS_OF_BATTLE.webp"
+  "imageLocal": "assets/img/card/SPOILS_OF_BATTLE.webp",
+  "imageBig": "assets/img/bigcard/SPOILS_OF_BATTLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPOILS_OF_BATTLE_UPGRADE.webp"
  },
  {
   "cardEnName": "SPORE_MIND",
@@ -15970,7 +16907,8 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/SPORE_MIND.webp"
+  "imageLocal": "assets/img/card/SPORE_MIND.webp",
+  "imageBig": "assets/img/bigcard/SPORE_MIND.webp"
  },
  {
   "cardEnName": "SPUR",
@@ -16003,7 +16941,9 @@
   "pickRate": 21.3,
   "skipRate": 78.7,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SPUR.webp"
+  "imageLocal": "assets/img/card/SPUR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SPUR_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SPUR.webp"
  },
  {
   "cardEnName": "SQUASH",
@@ -16036,7 +16976,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SQUASH.webp"
+  "imageLocal": "assets/img/card/SQUASH.webp",
+  "imageBig": "assets/img/bigcard/SQUASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SQUASH_UPGRADE.webp"
  },
  {
   "cardEnName": "SQUEEZE",
@@ -16069,7 +17011,9 @@
   "pickRate": 13.67,
   "skipRate": 86.33,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SQUEEZE.webp"
+  "imageLocal": "assets/img/card/SQUEEZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SQUEEZE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SQUEEZE.webp"
  },
  {
   "cardEnName": "STACK",
@@ -16102,7 +17046,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STACK.webp"
+  "imageLocal": "assets/img/card/STACK.webp",
+  "imageBig": "assets/img/bigcard/STACK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STACK_UPGRADE.webp"
  },
  {
   "cardEnName": "STAMPEDE",
@@ -16135,7 +17081,9 @@
   "pickRate": 14.79,
   "skipRate": 85.21,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STAMPEDE.webp"
+  "imageLocal": "assets/img/card/STAMPEDE.webp",
+  "imageBig": "assets/img/bigcard/STAMPEDE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STAMPEDE_UPGRADE.webp"
  },
  {
   "cardEnName": "STARDUST",
@@ -16168,7 +17116,9 @@
   "pickRate": 22.83,
   "skipRate": 77.17,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STARDUST.webp"
+  "imageLocal": "assets/img/card/STARDUST.webp",
+  "imageBig": "assets/img/bigcard/STARDUST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STARDUST_UPGRADE.webp"
  },
  {
   "cardEnName": "STOKE",
@@ -16201,7 +17151,9 @@
   "pickRate": 48.09,
   "skipRate": 51.91,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STOKE.webp"
+  "imageLocal": "assets/img/card/STOKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STOKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/STOKE.webp"
  },
  {
   "cardEnName": "STOMP",
@@ -16234,7 +17186,9 @@
   "pickRate": 14.29,
   "skipRate": 85.71,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STOMP.webp"
+  "imageLocal": "assets/img/card/STOMP.webp",
+  "imageBig": "assets/img/bigcard/STOMP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STOMP_UPGRADE.webp"
  },
  {
   "cardEnName": "STONE_ARMOR",
@@ -16267,7 +17221,9 @@
   "pickRate": 6.6,
   "skipRate": 93.4,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STONE_ARMOR.webp"
+  "imageLocal": "assets/img/card/STONE_ARMOR.webp",
+  "imageBig": "assets/img/bigcard/STONE_ARMOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STONE_ARMOR_UPGRADE.webp"
  },
  {
   "cardEnName": "STORM",
@@ -16300,7 +17256,9 @@
   "pickRate": 16.56,
   "skipRate": 83.44,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STORM.webp"
+  "imageLocal": "assets/img/card/STORM.webp",
+  "imageBig": "assets/img/bigcard/STORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STORM_UPGRADE.webp"
  },
  {
   "cardEnName": "STORM_OF_STEEL",
@@ -16333,7 +17291,9 @@
   "pickRate": 19.11,
   "skipRate": 80.89,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STORM_OF_STEEL.webp"
+  "imageLocal": "assets/img/card/STORM_OF_STEEL.webp",
+  "imageBig": "assets/img/bigcard/STORM_OF_STEEL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STORM_OF_STEEL_UPGRADE.webp"
  },
  {
   "cardEnName": "STRANGLE",
@@ -16366,7 +17326,9 @@
   "pickRate": 10.61,
   "skipRate": 89.39,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRANGLE.webp"
+  "imageLocal": "assets/img/card/STRANGLE.webp",
+  "imageBig": "assets/img/bigcard/STRANGLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRANGLE_UPGRADE.webp"
  },
  {
   "cardEnName": "STRATAGEM",
@@ -16399,7 +17361,9 @@
   "pickRate": 3.88,
   "skipRate": 96.12,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRATAGEM.webp"
+  "imageLocal": "assets/img/card/STRATAGEM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRATAGEM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/STRATAGEM.webp"
  },
  {
   "cardEnName": "STRIKE_DEFECT",
@@ -16432,7 +17396,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRIKE_DEFECT.webp"
+  "imageLocal": "assets/img/card/STRIKE_DEFECT.webp",
+  "imageBig": "assets/img/bigcard/STRIKE_DEFECT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRIKE_DEFECT_UPGRADE.webp"
  },
  {
   "cardEnName": "STRIKE_IRONCLAD",
@@ -16465,7 +17431,9 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRIKE_IRONCLAD.webp"
+  "imageLocal": "assets/img/card/STRIKE_IRONCLAD.webp",
+  "imageBig": "assets/img/bigcard/STRIKE_IRONCLAD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRIKE_IRONCLAD_UPGRADE.webp"
  },
  {
   "cardEnName": "STRIKE_NECROBINDER",
@@ -16498,7 +17466,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRIKE_NECROBINDER.webp"
+  "imageLocal": "assets/img/card/STRIKE_NECROBINDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRIKE_NECROBINDER_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/STRIKE_NECROBINDER.webp"
  },
  {
   "cardEnName": "STRIKE_REGENT",
@@ -16531,7 +17501,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRIKE_REGENT.webp"
+  "imageLocal": "assets/img/card/STRIKE_REGENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRIKE_REGENT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/STRIKE_REGENT.webp"
  },
  {
   "cardEnName": "STRIKE_SILENT",
@@ -16564,7 +17536,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/STRIKE_SILENT.webp"
+  "imageLocal": "assets/img/card/STRIKE_SILENT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/STRIKE_SILENT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/STRIKE_SILENT.webp"
  },
  {
   "cardEnName": "SUBROUTINE",
@@ -16597,7 +17571,9 @@
   "pickRate": 22.14,
   "skipRate": 77.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUBROUTINE.webp"
+  "imageLocal": "assets/img/card/SUBROUTINE.webp",
+  "imageBig": "assets/img/bigcard/SUBROUTINE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUBROUTINE_UPGRADE.webp"
  },
  {
   "cardEnName": "SUCKER_PUNCH",
@@ -16630,7 +17606,9 @@
   "pickRate": 4.17,
   "skipRate": 95.83,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUCKER_PUNCH.webp"
+  "imageLocal": "assets/img/card/SUCKER_PUNCH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUCKER_PUNCH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SUCKER_PUNCH.webp"
  },
  {
   "cardEnName": "SUMMON_FORTH",
@@ -16663,7 +17641,9 @@
   "pickRate": 25.48,
   "skipRate": 74.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUMMON_FORTH.webp"
+  "imageLocal": "assets/img/card/SUMMON_FORTH.webp",
+  "imageBig": "assets/img/bigcard/SUMMON_FORTH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUMMON_FORTH_UPGRADE.webp"
  },
  {
   "cardEnName": "SUNDER",
@@ -16696,7 +17676,9 @@
   "pickRate": 6.79,
   "skipRate": 93.21,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUNDER.webp"
+  "imageLocal": "assets/img/card/SUNDER.webp",
+  "imageBig": "assets/img/bigcard/SUNDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUNDER_UPGRADE.webp"
  },
  {
   "cardEnName": "SUPERCRITICAL",
@@ -16729,7 +17711,9 @@
   "pickRate": 50.12,
   "skipRate": 49.88,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUPERCRITICAL.webp"
+  "imageLocal": "assets/img/card/SUPERCRITICAL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUPERCRITICAL_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SUPERCRITICAL.webp"
  },
  {
   "cardEnName": "SUPERMASSIVE",
@@ -16762,7 +17746,9 @@
   "pickRate": 11.51,
   "skipRate": 88.49,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUPERMASSIVE.webp"
+  "imageLocal": "assets/img/card/SUPERMASSIVE.webp",
+  "imageBig": "assets/img/bigcard/SUPERMASSIVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUPERMASSIVE_UPGRADE.webp"
  },
  {
   "cardEnName": "SUPPRESS",
@@ -16795,7 +17781,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SUPPRESS.webp"
+  "imageLocal": "assets/img/card/SUPPRESS.webp",
+  "imageBig": "assets/img/bigcard/SUPPRESS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SUPPRESS_UPGRADE.webp"
  },
  {
   "cardEnName": "SURVIVOR",
@@ -16828,7 +17816,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SURVIVOR.webp"
+  "imageLocal": "assets/img/card/SURVIVOR.webp",
+  "imageBig": "assets/img/bigcard/SURVIVOR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SURVIVOR_UPGRADE.webp"
  },
  {
   "cardEnName": "SWEEPING_BEAM",
@@ -16861,7 +17851,9 @@
   "pickRate": 7.75,
   "skipRate": 92.25,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SWEEPING_BEAM.webp"
+  "imageLocal": "assets/img/card/SWEEPING_BEAM.webp",
+  "imageBig": "assets/img/bigcard/SWEEPING_BEAM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SWEEPING_BEAM_UPGRADE.webp"
  },
  {
   "cardEnName": "SWEEPING_GAZE",
@@ -16894,7 +17886,9 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SWEEPING_GAZE.webp"
+  "imageLocal": "assets/img/card/SWEEPING_GAZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SWEEPING_GAZE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SWEEPING_GAZE.webp"
  },
  {
   "cardEnName": "SWORD_BOOMERANG",
@@ -16927,7 +17921,9 @@
   "pickRate": 5.69,
   "skipRate": 94.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SWORD_BOOMERANG.webp"
+  "imageLocal": "assets/img/card/SWORD_BOOMERANG.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SWORD_BOOMERANG_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SWORD_BOOMERANG.webp"
  },
  {
   "cardEnName": "SWORD_SAGE",
@@ -16960,7 +17956,9 @@
   "pickRate": 28.89,
   "skipRate": 71.11,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SWORD_SAGE.webp"
+  "imageLocal": "assets/img/card/SWORD_SAGE.webp",
+  "imageBig": "assets/img/bigcard/SWORD_SAGE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SWORD_SAGE_UPGRADE.webp"
  },
  {
   "cardEnName": "SYNCHRONIZE",
@@ -16993,7 +17991,9 @@
   "pickRate": 13.75,
   "skipRate": 86.25,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SYNCHRONIZE.webp"
+  "imageLocal": "assets/img/card/SYNCHRONIZE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SYNCHRONIZE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/SYNCHRONIZE.webp"
  },
  {
   "cardEnName": "SYNTHESIS",
@@ -17026,7 +18026,9 @@
   "pickRate": 4.08,
   "skipRate": 95.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/SYNTHESIS.webp"
+  "imageLocal": "assets/img/card/SYNTHESIS.webp",
+  "imageBig": "assets/img/bigcard/SYNTHESIS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/SYNTHESIS_UPGRADE.webp"
  },
  {
   "cardEnName": "TACTICIAN",
@@ -17059,7 +18061,9 @@
   "pickRate": 53.65,
   "skipRate": 46.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TACTICIAN.webp"
+  "imageLocal": "assets/img/card/TACTICIAN.webp",
+  "imageBig": "assets/img/bigcard/TACTICIAN.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TACTICIAN_UPGRADE.webp"
  },
  {
   "cardEnName": "TAG_TEAM",
@@ -17092,7 +18096,9 @@
   "pickRate": 1.76,
   "skipRate": 98.24,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TAG_TEAM.webp"
+  "imageLocal": "assets/img/card/TAG_TEAM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TAG_TEAM_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TAG_TEAM.webp"
  },
  {
   "cardEnName": "TANK",
@@ -17125,7 +18131,9 @@
   "pickRate": 4.5,
   "skipRate": 95.5,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TANK.webp"
+  "imageLocal": "assets/img/card/TANK.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TANK_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TANK.webp"
  },
  {
   "cardEnName": "TAUNT",
@@ -17158,7 +18166,9 @@
   "pickRate": 33.74,
   "skipRate": 66.26,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TAUNT.webp"
+  "imageLocal": "assets/img/card/TAUNT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TAUNT_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TAUNT.webp"
  },
  {
   "cardEnName": "TEAR_ASUNDER",
@@ -17191,7 +18201,9 @@
   "pickRate": 18.78,
   "skipRate": 81.22,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TEAR_ASUNDER.webp"
+  "imageLocal": "assets/img/card/TEAR_ASUNDER.webp",
+  "imageBig": "assets/img/bigcard/TEAR_ASUNDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TEAR_ASUNDER_UPGRADE.webp"
  },
  {
   "cardEnName": "TEMPEST",
@@ -17224,7 +18236,9 @@
   "pickRate": 22.27,
   "skipRate": 77.73,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TEMPEST.webp"
+  "imageLocal": "assets/img/card/TEMPEST.webp",
+  "imageBig": "assets/img/bigcard/TEMPEST.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TEMPEST_UPGRADE.webp"
  },
  {
   "cardEnName": "TERRAFORMING",
@@ -17257,7 +18271,9 @@
   "pickRate": 10.14,
   "skipRate": 89.86,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TERRAFORMING.webp"
+  "imageLocal": "assets/img/card/TERRAFORMING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TERRAFORMING_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TERRAFORMING.webp"
  },
  {
   "cardEnName": "TESLA_COIL",
@@ -17290,7 +18306,9 @@
   "pickRate": 12.86,
   "skipRate": 87.14,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TESLA_COIL.webp"
+  "imageLocal": "assets/img/card/TESLA_COIL.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TESLA_COIL_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TESLA_COIL.webp"
  },
  {
   "cardEnName": "THE_BOMB",
@@ -17323,7 +18341,9 @@
   "pickRate": 1.08,
   "skipRate": 98.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THE_BOMB.webp"
+  "imageLocal": "assets/img/card/THE_BOMB.webp",
+  "imageBig": "assets/img/bigcard/THE_BOMB.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THE_BOMB_UPGRADE.webp"
  },
  {
   "cardEnName": "THE_GAMBIT",
@@ -17356,7 +18376,9 @@
   "pickRate": 0.37,
   "skipRate": 99.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THE_GAMBIT.webp"
+  "imageLocal": "assets/img/card/THE_GAMBIT.webp",
+  "imageBig": "assets/img/bigcard/THE_GAMBIT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THE_GAMBIT_UPGRADE.webp"
  },
  {
   "cardEnName": "THE_HUNT",
@@ -17389,7 +18411,9 @@
   "pickRate": 17.48,
   "skipRate": 82.52,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THE_HUNT.webp"
+  "imageLocal": "assets/img/card/THE_HUNT.webp",
+  "imageBig": "assets/img/bigcard/THE_HUNT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THE_HUNT_UPGRADE.webp"
  },
  {
   "cardEnName": "THE_SCYTHE",
@@ -17422,7 +18446,9 @@
   "pickRate": 10.13,
   "skipRate": 89.87,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THE_SCYTHE.webp"
+  "imageLocal": "assets/img/card/THE_SCYTHE.webp",
+  "imageBig": "assets/img/bigcard/THE_SCYTHE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THE_SCYTHE_UPGRADE.webp"
  },
  {
   "cardEnName": "THE_SEALED_THRONE",
@@ -17455,7 +18481,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THE_SEALED_THRONE.webp"
+  "imageLocal": "assets/img/card/THE_SEALED_THRONE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THE_SEALED_THRONE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/THE_SEALED_THRONE.webp"
  },
  {
   "cardEnName": "THE_SMITH",
@@ -17488,7 +18516,9 @@
   "pickRate": 31.03,
   "skipRate": 68.97,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THE_SMITH.webp"
+  "imageLocal": "assets/img/card/THE_SMITH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THE_SMITH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/THE_SMITH.webp"
  },
  {
   "cardEnName": "THINKING_AHEAD",
@@ -17521,7 +18551,9 @@
   "pickRate": 3.8,
   "skipRate": 96.2,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THINKING_AHEAD.webp"
+  "imageLocal": "assets/img/card/THINKING_AHEAD.webp",
+  "imageBig": "assets/img/bigcard/THINKING_AHEAD.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THINKING_AHEAD_UPGRADE.webp"
  },
  {
   "cardEnName": "THRASH",
@@ -17554,7 +18586,9 @@
   "pickRate": 43.72,
   "skipRate": 56.28,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THRASH.webp"
+  "imageLocal": "assets/img/card/THRASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THRASH_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/THRASH.webp"
  },
  {
   "cardEnName": "THRUMMING_HATCHET",
@@ -17587,7 +18621,9 @@
   "pickRate": 1.12,
   "skipRate": 98.88,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THRUMMING_HATCHET.webp"
+  "imageLocal": "assets/img/card/THRUMMING_HATCHET.webp",
+  "imageBig": "assets/img/bigcard/THRUMMING_HATCHET.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THRUMMING_HATCHET_UPGRADE.webp"
  },
  {
   "cardEnName": "THUNDER",
@@ -17620,7 +18656,9 @@
   "pickRate": 28.72,
   "skipRate": 71.28,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THUNDER.webp"
+  "imageLocal": "assets/img/card/THUNDER.webp",
+  "imageBig": "assets/img/bigcard/THUNDER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THUNDER_UPGRADE.webp"
  },
  {
   "cardEnName": "THUNDERCLAP",
@@ -17653,7 +18691,9 @@
   "pickRate": 11.61,
   "skipRate": 88.39,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/THUNDERCLAP.webp"
+  "imageLocal": "assets/img/card/THUNDERCLAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/THUNDERCLAP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/THUNDERCLAP.webp"
  },
  {
   "cardEnName": "TIMES_UP",
@@ -17686,7 +18726,9 @@
   "pickRate": 16.37,
   "skipRate": 83.63,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TIMES_UP.webp"
+  "imageLocal": "assets/img/card/TIMES_UP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TIMES_UP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TIMES_UP.webp"
  },
  {
   "cardEnName": "TOOLS_OF_THE_TRADE",
@@ -17719,7 +18761,9 @@
   "pickRate": 46.18,
   "skipRate": 53.82,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TOOLS_OF_THE_TRADE.webp"
+  "imageLocal": "assets/img/card/TOOLS_OF_THE_TRADE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TOOLS_OF_THE_TRADE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TOOLS_OF_THE_TRADE.webp"
  },
  {
   "cardEnName": "TORIC_TOUGHNESS",
@@ -17752,7 +18796,9 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TORIC_TOUGHNESS.webp"
+  "imageLocal": "assets/img/card/TORIC_TOUGHNESS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TORIC_TOUGHNESS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TORIC_TOUGHNESS.webp"
  },
  {
   "cardEnName": "TOXIC",
@@ -17784,7 +18830,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/TOXIC.webp"
+  "imageLocal": "assets/img/card/TOXIC.webp",
+  "imageBig": "assets/img/bigcard/TOXIC.webp"
  },
  {
   "cardEnName": "TRACKING",
@@ -17817,7 +18864,9 @@
   "pickRate": 35.33,
   "skipRate": 64.67,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TRACKING.webp"
+  "imageLocal": "assets/img/card/TRACKING.webp",
+  "imageBig": "assets/img/bigcard/TRACKING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TRACKING_UPGRADE.webp"
  },
  {
   "cardEnName": "TRANSFIGURE",
@@ -17850,7 +18899,9 @@
   "pickRate": 46.33,
   "skipRate": 53.67,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TRANSFIGURE.webp"
+  "imageLocal": "assets/img/card/TRANSFIGURE.webp",
+  "imageBig": "assets/img/bigcard/TRANSFIGURE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TRANSFIGURE_UPGRADE.webp"
  },
  {
   "cardEnName": "TRASH_TO_TREASURE",
@@ -17883,7 +18934,9 @@
   "pickRate": 41.42,
   "skipRate": 58.58,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TRASH_TO_TREASURE.webp"
+  "imageLocal": "assets/img/card/TRASH_TO_TREASURE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TRASH_TO_TREASURE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TRASH_TO_TREASURE.webp"
  },
  {
   "cardEnName": "TREMBLE",
@@ -17916,7 +18969,9 @@
   "pickRate": 15.2,
   "skipRate": 84.8,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TREMBLE.webp"
+  "imageLocal": "assets/img/card/TREMBLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TREMBLE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TREMBLE.webp"
  },
  {
   "cardEnName": "TRUE_GRIT",
@@ -17949,7 +19004,9 @@
   "pickRate": 17.72,
   "skipRate": 82.28,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TRUE_GRIT.webp"
+  "imageLocal": "assets/img/card/TRUE_GRIT.webp",
+  "imageBig": "assets/img/bigcard/TRUE_GRIT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TRUE_GRIT_UPGRADE.webp"
  },
  {
   "cardEnName": "TURBO",
@@ -17982,7 +19039,9 @@
   "pickRate": 37.4,
   "skipRate": 62.6,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TURBO.webp"
+  "imageLocal": "assets/img/card/TURBO.webp",
+  "imageBig": "assets/img/bigcard/TURBO.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TURBO_UPGRADE.webp"
  },
  {
   "cardEnName": "TWIN_STRIKE",
@@ -18015,7 +19074,9 @@
   "pickRate": 6.61,
   "skipRate": 93.39,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TWIN_STRIKE.webp"
+  "imageLocal": "assets/img/card/TWIN_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TWIN_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/TWIN_STRIKE.webp"
  },
  {
   "cardEnName": "TYRANNY",
@@ -18048,7 +19109,9 @@
   "pickRate": 41.15,
   "skipRate": 58.85,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/TYRANNY.webp"
+  "imageLocal": "assets/img/card/TYRANNY.webp",
+  "imageBig": "assets/img/bigcard/TYRANNY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/TYRANNY_UPGRADE.webp"
  },
  {
   "cardEnName": "ULTIMATE_DEFEND",
@@ -18081,7 +19144,9 @@
   "pickRate": 2.39,
   "skipRate": 97.61,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ULTIMATE_DEFEND.webp"
+  "imageLocal": "assets/img/card/ULTIMATE_DEFEND.webp",
+  "imageBig": "assets/img/bigcard/ULTIMATE_DEFEND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ULTIMATE_DEFEND_UPGRADE.webp"
  },
  {
   "cardEnName": "ULTIMATE_STRIKE",
@@ -18114,7 +19179,9 @@
   "pickRate": 1.08,
   "skipRate": 98.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ULTIMATE_STRIKE.webp"
+  "imageLocal": "assets/img/card/ULTIMATE_STRIKE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ULTIMATE_STRIKE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/ULTIMATE_STRIKE.webp"
  },
  {
   "cardEnName": "UNDEATH",
@@ -18147,7 +19214,9 @@
   "pickRate": 23.5,
   "skipRate": 76.5,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UNDEATH.webp"
+  "imageLocal": "assets/img/card/UNDEATH.webp",
+  "imageBig": "assets/img/bigcard/UNDEATH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UNDEATH_UPGRADE.webp"
  },
  {
   "cardEnName": "UNLEASH",
@@ -18180,7 +19249,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UNLEASH.webp"
+  "imageLocal": "assets/img/card/UNLEASH.webp",
+  "imageBig": "assets/img/bigcard/UNLEASH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UNLEASH_UPGRADE.webp"
  },
  {
   "cardEnName": "UNMOVABLE",
@@ -18213,7 +19284,9 @@
   "pickRate": 42.65,
   "skipRate": 57.35,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UNMOVABLE.webp"
+  "imageLocal": "assets/img/card/UNMOVABLE.webp",
+  "imageBig": "assets/img/bigcard/UNMOVABLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UNMOVABLE_UPGRADE.webp"
  },
  {
   "cardEnName": "UNRELENTING",
@@ -18246,7 +19319,9 @@
   "pickRate": 15.69,
   "skipRate": 84.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UNRELENTING.webp"
+  "imageLocal": "assets/img/card/UNRELENTING.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UNRELENTING_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/UNRELENTING.webp"
  },
  {
   "cardEnName": "UNTOUCHABLE",
@@ -18279,7 +19354,9 @@
   "pickRate": 20.05,
   "skipRate": 79.95,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UNTOUCHABLE.webp"
+  "imageLocal": "assets/img/card/UNTOUCHABLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UNTOUCHABLE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/UNTOUCHABLE.webp"
  },
  {
   "cardEnName": "UPPERCUT",
@@ -18312,7 +19389,9 @@
   "pickRate": 18.73,
   "skipRate": 81.27,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UPPERCUT.webp"
+  "imageLocal": "assets/img/card/UPPERCUT.webp",
+  "imageBig": "assets/img/bigcard/UPPERCUT.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UPPERCUT_UPGRADE.webp"
  },
  {
   "cardEnName": "UPROAR",
@@ -18345,7 +19424,9 @@
   "pickRate": 3.08,
   "skipRate": 96.92,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UPROAR.webp"
+  "imageLocal": "assets/img/card/UPROAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UPROAR_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/UPROAR.webp"
  },
  {
   "cardEnName": "UP_MY_SLEEVE",
@@ -18378,7 +19459,9 @@
   "pickRate": 21.98,
   "skipRate": 78.02,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/UP_MY_SLEEVE.webp"
+  "imageLocal": "assets/img/card/UP_MY_SLEEVE.webp",
+  "imageBig": "assets/img/bigcard/UP_MY_SLEEVE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/UP_MY_SLEEVE_UPGRADE.webp"
  },
  {
   "cardEnName": "VEILPIERCER",
@@ -18411,7 +19494,9 @@
   "pickRate": 14.23,
   "skipRate": 85.77,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/VEILPIERCER.webp"
+  "imageLocal": "assets/img/card/VEILPIERCER.webp",
+  "imageBig": "assets/img/bigcard/VEILPIERCER.webp",
+  "imageBigUpgrade": "assets/img/bigcard/VEILPIERCER_UPGRADE.webp"
  },
  {
   "cardEnName": "VENERATE",
@@ -18444,7 +19529,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/VENERATE.webp"
+  "imageLocal": "assets/img/card/VENERATE.webp",
+  "imageBig": "assets/img/bigcard/VENERATE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/VENERATE_UPGRADE.webp"
  },
  {
   "cardEnName": "VICIOUS",
@@ -18477,7 +19564,9 @@
   "pickRate": 23.66,
   "skipRate": 76.34,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/VICIOUS.webp"
+  "imageLocal": "assets/img/card/VICIOUS.webp",
+  "imageBig": "assets/img/bigcard/VICIOUS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/VICIOUS_UPGRADE.webp"
  },
  {
   "cardEnName": "VOID",
@@ -18509,7 +19598,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/VOID.webp"
+  "imageLocal": "assets/img/card/VOID.webp",
+  "imageBig": "assets/img/bigcard/VOID.webp"
  },
  {
   "cardEnName": "VOID_FORM",
@@ -18542,7 +19632,9 @@
   "pickRate": 49.69,
   "skipRate": 50.31,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/VOID_FORM.webp"
+  "imageLocal": "assets/img/card/VOID_FORM.webp",
+  "imageBig": "assets/img/bigcard/VOID_FORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/VOID_FORM_UPGRADE.webp"
  },
  {
   "cardEnName": "VOLLEY",
@@ -18575,7 +19667,9 @@
   "pickRate": 1.27,
   "skipRate": 98.73,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/VOLLEY.webp"
+  "imageLocal": "assets/img/card/VOLLEY.webp",
+  "imageBig": "assets/img/bigcard/VOLLEY.webp",
+  "imageBigUpgrade": "assets/img/bigcard/VOLLEY_UPGRADE.webp"
  },
  {
   "cardEnName": "VOLTAIC",
@@ -18608,7 +19702,9 @@
   "pickRate": 50.31,
   "skipRate": 49.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/VOLTAIC.webp"
+  "imageLocal": "assets/img/card/VOLTAIC.webp",
+  "imageBigUpgrade": "assets/img/bigcard/VOLTAIC_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/VOLTAIC.webp"
  },
  {
   "cardEnName": "WASTE_AWAY",
@@ -18640,7 +19736,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/WASTE_AWAY.webp"
+  "imageLocal": "assets/img/card/WASTE_AWAY.webp",
+  "imageBig": "assets/img/bigcard/WASTE_AWAY.webp"
  },
  {
   "cardEnName": "WELL_LAID_PLANS",
@@ -18673,7 +19770,9 @@
   "pickRate": 31.58,
   "skipRate": 68.42,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WELL_LAID_PLANS.webp"
+  "imageLocal": "assets/img/card/WELL_LAID_PLANS.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WELL_LAID_PLANS_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/WELL_LAID_PLANS.webp"
  },
  {
   "cardEnName": "WHIRLWIND",
@@ -18706,7 +19805,9 @@
   "pickRate": 16.93,
   "skipRate": 83.07,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WHIRLWIND.webp"
+  "imageLocal": "assets/img/card/WHIRLWIND.webp",
+  "imageBig": "assets/img/bigcard/WHIRLWIND.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WHIRLWIND_UPGRADE.webp"
  },
  {
   "cardEnName": "WHISTLE",
@@ -18739,7 +19840,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WHISTLE.webp"
+  "imageLocal": "assets/img/card/WHISTLE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WHISTLE_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/WHISTLE.webp"
  },
  {
   "cardEnName": "WHITE_NOISE",
@@ -18772,7 +19875,9 @@
   "pickRate": 40.99,
   "skipRate": 59.01,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WHITE_NOISE.webp"
+  "imageLocal": "assets/img/card/WHITE_NOISE.webp",
+  "imageBig": "assets/img/bigcard/WHITE_NOISE.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WHITE_NOISE_UPGRADE.webp"
  },
  {
   "cardEnName": "WISH",
@@ -18805,7 +19910,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WISH.webp"
+  "imageLocal": "assets/img/card/WISH.webp",
+  "imageBig": "assets/img/bigcard/WISH.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WISH_UPGRADE.webp"
  },
  {
   "cardEnName": "WISP",
@@ -18838,7 +19945,9 @@
   "pickRate": 28.31,
   "skipRate": 71.69,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WISP.webp"
+  "imageLocal": "assets/img/card/WISP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WISP_UPGRADE.webp",
+  "imageBig": "assets/img/bigcard/WISP.webp"
  },
  {
   "cardEnName": "WITHER",
@@ -18870,7 +19979,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/WITHER.webp"
+  "imageLocal": "assets/img/card/WITHER.webp",
+  "imageBig": "assets/img/bigcard/WITHER.webp"
  },
  {
   "cardEnName": "WOUND",
@@ -18902,7 +20012,8 @@
   "pickRate": 0,
   "skipRate": 0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/WOUND.webp"
+  "imageLocal": "assets/img/card/WOUND.webp",
+  "imageBig": "assets/img/bigcard/WOUND.webp"
  },
  {
   "cardEnName": "WRAITH_FORM",
@@ -18935,7 +20046,9 @@
   "pickRate": 0.0,
   "skipRate": 0.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WRAITH_FORM.webp"
+  "imageLocal": "assets/img/card/WRAITH_FORM.webp",
+  "imageBig": "assets/img/bigcard/WRAITH_FORM.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WRAITH_FORM_UPGRADE.webp"
  },
  {
   "cardEnName": "WRITHE",
@@ -18967,7 +20080,8 @@
   "pickRate": 100.0,
   "skipRate": 0.0,
   "levelUp": 0,
-  "imageLocal": "assets/img/card/WRITHE.webp"
+  "imageLocal": "assets/img/card/WRITHE.webp",
+  "imageBig": "assets/img/bigcard/WRITHE.webp"
  },
  {
   "cardEnName": "WROUGHT_IN_WAR",
@@ -19000,7 +20114,9 @@
   "pickRate": 6.56,
   "skipRate": 93.44,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/WROUGHT_IN_WAR.webp"
+  "imageLocal": "assets/img/card/WROUGHT_IN_WAR.webp",
+  "imageBig": "assets/img/bigcard/WROUGHT_IN_WAR.webp",
+  "imageBigUpgrade": "assets/img/bigcard/WROUGHT_IN_WAR_UPGRADE.webp"
  },
  {
   "cardEnName": "ZAP",
@@ -19033,6 +20149,8 @@
   "pickRate": 0.0,
   "skipRate": 100.0,
   "levelUp": 1,
-  "imageLocal": "assets/img/card/ZAP.webp"
+  "imageLocal": "assets/img/card/ZAP.webp",
+  "imageBig": "assets/img/bigcard/ZAP.webp",
+  "imageBigUpgrade": "assets/img/bigcard/ZAP_UPGRADE.webp"
  }
 ]
