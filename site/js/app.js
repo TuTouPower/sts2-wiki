@@ -346,8 +346,8 @@ const detailRender = {
                   c.buildType && { text: `流派 ${c.buildType}` }, c.mechanism && { text: c.mechanism }])}
         <p class="desc-line"><span class="desc-label">升级前：</span>${esc(c.description || '（暂无）')}</p>
         ${c.upgradeDescription ? `<p class="desc-line up"><span class="desc-label">升级后：</span>${esc(c.upgradeDescription)}</p>` : ''}
-      </div>
-      <div class="detail-stats">${stats.join('')}</div></div>`;
+        <div class="stat-grid card-stats">${stats.join('')}</div>
+      </div></div>`;
   },
   relics(r) {
     return `<div class="detail">
