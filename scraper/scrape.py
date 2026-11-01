@@ -39,6 +39,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
                     "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"}
 
 LIST_TYPES = {"卡牌": "cards", "遗物": "relics", "敌人": "enemies", "角色": "characters"}
+TEST_ENNAMES = {"DEPRECATED_CARD", "T"}  # 源站内部测试条目，非真实游戏内容
 DETAIL_TYPES = {"cards": "cards", "relics": "relics", "enemies": "enemies"}  # 角色无详情页
 
 
@@ -109,7 +110,7 @@ def process_card_image(en_name: str) -> str | None:
     out = IMG_DIR / "card" / f"{en_name}.webp"
     if out.exists():
         return f"assets/img/card/{en_name}.webp"
-    raw = fetch_bytes(f"{IMG_BASE}/card/{en_name}.png")
+    raw = fetch_bytes(f"{IMG_BASE}/card/{urllib.parse.quote(en_name)}.png")
     if not raw:
         return None
     try:
@@ -125,15 +126,18 @@ def process_card_image(en_name: str) -> str | None:
 
 
 def process_simple_image(sub: str, en_name: str) -> str | None:
-    out = IMG_DIR / sub / f"{en_name}.png"
+    # 源站个别 enName 带空格（如遗物 HEFTY _TABLET）：请求时须 URL 编码，
+    # 本地存档则去掉空格用干净文件名。
+    local_name = en_name.replace(" ", "")
+    out = IMG_DIR / sub / f"{local_name}.png"
     if out.exists():
-        return f"assets/img/{sub}/{en_name}.png"
-    raw = fetch_bytes(f"{IMG_BASE}/{sub}/{en_name}.png")
+        return f"assets/img/{sub}/{local_name}.png"
+    raw = fetch_bytes(f"{IMG_BASE}/{sub}/{urllib.parse.quote(en_name)}.png")
     if not raw:
         return None
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_bytes(raw)
-    return f"assets/img/{sub}/{en_name}.png"
+    return f"assets/img/{sub}/{local_name}.png"
 
 
 def main():
@@ -153,6 +157,11 @@ def main():
         items = fetch_json(list_url(zh_type))
         if not isinstance(items, list):
             raise RuntimeError(f"unexpected list payload for {zh_type}: {str(items)[:200]}")
+        # 源站列表混有其内部测试条目（无描述、无图片），抓取时直接剔除
+        dropped = [i.get("enName") for i in items if i.get("enName") in TEST_ENNAMES]
+        if dropped:
+            items = [i for i in items if i.get("enName") not in TEST_ENNAMES]
+            print(f"  dropped test entries: {dropped}")
         print(f"  -> {len(items)} items")
 
         if en_type in DETAIL_TYPES and not args.no_details:

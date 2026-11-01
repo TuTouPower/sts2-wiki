@@ -1107,7 +1107,7 @@
   "effect": "从 3 张稀有牌中选择 1 张加入你的牌组。将 1 张\"受伤\"加入你的牌组。",
   "link": "hefty-tablet",
   "id": 577,
-  "imageLocal": null
+  "imageLocal": "assets/img/relic/HEFTY_TABLET.png"
  },
  {
   "relicId": 529,
