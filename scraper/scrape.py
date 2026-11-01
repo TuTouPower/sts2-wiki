@@ -40,6 +40,11 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 
 LIST_TYPES = {"卡牌": "cards", "遗物": "relics", "敌人": "enemies", "角色": "characters"}
 TEST_ENNAMES = {"DEPRECATED_CARD", "T"}  # 源站内部测试条目，非真实游戏内容
+# 角色筛选头像：源站以中文名存于 CDN 根目录（{中文名}.png），本地按英文键存档，
+# 与 site/js/app.js 中的 TYPE_ICONS 一一对应
+CHARACTER_ICONS = {"铁甲战士": "IRONCLAD", "静默猎手": "SILENT", "储君": "REGENT",
+                   "亡灵契约师": "NECROBINDER", "故障机器人": "DEFECT",
+                   "无色牌": "COLORLESS", "先古之民": "ANCIENT", "其他": "OTHER"}
 DETAIL_TYPES = {"cards": "cards", "relics": "relics", "enemies": "enemies"}  # 角色无详情页
 
 
@@ -211,6 +216,20 @@ def main():
                 if p:
                     ok += 1
         print(f"  relic images ok {ok}/{len(relics)}")
+
+        print("[images] character icons ...")
+        ok = 0
+        for zh, key in CHARACTER_ICONS.items():
+            out = IMG_DIR / "character" / f"{key}.png"
+            if out.exists():
+                ok += 1
+                continue
+            raw = fetch_bytes(f"{IMG_BASE}/{urllib.parse.quote(zh)}.png")
+            if raw:
+                out.parent.mkdir(parents=True, exist_ok=True)
+                out.write_bytes(raw)
+                ok += 1
+        print(f"  character icons ok {ok}/{len(CHARACTER_ICONS)}")
 
         print("[images] bosses ...")
         ok = tot = 0

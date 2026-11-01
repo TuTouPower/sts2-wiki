@@ -42,6 +42,23 @@ const cRate = (c, base) => num(c[base] ?? c['avg' + base[0].toUpperCase() + base
 const distinct = (arr, key) => [...new Set(arr.map((x) => x[key]).filter(Boolean))];
 const RARITY_ORDER = ['普通', '罕见', '稀有', '特殊', '诅咒',
   '普通遗物', '罕见遗物', '稀有遗物', '商店遗物', '事件遗物', 'Boss遗物', '先古遗物'];
+
+/* 卡牌「角色」筛选的头像（源站以中文名命名的图标，已下载到本地） */
+const TYPE_ORDER = ['铁甲战士', '静默猎手', '储君', '亡灵契约师', '故障机器人', '无色牌', '先古之民', '其他'];
+const TYPE_ICONS = {
+  '铁甲战士': 'assets/img/character/IRONCLAD.png',
+  '静默猎手': 'assets/img/character/SILENT.png',
+  '储君': 'assets/img/character/REGENT.png',
+  '亡灵契约师': 'assets/img/character/NECROBINDER.png',
+  '故障机器人': 'assets/img/character/DEFECT.png',
+  '无色牌': 'assets/img/character/COLORLESS.png',
+  '先古之民': 'assets/img/character/ANCIENT.png',
+  '其他': 'assets/img/character/OTHER.png',
+};
+const byTypeOrder = (a, b) => {
+  const ia = TYPE_ORDER.indexOf(a), ib = TYPE_ORDER.indexOf(b);
+  return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+};
 const byRarityOrder = (a, b) => {
   const ia = RARITY_ORDER.indexOf(a), ib = RARITY_ORDER.indexOf(b);
   return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b, 'zh');
@@ -51,7 +68,7 @@ const TAB_CONF = {
   cards: {
     items: () => DATA.cards,
     filters: [
-      { key: 'type', label: '角色', values: (d) => distinct(d, 'type').sort((a, b) => a.localeCompare(b, 'zh')) },
+      { key: 'type', label: '角色', values: (d) => distinct(d, 'type').sort(byTypeOrder) },
       { key: 'rarity', label: '稀有度', values: (d) => distinct(d, 'rarity').sort(byRarityOrder) },
       { key: 'category', label: '类别', values: (d) => distinct(d, 'category') },
       { key: 'tier', label: '强度', values: (d) => distinct(d, 'tier') },
@@ -103,6 +120,15 @@ function renderFilterbar() {
   let html = '';
   for (const fc of conf.filters) {
     const vals = fc.values(items);
+    if (state.tab === 'cards' && fc.key === 'type') {
+      /* 角色筛选：带头像的按钮组（对齐源站样式） */
+      html += `<span class="chips"><span class="chips-label">${esc(fc.label)}</span>` +
+        `<button type="button" class="chip text-only ${!f.type ? 'active' : ''}" data-chip="">全部</button>` +
+        vals.map((v) => `<button type="button" class="chip ${TYPE_ICONS[v] ? '' : 'text-only'} ${f.type === v ? 'active' : ''}" data-chip="${esc(v)}">` +
+          (TYPE_ICONS[v] ? `<img src="${esc(TYPE_ICONS[v])}" alt="">` : '') + `${esc(v)}</button>`).join('') +
+        `</span>`;
+      continue;
+    }
     html += `<span class="filter-group"><label>${esc(fc.label)}</label>` +
       `<select data-filter="${esc(fc.key)}"><option value="">全部</option>` +
       vals.map((v) => `<option value="${esc(v)}" ${f[fc.key] === v ? 'selected' : ''}>${esc(v)}</option>`).join('') +
@@ -114,6 +140,9 @@ function renderFilterbar() {
   bar.innerHTML = html;
   bar.querySelectorAll('select[data-filter]').forEach((sel) => {
     sel.addEventListener('change', () => { state.filters[state.tab][sel.dataset.filter] = sel.value; render(); });
+  });
+  bar.querySelectorAll('[data-chip]').forEach((btn) => {
+    btn.addEventListener('click', () => { state.filters.cards.type = btn.dataset.chip; render(); });
   });
   bar.querySelector('select[data-sort]').addEventListener('change', (e) => {
     state.sort[state.tab] = e.target.value; render();
