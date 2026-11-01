@@ -248,6 +248,7 @@ function currentList() {
 }
 
 function render() {
+  saveState();
   const grid = $('#grid'), charWrap = $('#charWrap');
   document.querySelectorAll('#tabs .tab').forEach((t) =>
     t.classList.toggle('active', t.dataset.tab === state.tab));
@@ -351,6 +352,35 @@ document.querySelectorAll('#tabs .tab').forEach((t) => {
   t.addEventListener('click', () => { state.tab = t.dataset.tab; render(); });
 });
 
+/* ---------- 筛选状态持久化（localStorage，刷新不丢） ---------- */
+const STORE_KEY = 'sts2-view-state-v1';
+function saveState() {
+  try {
+    localStorage.setItem(STORE_KEY, JSON.stringify({
+      tab: state.tab, query: state.query, filters: state.filters, sort: state.sort,
+    }));
+  } catch (e) { /* 隐私模式等场景下静默放弃 */ }
+}
+function loadState() {
+  let s;
+  try { s = JSON.parse(localStorage.getItem(STORE_KEY) || 'null'); } catch (e) { return; }
+  if (!s) return;
+  if (['cards', 'relics', 'enemies', 'characters'].includes(s.tab)) state.tab = s.tab;
+  if (typeof s.query === 'string') state.query = s.query;
+  for (const t of ['cards', 'relics', 'enemies']) {
+    if (s.filters && s.filters[t]) {
+      for (const fc of TAB_CONF[t].filters) {
+        const v = s.filters[t][fc.key];
+        /* 只恢复数据里仍然存在的值，防数据源更新后筛出空结果 */
+        if (typeof v === 'string' && v && fc.values(TAB_CONF[t].items()).includes(v)) {
+          state.filters[t][fc.key] = v;
+        }
+      }
+    }
+    if (s.sort && TAB_CONF[t].sorts.some(([k]) => k === s.sort[t])) state.sort[t] = s.sort[t];
+  }
+}
+
 /* ---------- 初始化 ---------- */
 for (const [k, arr] of Object.entries(
   { cards: DATA.cards, relics: DATA.relics, enemies: DATA.enemies, characters: DATA.characters })) {
@@ -358,4 +388,6 @@ for (const [k, arr] of Object.entries(
   if (el) el.textContent = arr ? `(${arr.length})` : '';
 }
 if (DATA.generatedAt) $('#dataStamp').textContent = `数据抓取时间：${DATA.generatedAt}`;
+loadState();
+$('#searchInput').value = state.query;
 render();
