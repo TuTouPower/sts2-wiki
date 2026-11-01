@@ -1,0 +1,2962 @@
+[
+ {
+  "relicId": 536,
+  "zhName": "赤牛",
+  "enName": "AKABEKO",
+  "rarity": "罕见遗物",
+  "effect": "在每场战斗开始时，获得8点活力。",
+  "link": "akabeko",
+  "id": 536,
+  "imageLocal": "assets/img/relic/AKABEKO.png"
+ },
+ {
+  "relicId": 457,
+  "zhName": "炼金箱",
+  "enName": "ALCHEMICAL_COFFER",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得4个放有随机药水的药水栏位。",
+  "link": "alchemical-coffer",
+  "id": 457,
+  "imageLocal": "assets/img/relic/ALCHEMICAL_COFFER.png"
+ },
+ {
+  "relicId": 494,
+  "zhName": "紫水晶茄子",
+  "enName": "AMETHYST_AUBERGINE",
+  "rarity": "普通遗物",
+  "effect": "敌人额外掉落10金币。",
+  "link": "amethyst-aubergine",
+  "id": 494,
+  "imageLocal": "assets/img/relic/AMETHYST_AUBERGINE.png"
+ },
+ {
+  "relicId": 557,
+  "zhName": "锚",
+  "enName": "ANCHOR",
+  "rarity": "普通遗物",
+  "effect": "每场战斗开始时获得10点格挡。",
+  "link": "anchor",
+  "id": 557,
+  "imageLocal": "assets/img/relic/ANCHOR.png"
+ },
+ {
+  "relicId": 363,
+  "zhName": "奥术卷轴",
+  "enName": "ARCANE_SCROLL",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将一张随机稀有牌加入你的牌组。",
+  "link": "arcane-scroll",
+  "id": 363,
+  "imageLocal": "assets/img/relic/ARCANE_SCROLL.png"
+ },
+ {
+  "relicId": 335,
+  "zhName": "古老牙齿",
+  "enName": "ARCHAIC_TOOTH",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将一张初始卡牌变化为先古版本。",
+  "link": "archaic-tooth",
+  "id": 335,
+  "imageLocal": "assets/img/relic/ARCHAIC_TOOTH.png"
+ },
+ {
+  "relicId": 365,
+  "zhName": "孙子兵法",
+  "enName": "ART_OF_WAR",
+  "rarity": "稀有遗物",
+  "effect": "如果你在本回合中没有打出过攻击牌，则在下一回合额外获得1点1点能量。",
+  "link": "art-of-war",
+  "id": 365,
+  "imageLocal": "assets/img/relic/ART_OF_WAR.png"
+ },
+ {
+  "relicId": 426,
+  "zhName": "星盘",
+  "enName": "ASTROLABE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，选择3张牌进行变化，然后将这些牌升级。",
+  "link": "astrolabe",
+  "id": 426,
+  "imageLocal": "assets/img/relic/ASTROLABE.png"
+ },
+ {
+  "relicId": 390,
+  "zhName": "弹珠袋",
+  "enName": "BAG_OF_MARBLES",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，给予所有敌人1层易伤。",
+  "link": "bag-of-marbles",
+  "id": 390,
+  "imageLocal": "assets/img/relic/BAG_OF_MARBLES.png"
+ },
+ {
+  "relicId": 316,
+  "zhName": "准备背包",
+  "enName": "BAG_OF_PREPARATION",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，额外抽2张牌。",
+  "link": "bag-of-preparation",
+  "id": 316,
+  "imageLocal": "assets/img/relic/BAG_OF_PREPARATION.png"
+ },
+ {
+  "relicId": 392,
+  "zhName": "律动残余",
+  "enName": "BEATING_REMNANT",
+  "rarity": "稀有遗物",
+  "effect": "你在一回合内失去的生命值不会超过20点。",
+  "link": "beating-remnant",
+  "id": 392,
+  "imageLocal": "assets/img/relic/BEATING_REMNANT.png"
+ },
+ {
+  "relicId": 324,
+  "zhName": "华美手镯",
+  "enName": "BEAUTIFUL_BRACELET",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从你的牌组中选择3张牌，附魔：迅捷3。",
+  "link": "beautiful-bracelet",
+  "id": 324,
+  "imageLocal": "assets/img/relic/BEAUTIFUL_BRACELET.png"
+ },
+ {
+  "relicId": 567,
+  "zhName": "风箱",
+  "enName": "BELLOWS",
+  "rarity": "稀有遗物",
+  "effect": "你在每场战斗开始时的手牌，将被升级。",
+  "link": "bellows",
+  "id": 567,
+  "imageLocal": "assets/img/relic/BELLOWS.png"
+ },
+ {
+  "relicId": 508,
+  "zhName": "腰带扣",
+  "enName": "BELT_BUCKLE",
+  "rarity": "商店遗物",
+  "effect": "当你没有药水时，你额外拥有2点敏捷。",
+  "link": "belt-buckle",
+  "id": 508,
+  "imageLocal": "assets/img/relic/BELT_BUCKLE.png"
+ },
+ {
+  "relicId": 351,
+  "zhName": "大帽子",
+  "enName": "BIG_HAT",
+  "rarity": "稀有遗物",
+  "effect": "在每场战斗开始时，将2张随机虚无牌加入你的手牌。",
+  "link": "big-hat",
+  "id": 351,
+  "imageLocal": "assets/img/relic/BIG_HAT.png"
+ },
+ {
+  "relicId": 352,
+  "zhName": "大蘑菇",
+  "enName": "BIG_MUSHROOM",
+  "rarity": "事件遗物",
+  "effect": "拾起时，将你的最大生命值提升20。在每场战斗开始时，少抽2张牌。",
+  "link": "big-mushroom",
+  "id": 352,
+  "imageLocal": "assets/img/relic/BIG_MUSHROOM.png"
+ },
+ {
+  "relicId": 354,
+  "zhName": "大～抱抱",
+  "enName": "BIIIG_HUG",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从你的牌组中移除4张牌。每当你的抽牌堆打乱洗牌时，将一张煤灰加入你的抽牌堆。",
+  "link": "biiig-hug",
+  "id": 354,
+  "imageLocal": "assets/img/relic/BIIIG_HUG.png"
+ },
+ {
+  "relicId": 313,
+  "zhName": "冰梆",
+  "enName": "BING_BONG",
+  "rarity": "事件遗物",
+  "effect": "每当你往牌组中增添卡牌时，都将额外添加一张相同的牌。",
+  "link": "bing-bong",
+  "id": 313,
+  "imageLocal": "assets/img/relic/BING_BONG.png"
+ },
+ {
+  "relicId": 575,
+  "zhName": "黑暗之血",
+  "enName": "BLACK_BLOOD",
+  "rarity": "初始遗物",
+  "effect": "在战斗结束时，回复12点生命。",
+  "link": "black-blood",
+  "id": 575,
+  "imageLocal": "assets/img/relic/BLACK_BLOOD.png"
+ },
+ {
+  "relicId": 574,
+  "zhName": "黑星",
+  "enName": "BLACK_STAR",
+  "rarity": "先古遗物",
+  "effect": "精英敌人在被打败时多掉落一件遗物。",
+  "link": "black-star",
+  "id": 574,
+  "imageLocal": "assets/img/relic/BLACK_STAR.png"
+ },
+ {
+  "relicId": 535,
+  "zhName": "赐福鹿角",
+  "enName": "BLESSED_ANTLER",
+  "rarity": "先古遗物",
+  "effect": "在每回合开始时获得1点能量。在战斗开始时，将3张晕眩放入你的抽牌堆。",
+  "link": "blessed-antler",
+  "id": 535,
+  "imageLocal": "assets/img/relic/BLESSED_ANTLER.png"
+ },
+ {
+  "relicId": 530,
+  "zhName": "血染玫瑰",
+  "enName": "BLOOD_SOAKED_ROSE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将1张执迷加入你的牌组。在回合开始时获得1点能量。",
+  "link": "blood-soaked-rose",
+  "id": 530,
+  "imageLocal": "assets/img/relic/BLOOD_SOAKED_ROSE.png"
+ },
+ {
+  "relicId": 369,
+  "zhName": "小血瓶",
+  "enName": "BLOOD_VIAL",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，回复2点生命。",
+  "link": "blood-vial",
+  "id": 369,
+  "imageLocal": "assets/img/relic/BLOOD_VIAL.png"
+ },
+ {
+  "relicId": 570,
+  "zhName": "骨笛",
+  "enName": "BONE_FLUTE",
+  "rarity": "普通遗物",
+  "effect": "每当奥斯提攻击时，获得2点格挡。",
+  "link": "bone-flute",
+  "id": 570,
+  "imageLocal": "assets/img/relic/BONE_FLUTE.png"
+ },
+ {
+  "relicId": 571,
+  "zhName": "骨茶",
+  "enName": "BONE_TEA",
+  "rarity": "事件遗物",
+  "effect": "在你接下来的场战斗开始时，升级你的初始手牌。",
+  "link": "bone-tea",
+  "id": 571,
+  "imageLocal": "assets/img/relic/BONE_TEA.png"
+ },
+ {
+  "relicId": 294,
+  "zhName": "书签",
+  "enName": "BOOKMARK",
+  "rarity": "稀有遗物",
+  "effect": "在每个回合结束时，将随机一张被保留的牌，直到被打出前耗能减少1。",
+  "link": "bookmark",
+  "id": 294,
+  "imageLocal": "assets/img/relic/BOOKMARK.png"
+ },
+ {
+  "relicId": 295,
+  "zhName": "五轮书",
+  "enName": "BOOK_OF_FIVE_RINGS",
+  "rarity": "普通遗物",
+  "effect": "你每将5张牌加入你的牌组时，回复15点生命。",
+  "link": "book-of-five-rings",
+  "id": 295,
+  "imageLocal": "assets/img/relic/BOOK_OF_FIVE_RINGS.png"
+ },
+ {
+  "relicId": 311,
+  "zhName": "修书小刀",
+  "enName": "BOOK_REPAIR_KNIFE",
+  "rarity": "罕见遗物",
+  "effect": "每当有一名不是“爪牙”的敌人死于灾厄时，回复3点生命。",
+  "link": "book-repair-knife",
+  "id": 311,
+  "imageLocal": "assets/img/relic/BOOK_REPAIR_KNIFE.png"
+ },
+ {
+  "relicId": 538,
+  "zhName": "轰鸣海螺",
+  "enName": "BOOMING_CONCH",
+  "rarity": "先古遗物",
+  "effect": "在精英战的战斗开始时，额外抽2张牌，获得1点能量。",
+  "link": "booming-conch",
+  "id": 538,
+  "imageLocal": "assets/img/relic/BOOMING_CONCH.png"
+ },
+ {
+  "relicId": 501,
+  "zhName": "缚魂命匣",
+  "enName": "BOUND_PHYLACTERY",
+  "rarity": "初始遗物",
+  "effect": "在你的回合开始时，召唤1",
+  "link": "bound-phylactery",
+  "id": 501,
+  "imageLocal": "assets/img/relic/BOUND_PHYLACTERY.png"
+ },
+ {
+  "relicId": 345,
+  "zhName": "圆顶礼帽",
+  "enName": "BOWLER_HAT",
+  "rarity": "罕见遗物",
+  "effect": "额外获得20%的金币。",
+  "link": "bowler-hat",
+  "id": 345,
+  "imageLocal": "assets/img/relic/BOWLER_HAT.png"
+ },
+ {
+  "relicId": 562,
+  "zhName": "面包",
+  "enName": "BREAD",
+  "rarity": "商店遗物",
+  "effect": "在你的第一个回合开始时，失去2点能量。在其余的回合开始时，获得1点能量。",
+  "link": "bread",
+  "id": 562,
+  "imageLocal": "assets/img/relic/BREAD.png"
+ },
+ {
+  "relicId": 513,
+  "zhName": "艳丽围巾",
+  "enName": "BRILLIANT_SCARF",
+  "rarity": "先古遗物",
+  "effect": "你每回合打出的第5张牌可以被免费打出。",
+  "link": "brilliant-scarf",
+  "id": 513,
+  "imageLocal": "assets/img/relic/BRILLIANT_SCARF.png"
+ },
+ {
+  "relicId": 484,
+  "zhName": "硫磺",
+  "enName": "BRIMSTONE",
+  "rarity": "商店遗物",
+  "effect": null,
+  "link": "brimstone",
+  "id": 484,
+  "imageLocal": "assets/img/relic/BRIMSTONE.png"
+ },
+ {
+  "relicId": 553,
+  "zhName": "铜质鳞片",
+  "enName": "BRONZE_SCALES",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，获得3点荆棘。",
+  "link": "bronze-scales",
+  "id": 553,
+  "imageLocal": "assets/img/relic/BRONZE_SCALES.png"
+ },
+ {
+  "relicId": 465,
+  "zhName": "燃烧之血",
+  "enName": "BURNING_BLOOD",
+  "rarity": "初始遗物",
+  "effect": "在战斗结束时，回复6点生命。",
+  "link": "burning-blood",
+  "id": 465,
+  "imageLocal": "assets/img/relic/BURNING_BLOOD.png"
+ },
+ {
+  "relicId": 466,
+  "zhName": "燃烧木棍",
+  "enName": "BURNING_STICKS",
+  "rarity": "商店遗物",
+  "effect": "每场战斗中你第一次消耗技能牌时，将那张牌的复制品加入你的手牌",
+  "link": "burning-sticks",
+  "id": 466,
+  "imageLocal": "assets/img/relic/BURNING_STICKS.png"
+ },
+ {
+  "relicId": 389,
+  "zhName": "异鸟宝宝",
+  "enName": "BYRDPIP",
+  "rarity": "事件遗物",
+  "effect": "拾起时，获得一张异鸟扑击。一只幼年异鸟会在战斗中陪伴你。",
+  "link": "byrdpip",
+  "id": 389,
+  "imageLocal": "assets/img/relic/BYRDPIP.png"
+ },
+ {
+  "relicId": 339,
+  "zhName": "召唤铃铛",
+  "enName": "CALLING_BELL",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得一个独特的诅咒和3件遗物。",
+  "link": "calling-bell",
+  "id": 339,
+  "imageLocal": "assets/img/relic/CALLING_BELL.png"
+ },
+ {
+  "relicId": 459,
+  "zhName": "烛台",
+  "enName": "CANDELABRA",
+  "rarity": "罕见遗物",
+  "effect": "在你的第2回合开始时，获得2点能量。",
+  "link": "candelabra",
+  "id": 459,
+  "imageLocal": "assets/img/relic/CANDELABRA.png"
+ },
+ {
+  "relicId": 511,
+  "zhName": "舵盘",
+  "enName": "CAPTAINS_WHEEL",
+  "rarity": "稀有遗物",
+  "effect": "在你的第三回合开始时，获得18点格挡。",
+  "link": "captains-wheel",
+  "id": 511,
+  "imageLocal": "assets/img/relic/CAPTAINS_WHEEL.png"
+ },
+ {
+  "relicId": 353,
+  "zhName": "大锅",
+  "enName": "CAULDRON",
+  "rarity": "商店遗物",
+  "effect": "拾起时，制作5瓶随机药水。",
+  "link": "cauldron",
+  "id": 353,
+  "imageLocal": "assets/img/relic/CAULDRON.png"
+ },
+ {
+  "relicId": 477,
+  "zhName": "百年积木",
+  "enName": "CENTENNIAL_PUZZLE",
+  "rarity": "普通遗物",
+  "effect": "你在每场战斗中第一次损失生命值时，抽3张牌。",
+  "link": "centennial-puzzle",
+  "id": 477,
+  "imageLocal": "assets/img/relic/CENTENNIAL_PUZZLE.png"
+ },
+ {
+  "relicId": 341,
+  "zhName": "吊灯",
+  "enName": "CHANDELIER",
+  "rarity": "稀有遗物",
+  "effect": "在你的第三回合开始时，获得3点能量。",
+  "link": "chandelier",
+  "id": 341,
+  "imageLocal": "assets/img/relic/CHANDELIER.png"
+ },
+ {
+  "relicId": 327,
+  "zhName": "卡戎之灰",
+  "enName": "CHARONS_ASHES",
+  "rarity": "稀有遗物",
+  "effect": "每当你消耗一张牌，对所有敌人造成3点伤害。",
+  "link": "charons-ashes",
+  "id": 327,
+  "imageLocal": "assets/img/relic/CHARONS_ASHES.png"
+ },
+ {
+  "relicId": 322,
+  "zhName": "化学物X",
+  "enName": "CHEMICAL_X",
+  "rarity": "商店遗物",
+  "effect": "耗能为X的牌的效果数值增加2点。",
+  "link": "chemical-x",
+  "id": 322,
+  "imageLocal": "assets/img/relic/CHEMICAL_X.png"
+ },
+ {
+  "relicId": 542,
+  "zhName": "选择悖论",
+  "enName": "CHOICES_PARADOX",
+  "rarity": "先古遗物",
+  "effect": "在每场战斗开始时，你可以从5张随机牌中选择1张放入你的手牌。然后被选定的那张牌获得保留。",
+  "link": "choices-paradox",
+  "id": 542,
+  "imageLocal": "assets/img/relic/CHOICES_PARADOX.png"
+ },
+ {
+  "relicId": 357,
+  "zhName": "天选芝士",
+  "enName": "CHOSEN_CHEESE",
+  "rarity": "事件遗物",
+  "effect": "在战斗结束时，获得1点最大生命值。",
+  "link": "chosen-cheese",
+  "id": 357,
+  "imageLocal": "assets/img/relic/CHOSEN_CHEESE.png"
+ },
+ {
+  "relicId": 360,
+  "zhName": "头环",
+  "enName": "CIRCLET",
+  "rarity": "其他遗物",
+  "effect": "这是一个头环。",
+  "link": "circlet",
+  "id": 360,
+  "imageLocal": "assets/img/relic/CIRCLET.png"
+ },
+ {
+  "relicId": 319,
+  "zhName": "利爪",
+  "enName": "CLAWS",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将至多6张牌变化为撕咬。",
+  "link": "claws",
+  "id": 319,
+  "imageLocal": "assets/img/relic/CLAWS.png"
+ },
+ {
+  "relicId": 420,
+  "zhName": "斗篷扣",
+  "enName": "CLOAK_CLASP",
+  "rarity": "稀有遗物",
+  "effect": "在你的回合结束时，每有一张手牌，就获得1点格挡",
+  "link": "cloak-clasp",
+  "id": 420,
+  "imageLocal": "assets/img/relic/CLOAK_CLASP.png"
+ },
+ {
+  "relicId": 483,
+  "zhName": "破损核心",
+  "enName": "CRACKED_CORE",
+  "rarity": "初始遗物",
+  "effect": "在每场战斗开始时，生成1个闪电充能球。",
+  "link": "cracked-core",
+  "id": 483,
+  "imageLocal": "assets/img/relic/CRACKED_CORE.png"
+ },
+ {
+  "relicId": 323,
+  "zhName": "十字弓",
+  "enName": "CROSSBOW",
+  "rarity": "先古遗物",
+  "effect": "在你的回合开始时，将一张随机攻击牌加入你的手牌。这张牌在本回合可以免费打出。",
+  "link": "crossbow",
+  "id": 323,
+  "imageLocal": "assets/img/relic/CROSSBOW.png"
+ },
+ {
+  "relicId": 531,
+  "zhName": "诅咒珍珠",
+  "enName": "CURSED_PEARL",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得一张贪婪，获得333金币。",
+  "link": "cursed-pearl",
+  "id": 531,
+  "imageLocal": "assets/img/relic/CURSED_PEARL.png"
+ },
+ {
+  "relicId": 576,
+  "zhName": "黑石护符",
+  "enName": "DARKSTONE_PERIAPT",
+  "rarity": "事件遗物",
+  "effect": "每当你获得一张诅咒，就将你的最大生命值提升6。",
+  "link": "darkstone-periapt",
+  "id": 576,
+  "imageLocal": "assets/img/relic/DARKSTONE_PERIAPT.png"
+ },
+ {
+  "relicId": 419,
+  "zhName": "数据磁盘",
+  "enName": "DATA_DISK",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，获得1点集中。",
+  "link": "data-disk",
+  "id": 419,
+  "imageLocal": "assets/img/relic/DATA_DISK.png"
+ },
+ {
+  "relicId": 566,
+  "zhName": "风的女儿",
+  "enName": "DAUGHTER_OF_THE_WIND",
+  "rarity": "事件遗物",
+  "effect": "每当你打出一张攻击牌时，获得1点格挡。",
+  "link": "daughter-of-the-wind",
+  "id": 566,
+  "imageLocal": "assets/img/relic/DAUGHTER_OF_THE_WIND.png"
+ },
+ {
+  "relicId": 364,
+  "zhName": "娇嫩蕨草",
+  "enName": "DELICATE_FROND",
+  "rarity": "先古遗物",
+  "effect": "在每场战斗开始时，用随机药水将你的空药水栏位填满。",
+  "link": "delicate-frond",
+  "id": 364,
+  "imageLocal": "assets/img/relic/DELICATE_FROND.png"
+ },
+ {
+  "relicId": 397,
+  "zhName": "恶魔之舌",
+  "enName": "DEMON_TONGUE",
+  "rarity": "稀有遗物",
+  "effect": "当你第一次在自身回合内失去生命值时，回复等量的生命值。",
+  "link": "demon-tongue",
+  "id": 397,
+  "imageLocal": "assets/img/relic/DEMON_TONGUE.png"
+ },
+ {
+  "relicId": 550,
+  "zhName": "钻石头冠",
+  "enName": "DIAMOND_DIADEM",
+  "rarity": "先古遗物",
+  "effect": "如果你在本回合打出的牌少于等于2张，则受到敌人的伤害减半。",
+  "link": "diamond-diadem",
+  "id": 550,
+  "imageLocal": "assets/img/relic/DIAMOND_DIADEM.png"
+ },
+ {
+  "relicId": 505,
+  "zhName": "肮脏地毯",
+  "enName": "DINGY_RUG",
+  "rarity": "商店遗物",
+  "effect": "卡牌奖励现在会包括无色牌。",
+  "link": "dingy-rug",
+  "id": 505,
+  "imageLocal": "assets/img/relic/DINGY_RUG.png"
+ },
+ {
+  "relicId": 325,
+  "zhName": "卓越斗篷",
+  "enName": "DISTINGUISHED_CAPE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，失去9点最大生命值。将3张灵体加入你的牌组。",
+  "link": "distinguished-cape",
+  "id": 325,
+  "imageLocal": "assets/img/relic/DISTINGUISHED_CAPE.png"
+ },
+ {
+  "relicId": 355,
+  "zhName": "天命所归",
+  "enName": "DIVINE_DESTINY",
+  "rarity": "初始遗物",
+  "effect": "在每场战斗开始时，获得6点星能。",
+  "link": "divine-destiny",
+  "id": 355,
+  "imageLocal": "assets/img/relic/DIVINE_DESTINY.png"
+ },
+ {
+  "relicId": 356,
+  "zhName": "天赋君权",
+  "enName": "DIVINE_RIGHT",
+  "rarity": "初始遗物",
+  "effect": "在每场战斗开始时，获得3点星能。",
+  "link": "divine-right",
+  "id": 356,
+  "imageLocal": "assets/img/relic/DIVINE_RIGHT.png"
+ },
+ {
+  "relicId": 350,
+  "zhName": "多利之镜",
+  "enName": "DOLLYS_MIRROR",
+  "rarity": "商店遗物",
+  "effect": "拾起时，从你的牌组中选择一张牌进行复制。",
+  "link": "dollys-mirror",
+  "id": 350,
+  "imageLocal": "assets/img/relic/DOLLYS_MIRROR.png"
+ },
+ {
+  "relicId": 454,
+  "zhName": "火龙果",
+  "enName": "DRAGON_FRUIT",
+  "rarity": "商店遗物",
+  "effect": "每当你获得金币时，提升1点你的最大生命值。",
+  "link": "dragon-fruit",
+  "id": 454,
+  "imageLocal": "assets/img/relic/DRAGON_FRUIT.png"
+ },
+ {
+  "relicId": 414,
+  "zhName": "捕梦网",
+  "enName": "DREAM_CATCHER",
+  "rarity": "事件遗物",
+  "effect": "每当你休息时，可以添加一张牌到你的牌组。",
+  "link": "dream-catcher",
+  "id": 414,
+  "imageLocal": "assets/img/relic/DREAM_CATCHER.png"
+ },
+ {
+  "relicId": 449,
+  "zhName": "浮木",
+  "enName": "DRIFTWOOD",
+  "rarity": "先古遗物",
+  "effect": "你可以在每一个卡牌奖励中重掷一次。",
+  "link": "driftwood",
+  "id": 449,
+  "imageLocal": "assets/img/relic/DRIFTWOOD.png"
+ },
+ {
+  "relicId": 373,
+  "zhName": "尘封魔典",
+  "enName": "DUSTY_TOME",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得一张先古牌。",
+  "link": "dusty-tome",
+  "id": 373,
+  "imageLocal": "assets/img/relic/DUSTY_TOME.png"
+ },
+ {
+  "relicId": 456,
+  "zhName": "灵体外质",
+  "enName": "ECTOPLASM",
+  "rarity": "先古遗物",
+  "effect": "你不能再获得任何金币。在回合开始时获得1点能量",
+  "link": "ectoplasm",
+  "id": 456,
+  "imageLocal": "assets/img/relic/ECTOPLASM.png"
+ },
+ {
+  "relicId": 417,
+  "zhName": "放电异虾",
+  "enName": "ELECTRIC_SHRYMP",
+  "rarity": "先古遗物",
+  "effect": "拾起时，选择一张技能牌为它附魔：注能。",
+  "link": "electric-shrymp",
+  "id": 417,
+  "imageLocal": "assets/img/relic/ELECTRIC_SHRYMP.png"
+ },
+ {
+  "relicId": 299,
+  "zhName": "余烬茶",
+  "enName": "EMBER_TEA",
+  "rarity": "事件遗物",
+  "effect": "在接下来的场战斗开始时，获得2点力量。",
+  "link": "ember-tea",
+  "id": 299,
+  "imageLocal": "assets/img/relic/EMBER_TEA.png"
+ },
+ {
+  "relicId": 398,
+  "zhName": "情感芯片",
+  "enName": "EMOTION_CHIP",
+  "rarity": "稀有遗物",
+  "effect": "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。",
+  "link": "emotion-chip",
+  "id": 398,
+  "imageLocal": "assets/img/relic/EMOTION_CHIP.png"
+ },
+ {
+  "relicId": 488,
+  "zhName": "空鸟笼",
+  "enName": "EMPTY_CAGE",
+  "rarity": "先古遗物",
+  "effect": null,
+  "link": "empty-cage",
+  "id": 488,
+  "imageLocal": "assets/img/relic/EMPTY_CAGE.png"
+ },
+ {
+  "relicId": 444,
+  "zhName": "永恒羽毛",
+  "enName": "ETERNAL_FEATHER",
+  "rarity": "罕见遗物",
+  "effect": "你的牌组中每有5张牌，当你进入休息处时就会回复3点生命。",
+  "link": "eternal-feather",
+  "id": 444,
+  "imageLocal": "assets/img/relic/ETERNAL_FEATHER.png"
+ },
+ {
+  "relicId": 558,
+  "zhName": "锚？？？",
+  "enName": "FAKE_ANCHOR",
+  "rarity": "事件遗物",
+  "effect": "在每场战斗开始时，获得4点格挡。",
+  "link": "fake-anchor",
+  "id": 558,
+  "imageLocal": "assets/img/relic/FAKE_ANCHOR.png"
+ },
+ {
+  "relicId": 370,
+  "zhName": "小血瓶？？？",
+  "enName": "FAKE_BLOOD_VIAL",
+  "rarity": "事件遗物",
+  "effect": "在每场战斗开始时，回复1点生命。",
+  "link": "fake-blood-vial",
+  "id": 370,
+  "imageLocal": "assets/img/relic/FAKE_BLOOD_VIAL.png"
+ },
+ {
+  "relicId": 385,
+  "zhName": "开心小花？？？",
+  "enName": "FAKE_HAPPY_FLOWER",
+  "rarity": "事件遗物",
+  "effect": "每5个回合，获得1点能量。",
+  "link": "fake-happy-flower",
+  "id": 385,
+  "imageLocal": "assets/img/relic/FAKE_HAPPY_FLOWER.png"
+ },
+ {
+  "relicId": 432,
+  "zhName": "李家华夫饼？？？",
+  "enName": "FAKE_LEES_WAFFLE",
+  "rarity": "事件遗物",
+  "effect": "拾起时，回复你10%的生命值。",
+  "link": "fake-lees-waffle",
+  "id": 432,
+  "imageLocal": "assets/img/relic/FAKE_LEES_WAFFLE.png"
+ },
+ {
+  "relicId": 517,
+  "zhName": "芒果？？？",
+  "enName": "FAKE_MANGO",
+  "rarity": "事件遗物",
+  "effect": "拾起时，将你的最大生命值提升3。",
+  "link": "fake-mango",
+  "id": 517,
+  "imageLocal": "assets/img/relic/FAKE_MANGO.png"
+ },
+ {
+  "relicId": 343,
+  "zhName": "商人的地毯？？？",
+  "enName": "FAKE_MERCHANTS_RUG",
+  "rarity": "事件遗物",
+  "effect": "低劣的仿制品。没有任何作用。",
+  "link": "fake-merchants-rug",
+  "id": 343,
+  "imageLocal": "assets/img/relic/FAKE_MERCHANTS_RUG.png"
+ },
+ {
+  "relicId": 362,
+  "zhName": "奥利哈钢？？？",
+  "enName": "FAKE_ORICHALCUM",
+  "rarity": "事件遗物",
+  "effect": "如果你在回合结束时没有任何格挡，获得3点格挡。",
+  "link": "fake-orichalcum",
+  "id": 362,
+  "imageLocal": "assets/img/relic/FAKE_ORICHALCUM.png"
+ },
+ {
+  "relicId": 387,
+  "zhName": "异蛇之眼？？？",
+  "enName": "FAKE_SNECKO_EYE",
+  "rarity": "事件遗物",
+  "effect": "每场战斗开始时获得混乱效果。",
+  "link": "fake-snecko-eye",
+  "id": 387,
+  "imageLocal": "assets/img/relic/FAKE_SNECKO_EYE.png"
+ },
+ {
+  "relicId": 405,
+  "zhName": "打击木偶？？？",
+  "enName": "FAKE_STRIKE_DUMMY",
+  "rarity": "事件遗物",
+  "effect": "名字中有“打击”的卡牌造成1点额外伤害。",
+  "link": "fake-strike-dummy",
+  "id": 405,
+  "imageLocal": "assets/img/relic/FAKE_STRIKE_DUMMY.png"
+ },
+ {
+  "relicId": 337,
+  "zhName": "古茶具套装？？？",
+  "enName": "FAKE_VENERABLE_TEA_SET",
+  "rarity": "事件遗物",
+  "effect": "到达休息处后的下一场战斗开始时额外获得1点能量。",
+  "link": "fake-venerable-tea-set",
+  "id": 337,
+  "imageLocal": "assets/img/relic/FAKE_VENERABLE_TEA_SET.png"
+ },
+ {
+  "relicId": 317,
+  "zhName": "击剑指南",
+  "enName": "FENCING_MANUAL",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，铸造10。",
+  "link": "fencing-manual",
+  "id": 317,
+  "imageLocal": "assets/img/relic/FENCING_MANUAL.png"
+ },
+ {
+  "relicId": 515,
+  "zhName": "节日拉炮",
+  "enName": "FESTIVE_POPPER",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，对所有敌人造成9点伤害。",
+  "link": "festive-popper",
+  "id": 515,
+  "imageLocal": "assets/img/relic/FESTIVE_POPPER.png"
+ },
+ {
+  "relicId": 368,
+  "zhName": "小提琴",
+  "enName": "FIDDLE",
+  "rarity": "先古遗物",
+  "effect": "在每个回合开始时，额外抽2张牌。你在回合进行中不再能抽任何牌。",
+  "link": "fiddle",
+  "id": 368,
+  "imageLocal": "assets/img/relic/FIDDLE.png"
+ },
+ {
+  "relicId": 583,
+  "zhName": "钓竿",
+  "enName": "FISHING_ROD",
+  "rarity": "先古遗物",
+  "effect": "每3场普通战斗，随机升级你牌组中的一张牌。",
+  "link": "fishing-rod",
+  "id": 583,
+  "imageLocal": "assets/img/relic/FISHING_ROD.png"
+ },
+ {
+  "relicId": 543,
+  "zhName": "遗忘之魂",
+  "enName": "FORGOTTEN_SOUL",
+  "rarity": "事件遗物",
+  "effect": "每当你消耗一张牌，随机对一名敌人造成1点伤害。",
+  "link": "forgotten-soul",
+  "id": 543,
+  "imageLocal": "assets/img/relic/FORGOTTEN_SOUL.png"
+ },
+ {
+  "relicId": 519,
+  "zhName": "芳香蘑菇",
+  "enName": "FRAGRANT_MUSHROOM",
+  "rarity": "事件遗物",
+  "effect": "拾起时，失去15点生命，然后随机升级3张牌。",
+  "link": "fragrant-mushroom",
+  "id": 519,
+  "imageLocal": "assets/img/relic/FRAGRANT_MUSHROOM.png"
+ },
+ {
+  "relicId": 523,
+  "zhName": "菲涅耳透镜",
+  "enName": "FRESNEL_LENS",
+  "rarity": "事件遗物",
+  "effect": "每当你将一张带有格挡的牌加入你的牌组时，为那张牌附魔：灵巧2",
+  "link": "fresnel-lens",
+  "id": 523,
+  "imageLocal": "assets/img/relic/FRESNEL_LENS.png"
+ },
+ {
+  "relicId": 315,
+  "zhName": "冻结之蛋",
+  "enName": "FROZEN_EGG",
+  "rarity": "稀有遗物",
+  "effect": "每当你获得能力牌时，将其升级。",
+  "link": "frozen-egg",
+  "id": 315,
+  "imageLocal": "assets/img/relic/FROZEN_EGG.png"
+ },
+ {
+  "relicId": 526,
+  "zhName": "葬礼面具",
+  "enName": "FUNERARY_MASK",
+  "rarity": "罕见遗物",
+  "effect": "在每场战斗开始时，将3张灵魂加入你的抽牌堆。",
+  "link": "funerary-mask",
+  "id": 526,
+  "imageLocal": "assets/img/relic/FUNERARY_MASK.png"
+ },
+ {
+  "relicId": 479,
+  "zhName": "皮草大衣",
+  "enName": "FUR_COAT",
+  "rarity": "先古遗物",
+  "effect": "拾起时，随机标记7处战斗。这些战斗中的敌人将只有1点生命。",
+  "link": "fur-coat",
+  "id": 479,
+  "imageLocal": "assets/img/relic/FUR_COAT.png"
+ },
+ {
+  "relicId": 428,
+  "zhName": "星系尘埃",
+  "enName": "GALACTIC_DUST",
+  "rarity": "罕见遗物",
+  "effect": "每消耗10点，就获得10格挡。",
+  "link": "galactic-dust",
+  "id": 428,
+  "imageLocal": "assets/img/relic/GALACTIC_DUST.png"
+ },
+ {
+  "relicId": 534,
+  "zhName": "赌博筹码",
+  "enName": "GAMBLING_CHIP",
+  "rarity": "稀有遗物",
+  "effect": "在每场战斗开始时，丢弃任意张牌，然后抽相同数量张牌。",
+  "link": "gambling-chip",
+  "id": 534,
+  "imageLocal": "assets/img/relic/GAMBLING_CHIP.png"
+ },
+ {
+  "relicId": 436,
+  "zhName": "棋子",
+  "enName": "GAME_PIECE",
+  "rarity": "稀有遗物",
+  "effect": "每当你打出能力牌时，抽1张牌。",
+  "link": "game-piece",
+  "id": 436,
+  "imageLocal": "assets/img/relic/GAME_PIECE.png"
+ },
+ {
+  "relicId": 382,
+  "zhName": "幽灵种子",
+  "enName": "GHOST_SEED",
+  "rarity": "商店遗物",
+  "effect": "打击和防御获得虚无。",
+  "link": "ghost-seed",
+  "id": 382,
+  "imageLocal": "assets/img/relic/GHOST_SEED.png"
+ },
+ {
+  "relicId": 349,
+  "zhName": "壶铃",
+  "enName": "GIRYA",
+  "rarity": "稀有遗物",
+  "effect": "你现在能在休息处获得力量。（最多3次）",
+  "link": "girya",
+  "id": 349,
+  "imageLocal": "assets/img/relic/GIRYA.png"
+ },
+ {
+  "relicId": 472,
+  "zhName": "玻璃眼珠",
+  "enName": "GLASS_EYE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得2组普通、2组罕见、和1组稀有卡牌奖励。",
+  "link": "glass-eye",
+  "id": 472,
+  "imageLocal": "assets/img/relic/GLASS_EYE.png"
+ },
+ {
+  "relicId": 296,
+  "zhName": "亮片",
+  "enName": "GLITTER",
+  "rarity": "先古遗物",
+  "effect": "为所有的卡牌奖励附魔：华彩。",
+  "link": "glitter",
+  "id": 296,
+  "imageLocal": "assets/img/relic/GLITTER.png"
+ },
+ {
+  "relicId": 407,
+  "zhName": "扭曲锤子",
+  "enName": "GNARLED_HAMMER",
+  "rarity": "商店遗物",
+  "effect": "拾起时，从你的牌组中选择至多3张攻击牌，附魔：锋利3。",
+  "link": "gnarled-hammer",
+  "id": 407,
+  "imageLocal": "assets/img/relic/GNARLED_HAMMER.png"
+ },
+ {
+  "relicId": 573,
+  "zhName": "黄金罗盘",
+  "enName": "GOLDEN_COMPASS",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将第2阶段的地图替换为一条特殊的直道。",
+  "link": "golden-compass",
+  "id": 573,
+  "imageLocal": "assets/img/relic/GOLDEN_COMPASS.png"
+ },
+ {
+  "relicId": 546,
+  "zhName": "金色珍珠",
+  "enName": "GOLDEN_PEARL",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得150金币。",
+  "link": "golden-pearl",
+  "id": 546,
+  "imageLocal": "assets/img/relic/GOLDEN_PEARL.png"
+ },
+ {
+  "relicId": 559,
+  "zhName": "镀金缆线",
+  "enName": "GOLD_PLATED_CABLES",
+  "rarity": "罕见遗物",
+  "effect": "你最右侧的充能球会额外触发一次被动效果。",
+  "link": "gold-plated-cables",
+  "id": 559,
+  "imageLocal": "assets/img/relic/GOLD_PLATED_CABLES.png"
+ },
+ {
+  "relicId": 409,
+  "zhName": "护喉甲",
+  "enName": "GORGET",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，获得4层覆甲。",
+  "link": "gorget",
+  "id": 409,
+  "imageLocal": "assets/img/relic/GORGET.png"
+ },
+ {
+  "relicId": 346,
+  "zhName": "地精之角",
+  "enName": "GREMLIN_HORN",
+  "rarity": "罕见遗物",
+  "effect": "每当有一名敌人死亡时，获得1点能量并抽1张牌。",
+  "link": "gremlin-horn",
+  "id": 346,
+  "imageLocal": "assets/img/relic/GREMLIN_HORN.png"
+ },
+ {
+  "relicId": 403,
+  "zhName": "手钻",
+  "enName": "HAND_DRILL",
+  "rarity": "事件遗物",
+  "effect": "每当你突破敌人的格挡时，给予其2层易伤。",
+  "link": "hand-drill",
+  "id": 403,
+  "imageLocal": "assets/img/relic/HAND_DRILL.png"
+ },
+ {
+  "relicId": 384,
+  "zhName": "开心小花",
+  "enName": "HAPPY_FLOWER",
+  "rarity": "普通遗物",
+  "effect": "每3个回合，获得1点能量。",
+  "link": "happy-flower",
+  "id": 384,
+  "imageLocal": "assets/img/relic/HAPPY_FLOWER.png"
+ },
+ {
+  "relicId": 577,
+  "zhName": "沉重石板",
+  "enName": "HEFTY _TABLET",
+  "rarity": "先古遗物",
+  "effect": "从 3 张稀有牌中选择 1 张加入你的牌组。将 1 张\"受伤\"加入你的牌组。",
+  "link": "hefty-tablet",
+  "id": 577,
+  "imageLocal": null
+ },
+ {
+  "relicId": 529,
+  "zhName": "螺线飞镖",
+  "enName": "HELICAL_DART",
+  "rarity": "稀有遗物",
+  "effect": "你每打出一张小刀，就在本回合获得1点敏捷。",
+  "link": "helical-dart",
+  "id": 529,
+  "imageLocal": "assets/img/relic/HELICAL_DART.png"
+ },
+ {
+  "relicId": 329,
+  "zhName": "历史课",
+  "enName": "HISTORY_COURSE",
+  "rarity": "事件遗物",
+  "effect": "在你的回合开始时，打出一张你上一回合最后打出的攻击牌或技能牌的复制品。",
+  "link": "history-course",
+  "id": 329,
+  "imageLocal": "assets/img/relic/HISTORY_COURSE.png"
+ },
+ {
+  "relicId": 512,
+  "zhName": "船夹板",
+  "enName": "HORN_CLEAT",
+  "rarity": "罕见遗物",
+  "effect": "在你的第二回合开始时，获得14点格挡。",
+  "link": "horn-cleat",
+  "id": 512,
+  "imageLocal": "assets/img/relic/HORN_CLEAT.png"
+ },
+ {
+  "relicId": 314,
+  "zhName": "冰淇淋",
+  "enName": "ICE_CREAM",
+  "rarity": "稀有遗物",
+  "effect": "多余的能量可以留到下一回合。",
+  "link": "ice-cream",
+  "id": 314,
+  "imageLocal": "assets/img/relic/ICE_CREAM.png"
+ },
+ {
+  "relicId": 447,
+  "zhName": "注能核心",
+  "enName": "INFUSED_CORE",
+  "rarity": "初始遗物",
+  "effect": "在每场战斗开始时，生成3个闪电充能球。闪电充能球造成额外1点伤害。",
+  "link": "infused-core",
+  "id": 447,
+  "imageLocal": "assets/img/relic/INFUSED_CORE.png"
+ },
+ {
+  "relicId": 569,
+  "zhName": "骇人头盔",
+  "enName": "INTIMIDATING_HELMET",
+  "rarity": "稀有遗物",
+  "effect": "每当你打出一张耗能大于等于2点能量的牌，获得4点格挡。",
+  "link": "intimidating-helmet",
+  "id": 569,
+  "imageLocal": "assets/img/relic/INTIMIDATING_HELMET.png"
+ },
+ {
+  "relicId": 551,
+  "zhName": "铁棒",
+  "enName": "IRON_CLUB",
+  "rarity": "先古遗物",
+  "effect": "你每打出4张牌，就抽1张牌。",
+  "link": "iron-club",
+  "id": 551,
+  "imageLocal": "assets/img/relic/IRON_CLUB.png"
+ },
+ {
+  "relicId": 532,
+  "zhName": "象牙麻将牌",
+  "enName": "IVORY_TILE",
+  "rarity": "稀有遗物",
+  "effect": "每当你打出一张耗能大于等于3点能量的牌时，获得1点能量。",
+  "link": "ivory-tile",
+  "id": 532,
+  "imageLocal": "assets/img/relic/IVORY_TILE.png"
+ },
+ {
+  "relicId": 366,
+  "zhName": "宝石面具",
+  "enName": "JEWELED_MASK",
+  "rarity": "先古遗物",
+  "effect": "在每场战斗开始时，将一张随机能力牌从你的抽牌堆放入你的手牌，这张牌可以免费打出。",
+  "link": "jeweled-mask",
+  "id": 366,
+  "imageLocal": "assets/img/relic/JEWELED_MASK.png"
+ },
+ {
+  "relicId": 473,
+  "zhName": "珠宝盒",
+  "enName": "JEWELRY_BOX",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将1张神化加入你的牌组。",
+  "link": "jewelry-box",
+  "id": 473,
+  "imageLocal": "assets/img/relic/JEWELRY_BOX.png"
+ },
+ {
+  "relicId": 545,
+  "zhName": "金纸",
+  "enName": "JOSS_PAPER",
+  "rarity": "罕见遗物",
+  "effect": "你每消耗5张牌，就抽1张牌。",
+  "link": "joss-paper",
+  "id": 545,
+  "imageLocal": "assets/img/relic/JOSS_PAPER.png"
+ },
+ {
+  "relicId": 300,
+  "zhName": "佛珠手链",
+  "enName": "JUZU_BRACELET",
+  "rarity": "普通遗物",
+  "effect": "你在?房间中不会再遭遇常规战斗。",
+  "link": "juzu-bracelet",
+  "id": 300,
+  "imageLocal": "assets/img/relic/JUZU_BRACELET.png"
+ },
+ {
+  "relicId": 582,
+  "zhName": "万花筒",
+  "enName": "KALEIDOSCOPE",
+  "rarity": "先古遗物",
+  "effect": "拾取后，可获得 2 张其他角色的卡牌奖励。",
+  "link": "Kaleidoscope",
+  "id": 582,
+  "imageLocal": "assets/img/relic/KALEIDOSCOPE.png"
+ },
+ {
+  "relicId": 430,
+  "zhName": "木札",
+  "enName": "KIFUDA",
+  "rarity": "商店遗物",
+  "effect": "拾起时，从你的牌组中选择至多3张牌，附魔：伶俐。",
+  "link": "kifuda",
+  "id": 430,
+  "imageLocal": "assets/img/relic/KIFUDA.png"
+ },
+ {
+  "relicId": 520,
+  "zhName": "苦无",
+  "enName": "KUNAI",
+  "rarity": "稀有遗物",
+  "effect": "你每在同一回合内打出3张攻击牌，就获得1点敏捷。",
+  "link": "kunai",
+  "id": 520,
+  "imageLocal": "assets/img/relic/KUNAI.png"
+ },
+ {
+  "relicId": 556,
+  "zhName": "锁镰",
+  "enName": "KUSARIGAMA",
+  "rarity": "罕见遗物",
+  "effect": "你每在同一回合内打出3张攻击牌，就随机对一名敌人造成6点伤害。",
+  "link": "kusarigama",
+  "id": 556,
+  "imageLocal": "assets/img/relic/KUSARIGAMA.png"
+ },
+ {
+  "relicId": 455,
+  "zhName": "灯笼",
+  "enName": "LANTERN",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗的第一回合获得1点能量。",
+  "link": "lantern",
+  "id": 455,
+  "imageLocal": "assets/img/relic/LANTERN.png"
+ },
+ {
+  "relicId": 377,
+  "zhName": "巨大扭蛋",
+  "enName": "LARGE_CAPSULE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得2件随机遗物。额外将一对打击和防御，加入你的牌组。",
+  "link": "large-capsule",
+  "id": 377,
+  "imageLocal": "assets/img/relic/LARGE_CAPSULE.png"
+ },
+ {
+  "relicId": 340,
+  "zhName": "吃不完的糖",
+  "enName": "LASTING_CANDY",
+  "rarity": "罕见遗物",
+  "effect": "每两场战斗，你的卡牌奖励就会额外包含一张能力牌。",
+  "link": "lasting-candy",
+  "id": 340,
+  "imageLocal": "assets/img/relic/LASTING_CANDY.png"
+ },
+ {
+  "relicId": 462,
+  "zhName": "熔岩灯",
+  "enName": "LAVA_LAMP",
+  "rarity": "商店遗物",
+  "effect": "在战斗结束时，如果你没有受伤，则升级你的所有卡牌奖励。",
+  "link": "lava-lamp",
+  "id": 462,
+  "imageLocal": "assets/img/relic/LAVA_LAMP.png"
+ },
+ {
+  "relicId": 463,
+  "zhName": "熔岩石",
+  "enName": "LAVA_ROCK",
+  "rarity": "先古遗物",
+  "effect": "第一阶段的Boss敌人额外掉落2件遗物。",
+  "link": "lava-rock",
+  "id": 463,
+  "imageLocal": "assets/img/relic/LAVA_ROCK.png"
+ },
+ {
+  "relicId": 552,
+  "zhName": "铅制镇纸",
+  "enName": "LEAD_PAPERWEIGHT",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从2张无色牌中选择1张加入你的牌组。",
+  "link": "lead-paperweight",
+  "id": 552,
+  "imageLocal": "assets/img/relic/LEAD_PAPERWEIGHT.png"
+ },
+ {
+  "relicId": 434,
+  "zhName": "树叶药膏",
+  "enName": "LEAFY_POULTICE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，变化你的1张打击和1张防御，然后失去10点最大生命。",
+  "link": "leafy-poultice",
+  "id": 434,
+  "imageLocal": "assets/img/relic/LEAFY_POULTICE.png"
+ },
+ {
+  "relicId": 431,
+  "zhName": "李家华夫饼",
+  "enName": "LEES_WAFFLE",
+  "rarity": "商店遗物",
+  "effect": "拾起时，将你的最大生命值提升7点，并回复所有生命。",
+  "link": "lees-waffle",
+  "id": 431,
+  "imageLocal": "assets/img/relic/LEES_WAFFLE.png"
+ },
+ {
+  "relicId": 383,
+  "zhName": "开信刀",
+  "enName": "LETTER_OPENER",
+  "rarity": "罕见遗物",
+  "effect": "你每在同一回合内打出3张技能牌，就对所有敌人造成5点伤害。",
+  "link": "letter-opener",
+  "id": 383,
+  "imageLocal": "assets/img/relic/LETTER_OPENER.png"
+ },
+ {
+  "relicId": 528,
+  "zhName": "蜥蜴尾巴",
+  "enName": "LIZARD_TAIL",
+  "rarity": "稀有遗物",
+  "effect": null,
+  "link": "lizard-tail",
+  "id": 528,
+  "imageLocal": "assets/img/relic/LIZARD_TAIL.png"
+ },
+ {
+  "relicId": 378,
+  "zhName": "布质果实",
+  "enName": "LOOMING_FRUIT",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将你的最大生命值提升31。",
+  "link": "looming-fruit",
+  "id": 378,
+  "imageLocal": "assets/img/relic/LOOMING_FRUIT.png"
+ },
+ {
+  "relicId": 565,
+  "zhName": "领主阳伞",
+  "enName": "LORDS_PARASOL",
+  "rarity": "先古遗物",
+  "effect": "当你遇见商人时，立刻获得他所出售的所有物品。",
+  "link": "lords-parasol",
+  "id": 565,
+  "imageLocal": "assets/img/relic/LORDS_PARASOL.png"
+ },
+ {
+  "relicId": 359,
+  "zhName": "失物盒",
+  "enName": "LOST_COFFER",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得1组卡牌奖励和1瓶随机药水。",
+  "link": "lost-coffer",
+  "id": 359,
+  "imageLocal": "assets/img/relic/LOST_COFFER.png"
+ },
+ {
+  "relicId": 540,
+  "zhName": "迷失鬼火",
+  "enName": "LOST_WISP",
+  "rarity": "事件遗物",
+  "effect": "你每打出一张能力牌，就对所有敌人造成8点伤害。",
+  "link": "lost-wisp",
+  "id": 540,
+  "imageLocal": "assets/img/relic/LOST_WISP.png"
+ },
+ {
+  "relicId": 411,
+  "zhName": "招财异鱼",
+  "enName": "LUCKY_FYSH",
+  "rarity": "罕见遗物",
+  "effect": "每当你将一张卡牌加入你的牌组时，获得15金币。",
+  "link": "lucky-fysh",
+  "id": 411,
+  "imageLocal": "assets/img/relic/LUCKY_FYSH.png"
+ },
+ {
+  "relicId": 429,
+  "zhName": "月亮糕点",
+  "enName": "LUNAR_PASTRY",
+  "rarity": "稀有遗物",
+  "effect": "在你的回合结束时，获得1点星能。",
+  "link": "lunar-pastry",
+  "id": 429,
+  "imageLocal": "assets/img/relic/LUNAR_PASTRY.png"
+ },
+ {
+  "relicId": 516,
+  "zhName": "芒果",
+  "enName": "MANGO",
+  "rarity": "稀有遗物",
+  "effect": "拾起时，将你的最大生命值提升14。",
+  "link": "mango",
+  "id": 516,
+  "imageLocal": "assets/img/relic/MANGO.png"
+ },
+ {
+  "relicId": 376,
+  "zhName": "巨大卷轴",
+  "enName": "MASSIVE_SCROLL",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从3张多人游戏无色牌中选择1张加入你的牌组。",
+  "link": "massive-scroll",
+  "id": 376,
+  "imageLocal": "assets/img/relic/MASSIVE_SCROLL.png"
+ },
+ {
+  "relicId": 375,
+  "zhName": "巨口储蓄罐",
+  "enName": "MAW_BANK",
+  "rarity": "事件遗物",
+  "effect": "每攀爬一层楼层，就获得12金币。一旦在商店中花费金币就会使其失效。",
+  "link": "maw-bank",
+  "id": 375,
+  "imageLocal": "assets/img/relic/MAW_BANK.png"
+ },
+ {
+  "relicId": 568,
+  "zhName": "餐券",
+  "enName": "MEAL_TICKET",
+  "rarity": "普通遗物",
+  "effect": "每当你进入商店房间时，回复15点生命。",
+  "link": "meal-ticket",
+  "id": 568,
+  "imageLocal": "assets/img/relic/MEAL_TICKET.png"
+ },
+ {
+  "relicId": 318,
+  "zhName": "切肉刀",
+  "enName": "MEAT_CLEAVER",
+  "rarity": "先古遗物",
+  "effect": "你可以在休息处进行烹饪。",
+  "link": "meat-cleaver",
+  "id": 318,
+  "imageLocal": "assets/img/relic/MEAT_CLEAVER.png"
+ },
+ {
+  "relicId": 380,
+  "zhName": "带骨肉",
+  "enName": "MEAT_ON_THE_BONE",
+  "rarity": "稀有遗物",
+  "effect": "如果你在战斗结束时生命值等于或低于50%，回复12点生命。",
+  "link": "meat-on-the-bone",
+  "id": 380,
+  "imageLocal": "assets/img/relic/MEAT_ON_THE_BONE.png"
+ },
+ {
+  "relicId": 297,
+  "zhName": "会员卡",
+  "enName": "MEMBERSHIP_CARD",
+  "rarity": "商店遗物",
+  "effect": "所有商品打折50%！",
+  "link": "membership-card",
+  "id": 297,
+  "imageLocal": "assets/img/relic/MEMBERSHIP_CARD.png"
+ },
+ {
+  "relicId": 442,
+  "zhName": "水银沙漏",
+  "enName": "MERCURY_HOURGLASS",
+  "rarity": "罕见遗物",
+  "effect": "在你的回合开始时，对所有敌人造成3点伤害。",
+  "link": "mercury-hourglass",
+  "id": 442,
+  "imageLocal": "assets/img/relic/MERCURY_HOURGLASS.png"
+ },
+ {
+  "relicId": 514,
+  "zhName": "节拍器",
+  "enName": "METRONOME",
+  "rarity": "稀有遗物",
+  "effect": "每场战斗中你首次生成7个充能球时，对所有敌人造成30点伤害。",
+  "link": "metronome",
+  "id": 514,
+  "imageLocal": "assets/img/relic/METRONOME.png"
+ },
+ {
+  "relicId": 393,
+  "zhName": "微型大炮",
+  "enName": "MINIATURE_CANNON",
+  "rarity": "罕见遗物",
+  "effect": "升级的攻击牌额外造成3点伤害。",
+  "link": "miniature-cannon",
+  "id": 393,
+  "imageLocal": "assets/img/relic/MINIATURE_CANNON.png"
+ },
+ {
+  "relicId": 394,
+  "zhName": "微型帐篷",
+  "enName": "MINIATURE_TENT",
+  "rarity": "商店遗物",
+  "effect": "你可以在休息处选择任意选项。",
+  "link": "miniature-tent",
+  "id": 394,
+  "imageLocal": "assets/img/relic/MINIATURE_TENT.png"
+ },
+ {
+  "relicId": 539,
+  "zhName": "迷你储君",
+  "enName": "MINI_REGENT",
+  "rarity": "稀有遗物",
+  "effect": "每回合你第一次花费时，获得1点力量。",
+  "link": "mini-regent",
+  "id": 539,
+  "imageLocal": "assets/img/relic/MINI_REGENT.png"
+ },
+ {
+  "relicId": 464,
+  "zhName": "熔火之蛋",
+  "enName": "MOLTEN_EGG",
+  "rarity": "稀有遗物",
+  "effect": "每当你获得攻击牌时，将其升级。",
+  "link": "molten-egg",
+  "id": 464,
+  "imageLocal": "assets/img/relic/MOLTEN_EGG.png"
+ },
+ {
+  "relicId": 413,
+  "zhName": "挣扎先生",
+  "enName": "MR_STRUGGLES",
+  "rarity": "事件遗物",
+  "effect": "在你的回合开始时，对所有敌人造成等量于当前回合数的伤害。",
+  "link": "mr-struggles",
+  "id": 413,
+  "imageLocal": "assets/img/relic/MR_STRUGGLES.png"
+ },
+ {
+  "relicId": 381,
+  "zhName": "干瘪之手",
+  "enName": "MUMMIFIED_HAND",
+  "rarity": "稀有遗物",
+  "effect": "你每打出一张能力牌，手牌中就有一张随机牌在这个回合可以免费打出。",
+  "link": "mummified-hand",
+  "id": 381,
+  "imageLocal": "assets/img/relic/MUMMIFIED_HAND.png"
+ },
+ {
+  "relicId": 563,
+  "zhName": "音乐盒",
+  "enName": "MUSIC_BOX",
+  "rarity": "先古遗物",
+  "effect": "将你每回合打出的第一张攻击牌的一张虚无复制品加入你的手牌。",
+  "link": "music-box",
+  "id": 563,
+  "imageLocal": "assets/img/relic/MUSIC_BOX.png"
+ },
+ {
+  "relicId": 487,
+  "zhName": "神秘打火机",
+  "enName": "MYSTIC_LIGHTER",
+  "rarity": "商店遗物",
+  "effect": "有附魔的攻击牌额外造成9点伤害。",
+  "link": "mystic-lighter",
+  "id": 487,
+  "imageLocal": "assets/img/relic/MYSTIC_LIGHTER.png"
+ },
+ {
+  "relicId": 579,
+  "zhName": "涅奥的骨骰",
+  "enName": "NEOWS_BONES",
+  "rarity": "先古遗物",
+  "effect": "拾取时，获得 2 个随机的涅奥遗物。将 1 张随机诅咒加入你的牌组。",
+  "link": "neows-bones",
+  "id": 579,
+  "imageLocal": "assets/img/relic/NEOWS_BONES.png"
+ },
+ {
+  "relicId": 578,
+  "zhName": "涅奥的护符",
+  "enName": "NEOWS_TALISMAN",
+  "rarity": "先古遗物",
+  "effect": "升级 1 张你的\"打击\"和 1 张你的\"防御\"。",
+  "link": "neows-talisman",
+  "id": 578,
+  "imageLocal": "assets/img/relic/NEOWS_TALISMAN.png"
+ },
+ {
+  "relicId": 451,
+  "zhName": "涅奥的苦痛",
+  "enName": "NEOWS_TORMENT",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将1张涅奥之怒加入你的牌组。",
+  "link": "neows-torment",
+  "id": 451,
+  "imageLocal": "assets/img/relic/NEOWS_TORMENT.png"
+ },
+ {
+  "relicId": 421,
+  "zhName": "新叶",
+  "enName": "NEW_LEAF",
+  "rarity": "先古遗物",
+  "effect": "拾起时，变化1张牌。",
+  "link": "new-leaf",
+  "id": 421,
+  "imageLocal": "assets/img/relic/NEW_LEAF.png"
+ },
+ {
+  "relicId": 395,
+  "zhName": "忍术卷轴",
+  "enName": "NINJA_SCROLL",
+  "rarity": "商店遗物",
+  "effect": null,
+  "link": "ninja-scroll",
+  "id": 395,
+  "imageLocal": "assets/img/relic/NINJA_SCROLL.png"
+ },
+ {
+  "relicId": 332,
+  "zhName": "双截棍",
+  "enName": "NUNCHAKU",
+  "rarity": "罕见遗物",
+  "effect": "你每打出10张攻击牌，获得1点能量。",
+  "link": "nunchaku",
+  "id": 332,
+  "imageLocal": "assets/img/relic/NUNCHAKU.png"
+ },
+ {
+  "relicId": 525,
+  "zhName": "营养牡蛎",
+  "enName": "NUTRITIOUS_OYSTER",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将你的最大生命值提升11。",
+  "link": "nutritious-oyster",
+  "id": 525,
+  "imageLocal": "assets/img/relic/NUTRITIOUS_OYSTER.png"
+ },
+ {
+  "relicId": 524,
+  "zhName": "营养汤",
+  "enName": "NUTRITIOUS_SOUP",
+  "rarity": "先古遗物",
+  "effect": "拾起时，为你牌组中的所有“打击”附魔：特兹卡塔拉的余烬",
+  "link": "nutritious-soup",
+  "id": 524,
+  "imageLocal": "assets/img/relic/NUTRITIOUS_SOUP.png"
+ },
+ {
+  "relicId": 399,
+  "zhName": "意外光滑的石头",
+  "enName": "ODDLY_SMOOTH_STONE",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，获得1点敏捷。",
+  "link": "oddly-smooth-stone",
+  "id": 399,
+  "imageLocal": "assets/img/relic/ODDLY_SMOOTH_STONE.png"
+ },
+ {
+  "relicId": 338,
+  "zhName": "古钱币",
+  "enName": "OLD_COIN",
+  "rarity": "稀有遗物",
+  "effect": "拾起时，获得300金币。",
+  "link": "old-coin",
+  "id": 338,
+  "imageLocal": "assets/img/relic/OLD_COIN.png"
+ },
+ {
+  "relicId": 439,
+  "zhName": "橙色团块",
+  "enName": "ORANGE_DOUGH",
+  "rarity": "稀有遗物",
+  "effect": "在每场战斗开始时，将2张随机无色牌加入你的手牌。",
+  "link": "orange-dough",
+  "id": 439,
+  "imageLocal": "assets/img/relic/ORANGE_DOUGH.png"
+ },
+ {
+  "relicId": 361,
+  "zhName": "奥利哈钢",
+  "enName": "ORICHALCUM",
+  "rarity": "罕见遗物",
+  "effect": "如果你在回合结束时没有任何格挡，获得6点格挡。",
+  "link": "orichalcum",
+  "id": 361,
+  "imageLocal": "assets/img/relic/ORICHALCUM.png"
+ },
+ {
+  "relicId": 493,
+  "zhName": "精致折扇",
+  "enName": "ORNAMENTAL_FAN",
+  "rarity": "罕见遗物",
+  "effect": "你每在同一回合内打出3张攻击牌，就获得4点格挡。",
+  "link": "ornamental-fan",
+  "id": 493,
+  "imageLocal": "assets/img/relic/ORNAMENTAL_FAN.png"
+ },
+ {
+  "relicId": 427,
+  "zhName": "星系仪",
+  "enName": "ORRERY",
+  "rarity": "商店遗物",
+  "effect": "拾起时，获得5组卡牌奖励",
+  "link": "orrery",
+  "id": 427,
+  "imageLocal": "assets/img/relic/ORRERY.png"
+ },
+ {
+  "relicId": 307,
+  "zhName": "佩尔之血",
+  "enName": "PAELS_BLOOD",
+  "rarity": "先古遗物",
+  "effect": "在你的回合开始时，额外抽1张牌",
+  "link": "paels-blood",
+  "id": 307,
+  "imageLocal": "assets/img/relic/PAELS_BLOOD.png"
+ },
+ {
+  "relicId": 302,
+  "zhName": "佩尔之爪",
+  "enName": "PAELS_CLAW",
+  "rarity": "先古遗物",
+  "effect": "拾起时，为所有的“防御”附魔：。",
+  "link": "paels-claw",
+  "id": 302,
+  "imageLocal": "assets/img/relic/PAELS_CLAW.png"
+ },
+ {
+  "relicId": 304,
+  "zhName": "佩尔之眼",
+  "enName": "PAELS_EYE",
+  "rarity": "先古遗物",
+  "effect": "你在每场战斗中第一次没有打出任何牌就结束回合时，消耗所有手牌然后进行一个额外回合。",
+  "link": "paels-eye",
+  "id": 304,
+  "imageLocal": "assets/img/relic/PAELS_EYE.png"
+ },
+ {
+  "relicId": 306,
+  "zhName": "佩尔之肉",
+  "enName": "PAELS_FLESH",
+  "rarity": "先古遗物",
+  "effect": "从你的第3回合开始，在回合开始时额外获得1点能量。",
+  "link": "paels-flesh",
+  "id": 306,
+  "imageLocal": "assets/img/relic/PAELS_FLESH.png"
+ },
+ {
+  "relicId": 309,
+  "zhName": "佩尔的增生组织",
+  "enName": "PAELS_GROWTH",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从牌组中选择一张牌，为其附魔：。",
+  "link": "paels-growth",
+  "id": 309,
+  "imageLocal": "assets/img/relic/PAELS_GROWTH.png"
+ },
+ {
+  "relicId": 308,
+  "zhName": "佩尔之角",
+  "enName": "PAELS_HORN",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将2张放松加入你的牌组。",
+  "link": "paels-horn",
+  "id": 308,
+  "imageLocal": "assets/img/relic/PAELS_HORN.png"
+ },
+ {
+  "relicId": 310,
+  "zhName": "佩尔的士兵",
+  "enName": "PAELS_LEGION",
+  "rarity": "先古遗物",
+  "effect": "将你从一张卡牌内获得的格挡翻倍，然后休眠2个回合。",
+  "link": "paels-legion",
+  "id": 310,
+  "imageLocal": "assets/img/relic/PAELS_LEGION.png"
+ },
+ {
+  "relicId": 301,
+  "zhName": "佩尔之泪",
+  "enName": "PAELS_TEARS",
+  "rarity": "先古遗物",
+  "effect": "如果你在拥有未花费的点能量情况下结束回合，则下个回合额外获得2点能量。",
+  "link": "paels-tears",
+  "id": 301,
+  "imageLocal": "assets/img/relic/PAELS_TEARS.png"
+ },
+ {
+  "relicId": 303,
+  "zhName": "佩尔之牙",
+  "enName": "PAELS_TOOTH",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从你的牌组中选择5张牌移除。在每场战斗结束时，将其中随机1张牌升级然后返还。",
+  "link": "paels-tooth",
+  "id": 303,
+  "imageLocal": "assets/img/relic/PAELS_TOOTH.png"
+ },
+ {
+  "relicId": 305,
+  "zhName": "佩尔之翼",
+  "enName": "PAELS_WING",
+  "rarity": "先古遗物",
+  "effect": "你可以将你的卡牌奖励献祭给佩尔。每献祭2次，就能获得一件遗物。",
+  "link": "paels-wing",
+  "id": 305,
+  "imageLocal": "assets/img/relic/PAELS_WING.png"
+ },
+ {
+  "relicId": 453,
+  "zhName": "潘多拉魔盒",
+  "enName": "PANDORAS_BOX",
+  "rarity": "先古遗物",
+  "effect": "变化所有“打击”和“防御”。",
+  "link": "pandoras-box",
+  "id": 453,
+  "imageLocal": "assets/img/relic/PANDORAS_BOX.png"
+ },
+ {
+  "relicId": 502,
+  "zhName": "缩放仪",
+  "enName": "PANTOGRAPH",
+  "rarity": "罕见遗物",
+  "effect": "在Boss战开始时，回复25点生命值。",
+  "link": "pantograph",
+  "id": 502,
+  "imageLocal": "assets/img/relic/PANTOGRAPH.png"
+ },
+ {
+  "relicId": 498,
+  "zhName": "纸鹤",
+  "enName": "PAPER_KRANE",
+  "rarity": "稀有遗物",
+  "effect": "有虚弱状态的敌人造成的伤害降低40%而非25%。",
+  "link": "paper-krane",
+  "id": 498,
+  "imageLocal": "assets/img/relic/PAPER_KRANE.png"
+ },
+ {
+  "relicId": 497,
+  "zhName": "纸蛙",
+  "enName": "PAPER_PHROG",
+  "rarity": "罕见遗物",
+  "effect": "有易伤状态的敌人受到的伤害增加75%而非50%。",
+  "link": "paper-phrog",
+  "id": 497,
+  "imageLocal": "assets/img/relic/PAPER_PHROG.png"
+ },
+ {
+  "relicId": 410,
+  "zhName": "招架盾",
+  "enName": "PARRYING_SHIELD",
+  "rarity": "罕见遗物",
+  "effect": "如果你在回合结束时拥有至少10点格挡，则对随机敌人造成6点伤害。",
+  "link": "parrying-shield",
+  "id": 410,
+  "imageLocal": "assets/img/relic/PARRYING_SHIELD.png"
+ },
+ {
+  "relicId": 435,
+  "zhName": "梨子",
+  "enName": "PEAR",
+  "rarity": "罕见遗物",
+  "effect": "拾起时，将你的最大生命值提升10。",
+  "link": "pear",
+  "id": 435,
+  "imageLocal": "assets/img/relic/PEAR.png"
+ },
+ {
+  "relicId": 416,
+  "zhName": "摆动球",
+  "enName": "PENDULUM",
+  "rarity": "普通遗物",
+  "effect": "每3个回合抽1张牌。",
+  "link": "pendulum",
+  "id": 416,
+  "imageLocal": "assets/img/relic/PENDULUM.png"
+ },
+ {
+  "relicId": 548,
+  "zhName": "钢笔尖",
+  "enName": "PEN_NIB",
+  "rarity": "罕见遗物",
+  "effect": "你每打出的第10张攻击牌将会造成双倍伤害。",
+  "link": "pen-nib",
+  "id": 548,
+  "imageLocal": "assets/img/relic/PEN_NIB.png"
+ },
+ {
+  "relicId": 443,
+  "zhName": "永冻冰晶",
+  "enName": "PERMAFROST",
+  "rarity": "罕见遗物",
+  "effect": "当你在战斗中第一次打出能力牌时，获得6点格挡。",
+  "link": "permafrost",
+  "id": 443,
+  "imageLocal": "assets/img/relic/PERMAFROST.png"
+ },
+ {
+  "relicId": 481,
+  "zhName": "石化蟾蜍",
+  "enName": "PETRIFIED_TOAD",
+  "rarity": "罕见遗物",
+  "effect": "在每场战斗开始时，获得一瓶药水形状的石头",
+  "link": "petrified-toad",
+  "id": 481,
+  "imageLocal": "assets/img/relic/PETRIFIED_TOAD.png"
+ },
+ {
+  "relicId": 580,
+  "zhName": "药瓶皮套",
+  "enName": "PHIAL_HOLSTER",
+  "rarity": "先古遗物",
+  "effect": "拾取时，获得 1 个药水栏位并获取 2 瓶随机药水。",
+  "link": "phial-holster",
+  "id": 580,
+  "imageLocal": "assets/img/relic/PHIAL_HOLSTER.png"
+ },
+ {
+  "relicId": 533,
+  "zhName": "贤者之石",
+  "enName": "PHILOSOPHERS_STONE",
+  "rarity": "先古遗物",
+  "effect": "在每回合开始时获得1点能量。所有敌人初始获得1点力量。",
+  "link": "philosophers-stone",
+  "id": 533,
+  "imageLocal": "assets/img/relic/PHILOSOPHERS_STONE.png"
+ },
+ {
+  "relicId": 422,
+  "zhName": "无界命匣",
+  "enName": "PHYLACTERY_UNBOUND",
+  "rarity": "初始遗物",
+  "effect": "在每场战斗开始时，召唤5。在你的回合开始时，召唤2。",
+  "link": "phylactery-unbound",
+  "id": 422,
+  "imageLocal": "assets/img/relic/PHYLACTERY_UNBOUND.png"
+ },
+ {
+  "relicId": 448,
+  "zhName": "活动星图",
+  "enName": "PLANISPHERE",
+  "rarity": "罕见遗物",
+  "effect": "每当你进入？房间的时候，回复4点生命。",
+  "link": "planisphere",
+  "id": 448,
+  "imageLocal": "assets/img/relic/PLANISPHERE.png"
+ },
+ {
+  "relicId": 396,
+  "zhName": "怀表",
+  "enName": "POCKETWATCH",
+  "rarity": "稀有遗物",
+  "effect": "当你在本回合打出的牌少于等于3张时，则在你的下个回合开始时额外抽3张牌。",
+  "link": "pocketwatch",
+  "id": 396,
+  "imageLocal": "assets/img/relic/POCKETWATCH.png"
+ },
+ {
+  "relicId": 518,
+  "zhName": "花粉核心",
+  "enName": "POLLINOUS_CORE",
+  "rarity": "事件遗物",
+  "effect": "每4个回合，额外抽2张牌。",
+  "link": "pollinous-core",
+  "id": 518,
+  "imageLocal": "assets/img/relic/POLLINOUS_CORE.png"
+ },
+ {
+  "relicId": 438,
+  "zhName": "橙型香盒",
+  "enName": "POMANDER",
+  "rarity": "先古遗物",
+  "effect": "拾起时，升级一张牌。",
+  "link": "pomander",
+  "id": 438,
+  "imageLocal": "assets/img/relic/POMANDER.png"
+ },
+ {
+  "relicId": 522,
+  "zhName": "药水腰带",
+  "enName": "POTION_BELT",
+  "rarity": "普通遗物",
+  "effect": "拾起时，获得2个药水栏位。",
+  "link": "potion-belt",
+  "id": 522,
+  "imageLocal": "assets/img/relic/POTION_BELT.png"
+ },
+ {
+  "relicId": 506,
+  "zhName": "能量电池",
+  "enName": "POWER_CELL",
+  "rarity": "稀有遗物",
+  "effect": "在每场战斗开始时，将2张耗能为0的卡牌从你的抽牌堆放入你的手牌。",
+  "link": "power-cell",
+  "id": 506,
+  "imageLocal": "assets/img/relic/POWER_CELL.png"
+ },
+ {
+  "relicId": 537,
+  "zhName": "转经轮",
+  "enName": "PRAYER_WHEEL",
+  "rarity": "稀有遗物",
+  "effect": "普通敌人额外掉落一组卡牌奖励。",
+  "link": "prayer-wheel",
+  "id": 537,
+  "imageLocal": "assets/img/relic/PRAYER_WHEEL.png"
+ },
+ {
+  "relicId": 433,
+  "zhName": "松动羊毛剪",
+  "enName": "PRECARIOUS_SHEARS",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从你的牌组中移除2张牌，并受到13点伤害。",
+  "link": "precarious-shears",
+  "id": 433,
+  "imageLocal": "assets/img/relic/PRECARIOUS_SHEARS.png"
+ },
+ {
+  "relicId": 492,
+  "zhName": "精准剪刀",
+  "enName": "PRECISE_SCISSORS",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从你的牌组中移除1张牌。",
+  "link": "precise-scissors",
+  "id": 492,
+  "imageLocal": "assets/img/relic/PRECISE_SCISSORS.png"
+ },
+ {
+  "relicId": 507,
+  "zhName": "腌制活雾",
+  "enName": "PRESERVED_FOG",
+  "rarity": "先古遗物",
+  "effect": "拾起时，从你的牌组中移除5张牌。将一张愚行加入你的牌组。",
+  "link": "preserved-fog",
+  "id": 507,
+  "imageLocal": "assets/img/relic/PRESERVED_FOG.png"
+ },
+ {
+  "relicId": 437,
+  "zhName": "棱彩宝石",
+  "enName": "PRISMATIC_GEM",
+  "rarity": "先古遗物",
+  "effect": "在每个回合开始时获得1点能量。卡牌奖励现在会包含其他颜色的卡牌。",
+  "link": "prismatic-gem",
+  "id": 437,
+  "imageLocal": "assets/img/relic/PRISMATIC_GEM.png"
+ },
+ {
+  "relicId": 326,
+  "zhName": "南瓜蜡烛",
+  "enName": "PUMPKIN_CANDLE",
+  "rarity": "先古遗物",
+  "effect": "在每个回合开始时获得1点能量。5场战斗后熄灭。可在火堆重新点亮。",
+  "link": "pumpkin-candle",
+  "id": 326,
+  "imageLocal": "assets/img/relic/PUMPKIN_CANDLE.png"
+ },
+ {
+  "relicId": 412,
+  "zhName": "拳刃",
+  "enName": "PUNCH_DAGGER",
+  "rarity": "商店遗物",
+  "effect": "拾起时，选择一张攻击牌为它附魔：动量5。",
+  "link": "punch-dagger",
+  "id": 412,
+  "imageLocal": "assets/img/relic/PUNCH_DAGGER.png"
+ },
+ {
+  "relicId": 333,
+  "zhName": "发光珍珠",
+  "enName": "RADIANT_PEARL",
+  "rarity": "先古遗物",
+  "effect": "在每场战斗开始时，将1张冷光加入你的手牌。",
+  "link": "radiant-pearl",
+  "id": 333,
+  "imageLocal": "assets/img/relic/RADIANT_PEARL.png"
+ },
+ {
+  "relicId": 391,
+  "zhName": "彩红戒指",
+  "enName": "RAINBOW_RING",
+  "rarity": "稀有遗物",
+  "effect": "每回合，你第一次打出攻击牌、技能牌和和能力牌各一张时，获得1点力量和1点敏捷。",
+  "link": "rainbow-ring",
+  "id": 391,
+  "imageLocal": "assets/img/relic/RAINBOW_RING.png"
+ },
+ {
+  "relicId": 320,
+  "zhName": "剃刀牙",
+  "enName": "RAZOR_TOOTH",
+  "rarity": "稀有遗物",
+  "effect": "你打出攻击牌和技能牌时，将其在本场战斗内升级。",
+  "link": "razor-tooth",
+  "id": 320,
+  "imageLocal": "assets/img/relic/RAZOR_TOOTH.png"
+ },
+ {
+  "relicId": 496,
+  "zhName": "红面具",
+  "enName": "RED_MASK",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，给于所有敌人1层虚弱。",
+  "link": "red-mask",
+  "id": 496,
+  "imageLocal": "assets/img/relic/RED_MASK.png"
+ },
+ {
+  "relicId": 495,
+  "zhName": "红头骨",
+  "enName": "RED_SKULL",
+  "rarity": "普通遗物",
+  "effect": "当你的生命值低于或等于50%时，你额外获得3点力量",
+  "link": "red-skull",
+  "id": 495,
+  "imageLocal": "assets/img/relic/RED_SKULL.png"
+ },
+ {
+  "relicId": 342,
+  "zhName": "君王矿石",
+  "enName": "REGALITE",
+  "rarity": "罕见遗物",
+  "effect": "每当你生成一张牌时，获得2点格挡。",
+  "link": "regalite",
+  "id": 342,
+  "imageLocal": "assets/img/relic/REGALITE.png"
+ },
+ {
+  "relicId": 478,
+  "zhName": "皇家枕头",
+  "enName": "REGAL_PILLOW",
+  "rarity": "普通遗物",
+  "effect": "在休息时，额外回复15点生命。",
+  "link": "regal-pillow",
+  "id": 478,
+  "imageLocal": "assets/img/relic/REGAL_PILLOW.png"
+ },
+ {
+  "relicId": 467,
+  "zhName": "爬行动物饰品",
+  "enName": "REPTILE_TRINKET",
+  "rarity": "罕见遗物",
+  "effect": "当你使用药水时，在本回合获得3力量。",
+  "link": "reptile-trinket",
+  "id": 467,
+  "imageLocal": "assets/img/relic/REPTILE_TRINKET.png"
+ },
+ {
+  "relicId": 290,
+  "zhName": "三角铃鼓",
+  "enName": "RINGING_TRIANGLE",
+  "rarity": "商店遗物",
+  "effect": "在每场战斗的第一回合保留你的手牌。",
+  "link": "ringing-triangle",
+  "id": 290,
+  "imageLocal": "assets/img/relic/RINGING_TRIANGLE.png"
+ },
+ {
+  "relicId": 560,
+  "zhName": "长蛇戒指",
+  "enName": "RING_OF_THE_DRAKE",
+  "rarity": "初始遗物",
+  "effect": "在战斗开始时的前3个回合，你额外抽2张牌。",
+  "link": "ring-of-the-drake",
+  "id": 560,
+  "imageLocal": "assets/img/relic/RING_OF_THE_DRAKE.png"
+ },
+ {
+  "relicId": 527,
+  "zhName": "蛇之戒指",
+  "enName": "RING_OF_THE_SNAKE",
+  "rarity": "初始遗物",
+  "effect": "在每场战斗开始时，额外抽2张牌。",
+  "link": "ring-of-the-snake",
+  "id": 527,
+  "imageLocal": "assets/img/relic/RING_OF_THE_SNAKE.png"
+ },
+ {
+  "relicId": 446,
+  "zhName": "波纹水盆",
+  "enName": "RIPPLE_BASIN",
+  "rarity": "罕见遗物",
+  "effect": "如果你在本回合中没有打出过攻击牌，则获得4点格挡。",
+  "link": "ripple-basin",
+  "id": 446,
+  "imageLocal": "assets/img/relic/RIPPLE_BASIN.png"
+ },
+ {
+  "relicId": 470,
+  "zhName": "王室猛毒",
+  "enName": "ROYAL_POISON",
+  "rarity": "事件遗物",
+  "effect": "在每场战斗开始时，失去4点生命。",
+  "link": "royal-poison",
+  "id": 470,
+  "imageLocal": "assets/img/relic/ROYAL_POISON.png"
+ },
+ {
+  "relicId": 469,
+  "zhName": "王室印章",
+  "enName": "ROYAL_STAMP",
+  "rarity": "商店遗物",
+  "effect": "拾起时，从牌组中选择一张攻击牌或技能牌，为它附魔：。",
+  "link": "royal-stamp",
+  "id": 469,
+  "imageLocal": "assets/img/relic/ROYAL_STAMP.png"
+ },
+ {
+  "relicId": 415,
+  "zhName": "损毁头盔",
+  "enName": "RUINED_HELMET",
+  "rarity": "稀有遗物",
+  "effect": "你在每场战斗中第一次获得的力量值翻倍。",
+  "link": "ruined-helmet",
+  "id": 415,
+  "imageLocal": "assets/img/relic/RUINED_HELMET.png"
+ },
+ {
+  "relicId": 489,
+  "zhName": "符文电容器",
+  "enName": "RUNIC_CAPACITOR",
+  "rarity": "商店遗物",
+  "effect": "每场战斗开始时，获得3个额外充能球栏位。",
+  "link": "runic-capacitor",
+  "id": 489,
+  "imageLocal": "assets/img/relic/RUNIC_CAPACITOR.png"
+ },
+ {
+  "relicId": 490,
+  "zhName": "符文金字塔",
+  "enName": "RUNIC_PYRAMID",
+  "rarity": "先古遗物",
+  "effect": "你在回合结束时不再自动丢弃所有手牌。",
+  "link": "runic-pyramid",
+  "id": 490,
+  "imageLocal": "assets/img/relic/RUNIC_PYRAMID.png"
+ },
+ {
+  "relicId": 547,
+  "zhName": "钗",
+  "enName": "SAI",
+  "rarity": "先古遗物",
+  "effect": "在你的回合开始时，获得7点格挡。",
+  "link": "sai",
+  "id": 547,
+  "imageLocal": "assets/img/relic/SAI.png"
+ },
+ {
+  "relicId": 445,
+  "zhName": "沙堡",
+  "enName": "SAND_CASTLE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，随机升级6张牌。",
+  "link": "sand-castle",
+  "id": 445,
+  "imageLocal": "assets/img/relic/SAND_CASTLE.png"
+ },
+ {
+  "relicId": 372,
+  "zhName": "尖叫酒壶",
+  "enName": "SCREAMING_FLAGON",
+  "rarity": "商店遗物",
+  "effect": "如果你在回合结束时没有任何手牌，则对所有敌人造成20点伤害。",
+  "link": "screaming-flagon",
+  "id": 372,
+  "imageLocal": "assets/img/relic/SCREAMING_FLAGON.png"
+ },
+ {
+  "relicId": 328,
+  "zhName": "卷轴箱",
+  "enName": "SCROLL_BOXES",
+  "rarity": "先古遗物",
+  "effect": "拾起时，失去所有金币，并从2个卡牌包中选择1包加入你的牌组。",
+  "link": "scroll-boxes",
+  "id": 328,
+  "imageLocal": "assets/img/relic/SCROLL_BOXES.png"
+ },
+ {
+  "relicId": 572,
+  "zhName": "黄金印",
+  "enName": "SEAL_OF_GOLD",
+  "rarity": "先古遗物",
+  "effect": "在你的回合开始时，花费5金币来获得1点能量。",
+  "link": "seal-of-gold",
+  "id": 572,
+  "imageLocal": "assets/img/relic/SEAL_OF_GOLD.png"
+ },
+ {
+  "relicId": 450,
+  "zhName": "海玻璃",
+  "enName": "SEA_GLASS",
+  "rarity": "先古遗物",
+  "effect": "查看15张来自其他角色的牌。从中选择任意数量的卡牌加入你的牌组。",
+  "link": "sea-glass",
+  "id": 450,
+  "imageLocal": "assets/img/relic/SEA_GLASS.png"
+ },
+ {
+  "relicId": 510,
+  "zhName": "自成型黏土",
+  "enName": "SELF_FORMING_CLAY",
+  "rarity": "罕见遗物",
+  "effect": "每当你在战斗中失去生命，就在下回合获得3点格挡。",
+  "link": "self-forming-clay",
+  "id": 510,
+  "imageLocal": "assets/img/relic/SELF_FORMING_CLAY.png"
+ },
+ {
+  "relicId": 331,
+  "zhName": "原初之爪",
+  "enName": "SERE_TALON",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将2张随机诅咒牌和3张许愿加入你的牌组。",
+  "link": "sere-talon",
+  "id": 331,
+  "imageLocal": "assets/img/relic/SERE_TALON.png"
+ },
+ {
+  "relicId": 555,
+  "zhName": "铲子",
+  "enName": "SHOVEL",
+  "rarity": "稀有遗物",
+  "effect": "现在你可以在休息处挖掘遗物。",
+  "link": "shovel",
+  "id": 555,
+  "imageLocal": "assets/img/relic/SHOVEL.png"
+ },
+ {
+  "relicId": 402,
+  "zhName": "手里剑",
+  "enName": "SHURIKEN",
+  "rarity": "稀有遗物",
+  "effect": "你每在同一回合内打出3张攻击牌，获得1点力量。",
+  "link": "shuriken",
+  "id": 402,
+  "imageLocal": "assets/img/relic/SHURIKEN.png"
+ },
+ {
+  "relicId": 344,
+  "zhName": "图章戒指",
+  "enName": "SIGNET_RING",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得999金币。",
+  "link": "signet-ring",
+  "id": 344,
+  "imageLocal": "assets/img/relic/SIGNET_RING.png"
+ },
+ {
+  "relicId": 584,
+  "zhName": "华美发束",
+  "enName": "SILKEN_TRESS",
+  "rarity": "先古遗物",
+  "effect": "为第一次卡牌奖励中的所有牌附魔:华彩。",
+  "link": "silken-tress",
+  "id": 584,
+  "imageLocal": "assets/img/relic/SILKEN_TRESS.png"
+ },
+ {
+  "relicId": 476,
+  "zhName": "白银熔炉",
+  "enName": "SILVER_CRUCIBLE",
+  "rarity": "先古遗物",
+  "effect": "你遇到的前3组卡牌奖励将是被升级过的。你打开的第一个宝箱将是空的",
+  "link": "silver-crucible",
+  "id": 476,
+  "imageLocal": "assets/img/relic/SILVER_CRUCIBLE.png"
+ },
+ {
+  "relicId": 321,
+  "zhName": "勇气投石索",
+  "enName": "SLING_OF_COURAGE",
+  "rarity": "商店遗物",
+  "effect": "在与精英敌人战斗时，获得2点力量。",
+  "link": "sling-of-courage",
+  "id": 321,
+  "imageLocal": "assets/img/relic/SLING_OF_COURAGE.png"
+ },
+ {
+  "relicId": 367,
+  "zhName": "小型扭蛋",
+  "enName": "SMALL_CAPSULE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得一件随机遗物。",
+  "link": "small-capsule",
+  "id": 367,
+  "imageLocal": "assets/img/relic/SMALL_CAPSULE.png"
+ },
+ {
+  "relicId": 386,
+  "zhName": "异蛇之眼",
+  "enName": "SNECKO_EYE",
+  "rarity": "先古遗物",
+  "effect": "每回合多抽2张牌。每场战斗开始时获得混乱效果。",
+  "link": "snecko-eye",
+  "id": 386,
+  "imageLocal": "assets/img/relic/SNECKO_EYE.png"
+ },
+ {
+  "relicId": 388,
+  "zhName": "异蛇头骨",
+  "enName": "SNECKO_SKULL",
+  "rarity": "普通遗物",
+  "effect": "每当你给予敌人中毒时，所给予的中毒层数增加1层。",
+  "link": "snecko-skull",
+  "id": 388,
+  "imageLocal": "assets/img/relic/SNECKO_SKULL.png"
+ },
+ {
+  "relicId": 452,
+  "zhName": "添水",
+  "enName": "SOZU",
+  "rarity": "先古遗物",
+  "effect": "你无法再获得药水。在每回合开始时获得1点能量。",
+  "link": "sozu",
+  "id": 452,
+  "imageLocal": "assets/img/relic/SOZU.png"
+ },
+ {
+  "relicId": 561,
+  "zhName": "闪亮口红",
+  "enName": "SPARKLING_ROUGE",
+  "rarity": "罕见遗物",
+  "effect": "在你的第3回合开始时，获得1点力量和1点敏捷。",
+  "link": "sparkling-rouge",
+  "id": 561,
+  "imageLocal": "assets/img/relic/SPARKLING_ROUGE.png"
+ },
+ {
+  "relicId": 379,
+  "zhName": "带刺手甲",
+  "enName": "SPIKED_GAUNTLETS",
+  "rarity": "先古遗物",
+  "effect": "在每回合开始时获得1点能量。能力牌的耗能增加1点能量。",
+  "link": "spiked-gauntlets",
+  "id": 379,
+  "imageLocal": "assets/img/relic/SPIKED_GAUNTLETS.png"
+ },
+ {
+  "relicId": 330,
+  "zhName": "历石",
+  "enName": "STONE_CALENDAR",
+  "rarity": "稀有遗物",
+  "effect": "在第7回合结束时，对所有敌人造成52点伤害。",
+  "link": "stone-calendar",
+  "id": 330,
+  "imageLocal": "assets/img/relic/STONE_CALENDAR.png"
+ },
+ {
+  "relicId": 485,
+  "zhName": "碎石钻",
+  "enName": "STONE_CRACKER",
+  "rarity": "罕见遗物",
+  "effect": "在Boss战开始时，在本场战斗中随机升级你抽牌堆中的3张牌。",
+  "link": "stone-cracker",
+  "id": 485,
+  "imageLocal": "assets/img/relic/STONE_CRACKER.png"
+ },
+ {
+  "relicId": 482,
+  "zhName": "石炉加湿器",
+  "enName": "STONE_HUMIDIFIER",
+  "rarity": "先古遗物",
+  "effect": "每当你在休息处休息时，将你的最大生命值提升5点。",
+  "link": "stone-humidifier",
+  "id": 482,
+  "imageLocal": "assets/img/relic/STONE_HUMIDIFIER.png"
+ },
+ {
+  "relicId": 418,
+  "zhName": "故事书",
+  "enName": "STORYBOOK",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将1张至亮之焰添加到你的牌组中。",
+  "link": "storybook",
+  "id": 418,
+  "imageLocal": "assets/img/relic/STORYBOOK.png"
+ },
+ {
+  "relicId": 521,
+  "zhName": "草莓",
+  "enName": "STRAWBERRY",
+  "rarity": "普通遗物",
+  "effect": "拾起时，将你的最大生命值提升7。",
+  "link": "strawberry",
+  "id": 521,
+  "imageLocal": "assets/img/relic/STRAWBERRY.png"
+ },
+ {
+  "relicId": 404,
+  "zhName": "打击木偶",
+  "enName": "STRIKE_DUMMY",
+  "rarity": "普通遗物",
+  "effect": "名字中有“打击”的卡牌造成3点额外伤害。",
+  "link": "strike-dummy",
+  "id": 404,
+  "imageLocal": "assets/img/relic/STRIKE_DUMMY.png"
+ },
+ {
+  "relicId": 347,
+  "zhName": "坚固钳子",
+  "enName": "STURDY_CLAMP",
+  "rarity": "稀有遗物",
+  "effect": "可以跨回合保留最多10点格挡。",
+  "link": "sturdy-clamp",
+  "id": 347,
+  "imageLocal": "assets/img/relic/STURDY_CLAMP.png"
+ },
+ {
+  "relicId": 468,
+  "zhName": "玉之剑",
+  "enName": "SWORD_OF_JADE",
+  "rarity": "事件遗物",
+  "effect": "在每场战斗开始时，获得3点力量。",
+  "link": "sword-of-jade",
+  "id": 468,
+  "imageLocal": "assets/img/relic/SWORD_OF_JADE.png"
+ },
+ {
+  "relicId": 480,
+  "zhName": "石之剑",
+  "enName": "SWORD_OF_STONE",
+  "rarity": "事件遗物",
+  "effect": "在击败5名精英敌人之后将变化为一件强力遗物。",
+  "link": "sword-of-stone",
+  "id": 480,
+  "imageLocal": "assets/img/relic/SWORD_OF_STONE.png"
+ },
+ {
+  "relicId": 312,
+  "zhName": "共生病毒",
+  "enName": "SYMBIOTIC_VIRUS",
+  "rarity": "罕见遗物",
+  "effect": "在每场战斗开始时，生成1个黑暗充能球。",
+  "link": "symbiotic-virus",
+  "id": 312,
+  "imageLocal": "assets/img/relic/SYMBIOTIC_VIRUS.png"
+ },
+ {
+  "relicId": 348,
+  "zhName": "坦克斯的哨子",
+  "enName": "TANXS_WHISTLE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将1张吹哨加入你的牌组。",
+  "link": "tanxs-whistle",
+  "id": 348,
+  "imageLocal": "assets/img/relic/TANXS_WHISTLE.png"
+ },
+ {
+  "relicId": 423,
+  "zhName": "无礼之茶",
+  "enName": "TEA_OF_DISCOURTESY",
+  "rarity": "事件遗物",
+  "effect": "在下一场战斗开始时，将2张眩晕放入你的抽牌堆。",
+  "link": "tea-of-discourtesy",
+  "id": 423,
+  "imageLocal": "assets/img/relic/TEA_OF_DISCOURTESY.png"
+ },
+ {
+  "relicId": 491,
+  "zhName": "算盘",
+  "enName": "THE_ABACUS",
+  "rarity": "商店遗物",
+  "effect": "你每次将抽牌堆洗牌时，获得6点格挡。",
+  "link": "the-abacus",
+  "id": 491,
+  "imageLocal": "assets/img/relic/THE_ABACUS.png"
+ },
+ {
+  "relicId": 334,
+  "zhName": "发条靴",
+  "enName": "THE_BOOT",
+  "rarity": "事件遗物",
+  "effect": "每当你造成小于等于4点未被格挡的攻击伤害时，将伤害提升为5。",
+  "link": "the-boot",
+  "id": 334,
+  "imageLocal": "assets/img/relic/THE_BOOT.png"
+ },
+ {
+  "relicId": 541,
+  "zhName": "送货员",
+  "enName": "THE_COURIER",
+  "rarity": "稀有遗物",
+  "effect": "商人的卡牌、遗物和药水不再会卖光，并且所有商品打折20%。",
+  "link": "the-courier",
+  "id": 541,
+  "imageLocal": "assets/img/relic/THE_COURIER.png"
+ },
+ {
+  "relicId": 408,
+  "zhName": "投斧",
+  "enName": "THROWING_AXE",
+  "rarity": "先古遗物",
+  "effect": "你在每场战斗中打出的第一张牌会多打出一次。",
+  "link": "throwing-axe",
+  "id": 408,
+  "imageLocal": "assets/img/relic/THROWING_AXE.png"
+ },
+ {
+  "relicId": 554,
+  "zhName": "铜钹",
+  "enName": "TINGSHA",
+  "rarity": "罕见遗物",
+  "effect": "你每在你的回合丢弃一张牌，就对一名随机敌人造成3点伤害。",
+  "link": "tingsha",
+  "id": 554,
+  "imageLocal": "assets/img/relic/TINGSHA.png"
+ },
+ {
+  "relicId": 371,
+  "zhName": "小邮箱",
+  "enName": "TINY_MAILBOX",
+  "rarity": "罕见遗物",
+  "effect": "每当你休息时，获得2瓶随机药水。",
+  "link": "tiny-mailbox",
+  "id": 371,
+  "imageLocal": "assets/img/relic/TINY_MAILBOX.png"
+ },
+ {
+  "relicId": 458,
+  "zhName": "烘焙手套",
+  "enName": "TOASTY_MITTENS",
+  "rarity": "先古遗物",
+  "effect": "在你的回合开始时，消耗你抽牌堆顶部的牌并获得1点力量。",
+  "link": "toasty-mittens",
+  "id": 458,
+  "imageLocal": "assets/img/relic/TOASTY_MITTENS.png"
+ },
+ {
+  "relicId": 374,
+  "zhName": "工具箱",
+  "enName": "TOOLBOX",
+  "rarity": "商店遗物",
+  "effect": "在每场战斗开始时，从3张随机无色牌中选择1张加入你的手牌。",
+  "link": "toolbox",
+  "id": 374,
+  "imageLocal": "assets/img/relic/TOOLBOX.png"
+ },
+ {
+  "relicId": 440,
+  "zhName": "欧洛巴斯之触",
+  "enName": "TOUCH_OF_OROBAS",
+  "rarity": "先古遗物",
+  "effect": "拾起时，将你的初始遗物替换为先古版本。",
+  "link": "touch-of-orobas",
+  "id": 440,
+  "imageLocal": "assets/img/relic/TOUCH_OF_OROBAS.png"
+ },
+ {
+  "relicId": 499,
+  "zhName": "结实绷带",
+  "enName": "TOUGH_BANDAGES",
+  "rarity": "稀有遗物",
+  "effect": "你每在你的回合丢弃一张牌，就获得3点格挡。",
+  "link": "tough-bandages",
+  "id": 499,
+  "imageLocal": "assets/img/relic/TOUGH_BANDAGES.png"
+ },
+ {
+  "relicId": 441,
+  "zhName": "毒素之蛋",
+  "enName": "TOXIC_EGG",
+  "rarity": "稀有遗物",
+  "effect": "每当你获得技能牌时，将其升级。",
+  "link": "toxic-egg",
+  "id": 441,
+  "imageLocal": "assets/img/relic/TOXIC_EGG.png"
+ },
+ {
+  "relicId": 471,
+  "zhName": "玩具盒",
+  "enName": "TOY_BOX",
+  "rarity": "先古遗物",
+  "effect": "拾起时，获得4件蜡制遗物。每经过3场战斗，你最左侧的蜡制遗物将会融化。",
+  "link": "toy-box",
+  "id": 471,
+  "imageLocal": "assets/img/relic/TOY_BOX.png"
+ },
+ {
+  "relicId": 289,
+  "zhName": "三刃回旋镖",
+  "enName": "TRI_BOOMERANG",
+  "rarity": "先古遗物",
+  "effect": "从你的牌组中选择3张攻击牌。为这些牌附魔：本能。",
+  "link": "tri-boomerang",
+  "id": 289,
+  "imageLocal": "assets/img/relic/TRI_BOOMERANG.png"
+ },
+ {
+  "relicId": 549,
+  "zhName": "钨合金棍",
+  "enName": "TUNGSTEN_ROD",
+  "rarity": "稀有遗物",
+  "effect": "你每次失去生命时，减少失去的生命值1点。",
+  "link": "tungsten-rod",
+  "id": 549,
+  "imageLocal": "assets/img/relic/TUNGSTEN_ROD.png"
+ },
+ {
+  "relicId": 564,
+  "zhName": "音叉",
+  "enName": "TUNING_FORK",
+  "rarity": "罕见遗物",
+  "effect": "你每打出10张技能牌，获得7点格挡。",
+  "link": "tuning-fork",
+  "id": 564,
+  "imageLocal": "assets/img/relic/TUNING_FORK.png"
+ },
+ {
+  "relicId": 406,
+  "zhName": "扭曲漏斗",
+  "enName": "TWISTED_FUNNEL",
+  "rarity": "罕见遗物",
+  "effect": "在每场战斗开始时，给予所有敌人4层中毒。",
+  "link": "twisted-funnel",
+  "id": 406,
+  "imageLocal": "assets/img/relic/TWISTED_FUNNEL.png"
+ },
+ {
+  "relicId": 291,
+  "zhName": "不休陀螺",
+  "enName": "UNCEASING_TOP",
+  "rarity": "稀有遗物",
+  "effect": "在你的回合，当你没有手牌时，抽一张牌。",
+  "link": "unceasing-top",
+  "id": 291,
+  "imageLocal": "assets/img/relic/UNCEASING_TOP.png"
+ },
+ {
+  "relicId": 293,
+  "zhName": "不死符文",
+  "enName": "UNDYING_SIGIL",
+  "rarity": "商店遗物",
+  "effect": "当敌人的灾厄层数大于等于其生命值时，它造成的伤害降低50%。",
+  "link": "undying-sigil",
+  "id": 293,
+  "imageLocal": "assets/img/relic/UNDYING_SIGIL.png"
+ },
+ {
+  "relicId": 292,
+  "zhName": "不安油灯",
+  "enName": "UNSETTLING_LAMP",
+  "rarity": "稀有遗物",
+  "effect": "你在每场战斗中第一次打出能给予敌人负面状态的牌时，将其效果翻倍。",
+  "link": "unsettling-lamp",
+  "id": 292,
+  "imageLocal": "assets/img/relic/UNSETTLING_LAMP.png"
+ },
+ {
+  "relicId": 544,
+  "zhName": "金刚杵",
+  "enName": "VAJRA",
+  "rarity": "普通遗物",
+  "effect": "在每场战斗开始时，获得1点力量。",
+  "link": "vajra",
+  "id": 544,
+  "imageLocal": "assets/img/relic/VAJRA.png"
+ },
+ {
+  "relicId": 509,
+  "zhName": "臂甲",
+  "enName": "VAMBRACE",
+  "rarity": "罕见遗物",
+  "effect": "每场战斗中，你第一次从卡牌中获得的格挡值翻倍。",
+  "link": "vambrace",
+  "id": 509,
+  "imageLocal": "assets/img/relic/VAMBRACE.png"
+ },
+ {
+  "relicId": 358,
+  "zhName": "天鹅绒颈圈",
+  "enName": "VELVET_CHOKER",
+  "rarity": "先古遗物",
+  "effect": "在每回合开始时获得1点能量。你每回合不能打出超过6张牌。",
+  "link": "velvet-choker",
+  "id": 358,
+  "imageLocal": "assets/img/relic/VELVET_CHOKER.png"
+ },
+ {
+  "relicId": 336,
+  "zhName": "古茶具套装",
+  "enName": "VENERABLE_TEA_SET",
+  "rarity": "普通遗物",
+  "effect": "到达休息处后的下一场战斗开始时额外获得2点能量。",
+  "link": "venerable-tea-set",
+  "id": 336,
+  "imageLocal": "assets/img/relic/VENERABLE_TEA_SET.png"
+ },
+ {
+  "relicId": 461,
+  "zhName": "烫嘴可可",
+  "enName": "VERY_HOT_COCOA",
+  "rarity": "先古遗物",
+  "effect": "在每场战斗的第一回合额外获得4点能量。",
+  "link": "very-hot-cocoa",
+  "id": 461,
+  "imageLocal": "assets/img/relic/VERY_HOT_COCOA.png"
+ },
+ {
+  "relicId": 460,
+  "zhName": "烦人机关盒",
+  "enName": "VEXING_PUZZLEBOX",
+  "rarity": "稀有遗物",
+  "effect": "在每场战斗开始时，将一张随机卡牌加入你的手牌。这张牌的耗能可免费打出。",
+  "link": "vexing-puzzlebox",
+  "id": 460,
+  "imageLocal": "assets/img/relic/VEXING_PUZZLEBOX.png"
+ },
+ {
+  "relicId": 500,
+  "zhName": "维特鲁威仆从",
+  "enName": "VITRUVIAN_MINION",
+  "rarity": "商店遗物",
+  "effect": "名字中有“仆从”的卡牌造成双倍的伤害与格挡。",
+  "link": "vitruvian-minion",
+  "id": 500,
+  "imageLocal": "assets/img/relic/VITRUVIAN_MINION.png"
+ },
+ {
+  "relicId": 401,
+  "zhName": "战锤",
+  "enName": "WAR_HAMMER",
+  "rarity": "先古遗物",
+  "effect": "每当你击败一名精英敌人的时候，随机升级4张牌。",
+  "link": "war-hammer",
+  "id": 401,
+  "imageLocal": "assets/img/relic/WAR_HAMMER.png"
+ },
+ {
+  "relicId": 400,
+  "zhName": "战纹涂料",
+  "enName": "WAR_PAINT",
+  "rarity": "普通遗物",
+  "effect": "拾起时，随机升级2张技能牌。",
+  "link": "war-paint",
+  "id": 400,
+  "imageLocal": "assets/img/relic/WAR_PAINT.png"
+ },
+ {
+  "relicId": 486,
+  "zhName": "磨刀石",
+  "enName": "WHETSTONE",
+  "rarity": "普通遗物",
+  "effect": "拾起时，随机升级2张攻击牌。",
+  "link": "whetstone",
+  "id": 486,
+  "imageLocal": "assets/img/relic/WHETSTONE.png"
+ },
+ {
+  "relicId": 298,
+  "zhName": "低语耳环",
+  "enName": "WHISPERING_EARRING",
+  "rarity": "先古遗物",
+  "effect": "在每个回合开始时，获得1点能量。瓦库将接管你的第一回合。",
+  "link": "whispering-earring",
+  "id": 298,
+  "imageLocal": "assets/img/relic/WHISPERING_EARRING.png"
+ },
+ {
+  "relicId": 474,
+  "zhName": "白兽雕像",
+  "enName": "WHITE_BEAST_STATUE",
+  "rarity": "稀有遗物",
+  "effect": "战斗结束后必定掉落药水。",
+  "link": "white-beast-statue",
+  "id": 474,
+  "imageLocal": "assets/img/relic/WHITE_BEAST_STATUE.png"
+ },
+ {
+  "relicId": 475,
+  "zhName": "白星",
+  "enName": "WHITE_STAR",
+  "rarity": "稀有遗物",
+  "effect": "精英敌人额外掉落一组稀有卡牌奖励。",
+  "link": "white-star",
+  "id": 475,
+  "imageLocal": "assets/img/relic/WHITE_STAR.png"
+ },
+ {
+  "relicId": 581,
+  "zhName": "羽翼之靴",
+  "enName": "WINGED_GREAVES",
+  "rarity": "先古遗物",
+  "effect": "你在选择下一层的房间时有3次机会可以无视当前的路线。",
+  "link": "winged-greaves",
+  "id": 581,
+  "imageLocal": "assets/img/relic/WINGED_GREAVES.png"
+ },
+ {
+  "relicId": 504,
+  "zhName": "羽翼护符",
+  "enName": "WING_CHARM",
+  "rarity": "商店遗物",
+  "effect": "每组卡牌奖励中，都会有随机一张牌被附魔：迅捷1。",
+  "link": "wing-charm",
+  "id": 504,
+  "imageLocal": "assets/img/relic/WING_CHARM.png"
+ },
+ {
+  "relicId": 425,
+  "zhName": "旺购神秘券",
+  "enName": "WONGOS_MYSTERY_TICKET",
+  "rarity": "事件遗物",
+  "effect": "在5场战斗后，获得随机3件遗物。",
+  "link": "wongos-mystery-ticket",
+  "id": 425,
+  "imageLocal": "assets/img/relic/WONGOS_MYSTERY_TICKET.png"
+ },
+ {
+  "relicId": 424,
+  "zhName": "旺购客户感恩徽章",
+  "enName": "WONGO_CUSTOMER_APPRECIATION_BADGE",
+  "rarity": "事件遗物",
+  "effect": "没有任何作用。",
+  "link": "wongo-customer-appreciation-badge",
+  "id": 424,
+  "imageLocal": "assets/img/relic/WONGO_CUSTOMER_APPRECIATION_BADGE.png"
+ },
+ {
+  "relicId": 503,
+  "zhName": "美味饼干",
+  "enName": "YUMMY_COOKIE",
+  "rarity": "先古遗物",
+  "effect": "拾起时，升级4张牌。",
+  "link": "yummy-cookie",
+  "id": 503,
+  "imageLocal": "assets/img/relic/YUMMY_COOKIE.png"
+ }
+]

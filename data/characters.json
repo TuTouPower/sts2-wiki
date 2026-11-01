@@ -1,0 +1,32 @@
+[
+ {
+  "enName": "CHARACTER.SILENT",
+  "zhName": "静默猎手",
+  "winRate": 41.64,
+  "pickRate": 22.52
+ },
+ {
+  "enName": "CHARACTER.REGENT",
+  "zhName": "储君",
+  "winRate": 41.2,
+  "pickRate": 18.92
+ },
+ {
+  "enName": "CHARACTER.IRONCLAD",
+  "zhName": "铁甲战士",
+  "winRate": 40.64,
+  "pickRate": 30.58
+ },
+ {
+  "enName": "CHARACTER.NECROBINDER",
+  "zhName": "亡灵契约师",
+  "winRate": 37.91,
+  "pickRate": 13.93
+ },
+ {
+  "enName": "CHARACTER.DEFECT",
+  "zhName": "故障机器人",
+  "winRate": 34.28,
+  "pickRate": 14.04
+ }
+]

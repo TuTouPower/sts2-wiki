@@ -1,0 +1,2 @@
+# 爬虫仅使用 Python 标准库；Pillow 仅用于把卡图压缩为 WebP（缺失时自动跳过图片）
+Pillow>=10.0
