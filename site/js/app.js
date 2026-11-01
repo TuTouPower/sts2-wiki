@@ -336,18 +336,18 @@ const detailRender = {
            </div>` : ''}
          </div>`
       : detailImg(c, 'card');
-    return `<div class="detail">
+    /* 费用与类别不进标签：卡图上已印着。描述用「升级前：/升级后：」两段同行标签 */
+    return `<div class="detail detail-card">
       ${leftCol}
       <div>
-        <h2>${esc(c.zhName)}</h2><div class="tile-en">${esc(c.enName)}</div>
-        ${badges([rarBadge(c.rarity), c.category && { text: c.category }, c.type && { text: c.type },
+        <h2>${esc(c.zhName)} <span class="h-en">${esc(c.enName)}</span></h2>
+        ${badges([rarBadge(c.rarity), c.type && { text: c.type },
                   c.tier && { text: c.tier, cls: 'tier' },
-                  c.upgradeCost != null && c.upgradeCost !== '' && { text: `费用 ${c.upgradeCost}` },
                   c.buildType && { text: `流派 ${c.buildType}` }, c.mechanism && { text: c.mechanism }])}
-        <h4>效果</h4><div class="detail-desc">${esc(c.description || '（暂无）')}</div>
-        ${c.upgradeDescription ? `<h4>升级后</h4><div class="detail-desc up">${esc(c.upgradeDescription)}</div>` : ''}
-        <h4>实战统计（当前筛选 ${scope.length} 张内排名）</h4><div class="stat-grid">${stats.join('')}</div>
-      </div></div>`;
+        <p class="desc-line"><span class="desc-label">升级前：</span>${esc(c.description || '（暂无）')}</p>
+        ${c.upgradeDescription ? `<p class="desc-line up"><span class="desc-label">升级后：</span>${esc(c.upgradeDescription)}</p>` : ''}
+      </div>
+      <div class="detail-stats">${stats.join('')}</div></div>`;
   },
   relics(r) {
     return `<div class="detail">

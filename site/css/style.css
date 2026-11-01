@@ -248,6 +248,15 @@ a { color: var(--accent); }
 .detail-desc { font-size: 15px; line-height: 1.65; white-space: pre-wrap; }
 .detail-desc.up { color: var(--text-dim); }
 .stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(108px, 1fr)); gap: 8px; }
+/* 卡牌弹窗：英文名跟在中文名后同行；描述两段同行标签；统计整行垫底 */
+.detail h2 .h-en { font-size: 15px; font-weight: 500; color: var(--text-dim); letter-spacing: .4px; margin-left: 4px; }
+.desc-line { font-size: 15px; line-height: 1.65; margin: 12px 0 0; }
+.desc-line .desc-label { color: var(--text-dim); font-weight: 600; }
+.desc-line.up { background: var(--accent-soft); border-radius: 10px; padding: 9px 12px; }
+.detail-stats {
+  grid-column: 1 / -1; display: grid; gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(108px, 1fr));
+}
 .stat-cell { background: var(--bg-soft); border-radius: 10px; padding: 9px 11px; }
 .stat-cell .k { font-size: 11.5px; color: var(--text-dim); }
 .stat-cell .v { font-size: 17px; font-weight: 700; margin-top: 2px; }
