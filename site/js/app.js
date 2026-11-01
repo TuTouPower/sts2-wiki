@@ -122,10 +122,16 @@ function renderFilterbar() {
     const vals = fc.values(items);
     if (state.tab === 'cards' && fc.key === 'type') {
       /* 角色筛选：带头像的按钮组（对齐源站样式） */
+      /* 只有当前选中的角色显示全名，其余只显示头像（悬停/长按有 title 提示） */
       html += `<span class="chips"><span class="chips-label">${esc(fc.label)}</span>` +
         `<button type="button" class="chip text-only ${!f.type ? 'active' : ''}" data-chip="">全部</button>` +
-        vals.map((v) => `<button type="button" class="chip ${TYPE_ICONS[v] ? '' : 'text-only'} ${f.type === v ? 'active' : ''}" data-chip="${esc(v)}">` +
-          (TYPE_ICONS[v] ? `<img src="${esc(TYPE_ICONS[v])}" alt="">` : '') + `${esc(v)}</button>`).join('') +
+        vals.map((v) => {
+          const active = f.type === v;
+          const cls = !TYPE_ICONS[v] ? 'text-only' : (active ? '' : 'icon-only');
+          return `<button type="button" class="chip ${cls} ${active ? 'active' : ''}" data-chip="${esc(v)}" title="${esc(v)}" aria-label="${esc(v)}">` +
+            (TYPE_ICONS[v] ? `<img src="${esc(TYPE_ICONS[v])}" alt="">` : '') +
+            (active || !TYPE_ICONS[v] ? esc(v) : '') + `</button>`;
+        }).join('') +
         `</span>`;
       continue;
     }

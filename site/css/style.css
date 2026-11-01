@@ -126,6 +126,7 @@ a { color: var(--accent); }
 }
 .chip img { width: 24px; height: 24px; border-radius: 50%; display: block; }
 .chip.text-only { padding-left: 11px; }
+.chip.icon-only { padding: 4px; }
 .chip.active { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); }
 .chip:active { transform: scale(.96); }
 
