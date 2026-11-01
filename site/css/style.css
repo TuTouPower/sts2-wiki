@@ -42,6 +42,9 @@
 .rar-特殊 { --rar: #b45cd9; }
 .rar-诅咒 { --rar: #555f73; }
 
+/* hidden 属性必须压过 .modal-backdrop/.grid 等类里写死的 display，否则元素藏不住 */
+[hidden] { display: none !important; }
+
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body {
