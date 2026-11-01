@@ -173,37 +173,50 @@ function imgOrPh(item, kind) {
   return `<div class="tile-img ${kind}"><span class="tile-ph">${esc((item.zhName || '?').slice(0, 1))}</span></div>`;
 }
 
+/* 卡片底部显示的指标跟随当前排序（按名称排序时回落到胜率） */
+const CARD_STAT_LABEL = { winRate: '胜率', pickRate: '选取率', skipRate: '跳过率', upgradeRate: '升级率' };
+
 const tileRender = {
   cards(c, i) {
+    const f = state.filters.cards;
+    const sk = CARD_STAT_LABEL[state.sort.cards] ? state.sort.cards : 'winRate';
+    /* 已作为筛选条件的字段不再在结果卡上重复显示标签 */
     return `<button class="tile" type="button" data-open="cards" data-en="${esc(c.enName)}">
       <span class="tile-idx">${i + 1}</span>
       ${imgOrPh(c, 'card')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(c.zhName)}</span><br><span class="tile-en">${esc(c.enName)}</span></span>
-        ${badges([rarBadge(c.rarity), c.category && { text: c.category }, c.type && { text: c.type },
-                  c.tier && { text: c.tier, cls: 'tier' }])}
-        ${statBar('胜率', cRate(c, 'winRate'))}
+        ${badges([!f.rarity && rarBadge(c.rarity),
+                  !f.category && c.category && { text: c.category },
+                  !f.type && c.type && { text: c.type },
+                  !f.tier && c.tier && { text: c.tier, cls: 'tier' }])}
+        ${statBar(CARD_STAT_LABEL[sk], cRate(c, sk))}
       </span></button>`;
   },
   relics(r, i) {
+    const f = state.filters.relics;
     return `<button class="tile" type="button" data-open="relics" data-en="${esc(r.enName)}">
       <span class="tile-idx">${i + 1}</span>
       ${imgOrPh(r, 'relic')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(r.zhName)}</span><br><span class="tile-en">${esc(r.enName)}</span></span>
-        ${badges([rarBadge(r.rarity)])}
+        ${badges([!f.rarity && rarBadge(r.rarity)])}
         <span class="tile-effect">${esc(r.effect)}</span>
       </span></button>`;
   },
   enemies(e, i) {
+    const f = state.filters.enemies;
     const hard = num(e.avgWinRate) != null && num(e.avgWinRate) < 60;
+    const statHtml = state.sort.enemies === 'fights'
+      ? `<div class="stat-row"><div class="stat-head"><span>交战次数</span><b>${esc(e.totalFights ?? '—')}</b></div></div>`
+      : statBar('玩家胜率', e.avgWinRate, hard);
     return `<button class="tile" type="button" data-open="enemies" data-en="${esc(e.enName)}">
       <span class="tile-idx">${i + 1}</span>
       ${imgOrPh(e, 'boss')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(e.zhName)}</span><br><span class="tile-en">${esc(e.enName)}</span></span>
-        ${badges([e.enemyType && { text: e.enemyType }, e.blood && { text: `HP ${e.blood}` }])}
-        ${statBar('玩家胜率', e.avgWinRate, hard)}
+        ${badges([!f.enemyType && e.enemyType && { text: e.enemyType }, e.blood && { text: `HP ${e.blood}` }])}
+        ${statHtml}
       </span></button>`;
   },
 };
