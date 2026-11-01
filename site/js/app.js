@@ -168,8 +168,9 @@ function imgOrPh(item, kind) {
 }
 
 const tileRender = {
-  cards(c) {
+  cards(c, i) {
     return `<button class="tile" type="button" data-open="cards" data-en="${esc(c.enName)}">
+      <span class="tile-idx">${i + 1}</span>
       ${imgOrPh(c, 'card')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(c.zhName)}</span><br><span class="tile-en">${esc(c.enName)}</span></span>
@@ -178,8 +179,9 @@ const tileRender = {
         ${statBar('胜率', cRate(c, 'winRate'))}
       </span></button>`;
   },
-  relics(r) {
+  relics(r, i) {
     return `<button class="tile" type="button" data-open="relics" data-en="${esc(r.enName)}">
+      <span class="tile-idx">${i + 1}</span>
       ${imgOrPh(r, 'relic')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(r.zhName)}</span><br><span class="tile-en">${esc(r.enName)}</span></span>
@@ -187,9 +189,10 @@ const tileRender = {
         <span class="tile-effect">${esc(r.effect)}</span>
       </span></button>`;
   },
-  enemies(e) {
+  enemies(e, i) {
     const hard = num(e.avgWinRate) != null && num(e.avgWinRate) < 60;
     return `<button class="tile" type="button" data-open="enemies" data-en="${esc(e.enName)}">
+      <span class="tile-idx">${i + 1}</span>
       ${imgOrPh(e, 'boss')}
       <span class="tile-body">
         <span><span class="tile-name">${esc(e.zhName)}</span><br><span class="tile-en">${esc(e.enName)}</span></span>
@@ -244,7 +247,7 @@ function render() {
   }
   charWrap.hidden = true; grid.hidden = false;
   const list = currentList();
-  grid.innerHTML = list.map((x) => tileRender[state.tab](x)).join('');
+  grid.innerHTML = list.map((x, i) => tileRender[state.tab](x, i)).join('');
   $('#resultMeta').textContent = `共 ${list.length} 条`;
   $('#emptyTip').hidden = list.length > 0;
 }

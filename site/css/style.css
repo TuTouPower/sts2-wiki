@@ -140,8 +140,18 @@ a { color: var(--accent); }
   background: var(--bg-elev); border: 1px solid var(--border); border-radius: var(--radius);
   overflow: hidden; cursor: pointer; box-shadow: var(--shadow);
   display: flex; flex-direction: column; text-align: left; padding: 0;
-  color: var(--text); font: inherit;
+  color: var(--text); font: inherit; position: relative;
   transition: transform .12s, box-shadow .12s;
+}
+/* 当前筛选+排序结果内的序号（左上角） */
+.tile-idx {
+  position: absolute; top: 8px; left: 8px; z-index: 3;
+  min-width: 26px; height: 26px; padding: 0 6px;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: rgba(8, 10, 18, .8); color: #fff;
+  font-size: 13px; font-weight: 700; border-radius: 999px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, .35);
+  pointer-events: none;
 }
 .tile:hover { transform: translateY(-2px); }
 .tile:active { transform: scale(.98); }
